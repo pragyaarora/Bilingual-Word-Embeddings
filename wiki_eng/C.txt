@@ -1,0 +1,260 @@
+C
+This article is about the letter. For other uses, see C (disambiguation).
+For technical reasons, "C#" redirects here. For uses of C#, see C-sharp.
+For technical reasons, "C#Builder" redirects here. For the computer program, see CSharpBuilder.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2014) (Learn how and when to remove this template message)C
+C c
+(See below)Usage
+Writing system
+Latin script
+Type
+Alphabetic
+Language of origin
+Latin language
+Phonetic usage
+[c]
+[k]
+[t͡ʃ]
+[t͡s(ʰ)]
+[d͡ʒ]
+[ʃ]
+[s̝]
+[ʕ]
+[ʔ]
+Others
+Unicode value
+U+0043, U+0063
+Alphabetical position
+3
+Numerical value: 3
+History
+DevelopmentجΓ γ𐌂C c
+Variations
+(See below)
+Other
+Associated numbers
+3
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+ISO basic
+Latin alphabetAa
+Bb
+Cc
+Dd
+Ee
+Ff
+Gg
+Hh
+Ii
+Jj
+Kk
+Ll
+Mm
+Nn
+Oo
+Pp
+Qq
+Rr
+Ss
+Tt
+Uu
+Vv
+Ww
+Xx
+Yy
+Zz
+v
+t
+e
+C in copyright symbol
+C is the third letter in the English alphabet and a letter of the alphabets of many other writing systems which inherited it from the Latin alphabet. It is also the third letter of the ISO basic Latin alphabet. It is named cee (pronounced /siː/) in English.[1]Contents
+1 History
+2 Later use
+3 Use in writing systems3.1 English
+3.2 Other languages
+3.3 Other systems
+3.4 Digraphs
+4 Related characters4.1 Ancestors, descendants and siblings
+4.2 Derived ligatures, abbreviations, signs and symbols
+5 Computing codes
+6 Other representations
+7 See also
+8 References
+9 External linksHistory
+Phoenician
+gaml
+Arabic
+ǧīm
+Hebrew
+gimel
+Greek
+Gamma
+Etruscan 
+C
+Old Latin
+C (G)
+"C" comes from the same letter as "G". The Semites named it gimel. The sign is possibly adapted from an Egyptian hieroglyph for a staff sling, which may have been the meaning of the name gimel. Another possibility is that it depicted a camel, the Semitic name for which was gamal. Barry B. Powell, a specialist in the history of writing, states "It is hard to imagine how gimel = "camel" can be derived from the picture of a camel (it may show his hump, or his head and neck!)".[2]
+In the Etruscan language, plosive consonants had no contrastive voicing, so the Greek 'Γ' (Gamma) was adopted into the Etruscan alphabet to represent /k/. Already in the Western Greek alphabet, Gamma first took a '' form in Early Etruscan, then '' in Classical Etruscan. In Latin it eventually took the 'c' form in Classical Latin. In the earliest Latin inscriptions, the letters 'c k q' were used to represent the sounds /k/ and /ɡ/ (which were not differentiated in writing). Of these, 'q' was used to represent /k/ or /ɡ/ before a rounded vowel, 'k' before 'a', and 'c' elsewhere.[3] During the 3rd century BC, a modified character was introduced for /ɡ/, and 'c' itself was retained for /k/. The use of 'c' (and its variant 'g') replaced most usages of 'k' and 'q'. Hence, in the classical period and after, 'g' was treated as the equivalent of Greek gamma, and 'c' as the equivalent of kappa; this shows in the romanization of Greek words, as in 'ΚΑΔΜΟΣ', 'ΚΥΡΟΣ', and 'ΦΩΚΙΣ' came into Latin as 'cadmvs', 'cyrvs' and 'phocis', respectively.
+Other alphabets have letters homoglyphic to 'c' but not analogous in use and derivation, like the Cyrillic letter Es (С, с) which derives from the lunate sigma, named due to its resemblance to the crescent moon.
+Later use
+When the Roman alphabet was introduced into Britain, ⟨c⟩ represented only /k/, and this value of the letter has been retained in loanwords to all the insular Celtic languages: in Welsh, Irish, Gaelic, ⟨c⟩ represents only /k/. The Old English Latin-based writing system was learned from the Celts, apparently of Ireland; hence ⟨c⟩ in Old English also originally represented /k/; the Modern English words kin, break, broken, thick, and seek, all come from Old English words written with ⟨c⟩: cyn, brecan, brocen, þicc, and séoc. But during the course of the Old English period, /k/ before front vowels (/e/ and /i/) were palatalized, having changed by the tenth century to [tʃ], though ⟨c⟩ was still used, as in cir(i)ce, wrecc(e)a. On the continent, meanwhile, a similar phonetic change had also been going on (for example, in Italian).
+In Vulgar Latin, /k/ became palatalized to [tʃ] in Italy and Dalmatia; in France and the Iberian peninsula, it became [ts]. Yet for these new sounds ⟨c⟩ was still used before the letters ⟨e⟩ and ⟨i⟩. The letter thus represented two distinct values. Subsequently, the Latin phoneme /kʷ/ (spelled ⟨qv⟩) de-labialized to /k/ meaning that the various Romance languages had /k/ before front vowels. In addition, Norman used the letter ⟨k⟩ so that the sound /k/ could be represented by either ⟨k⟩ or ⟨c⟩, the latter of which could represent either /k/ or /ts/ depending on whether it preceded a front vowel letter or not. The convention of using both ⟨c⟩ and ⟨k⟩ was applied to the writing of English after the Norman Conquest, causing a considerable re-spelling of the Old English words. Thus while Old English candel, clif, corn, crop, cú, remained unchanged, Cent, cæ´ᵹ (cé´ᵹ), cyng, brece, séoce, were now (without any change of sound) spelled 'Kent', 'keȝ', 'kyng', 'breke', and 'seoke'; even cniht ('knight') was subsequently changed to 'kniht' and þic ('thick') changed to 'thik' or 'thikk'. The Old English 'cw' was also at length displaced by the French 'qu' so that the Old English cwén ('queen') and cwic ('quick') became Middle English 'quen' 'quik', respectively. The sound [tʃ], to which Old English palatalized /k/ had advanced, also occurred in French, chiefly from Latin /k/ before 'a'. In French it was represented by the digraph ⟨ch⟩, as in champ (from Latin camp-um) and this spelling was introduced into English: the Hatton Gospels, written about 1160, have in Matt. i-iii, child, chyld, riche, mychel, for the cild, rice, mycel, of the Old English version whence they were copied. In these cases, the Old English ⟨c⟩ gave place to ⟨k qu ch⟩ but, on the other hand, ⟨c⟩ in its new value of /ts/ came in largely in French words like processiun, emperice, grace, and was also substituted for 'ts' in a few Old English words, as miltse, bletsien, in early Middle English milce, blecien. By the end of the thirteenth century both in France and England, this sound /ts/ de-affricated to /s/; and from that time ⟨c⟩ has represented /s/ before front vowels either for etymological reasons, as in lance, cent, or to avoid the ambiguity due to the "etymological" use of ⟨s⟩ for /z/, as in ace, mice, once, pence, defence.
+Thus, to show etymology, English spelling has advise, devise (instead of advize, devize), while advice, device, dice, ice, mice, twice, etc., do not reflect etymology; example has extended this to hence, pence, defence, etc., where there is no etymological reason for using ⟨c⟩. Former generations also wrote sence for sense. Hence, today the Romance languages and English have a common feature inherited from Vulgar Latin spelling conventions where ⟨c⟩ takes on either a "hard" or "soft" value depending on the following letter.
+Use in writing systems
+English
+In English orthography, ⟨c⟩ generally represents the "soft" value of /s/ before the letters ⟨e⟩ (including the Latin-derived digraphs ⟨ae⟩ and ⟨oe⟩, or the corresponding ligatures ⟨æ⟩ and ⟨œ⟩), ⟨i⟩, and ⟨y⟩, and a "hard" value of /k/ before any other letters or at the end of a word. However, there are a number of exceptions in English: "soccer" and "Celt" are words that have /k/ where /s/ would be expected.
+The "soft" ⟨c⟩ may represent the /ʃ/ sound in the digraph ⟨ci⟩ when this precedes a vowel, as in the words 'delicious' and 'appreciate'.
+The digraph ⟨ch⟩ most commonly represents /tʃ/, but can also represent /k/ (mainly in words of Greek origin) or /ʃ/ (mainly in words of French origin). For some dialects of English, it may also represent /x/ in words like loch, while other speakers pronounce the final sound as /k/. The trigraph ⟨tch⟩ always represents /tʃ/.
+The digraph ⟨ck⟩ is often used to represent the sound /k/ after short vowels.
+Other languages
+In the Romance languages French, Spanish, Italian, Romanian and Portuguese, ⟨c⟩ generally has a "hard" value of /k/ and a "soft" value whose pronunciation varies by language. In French, Portuguese, Catalan and Spanish from Latin America and southern Spain, the soft ⟨c⟩ value is /s/ as it is in English. In the Spanish spoken in northern and central Spain, the soft ⟨c⟩ is a voiceless dental fricative /θ/. In Italian and Romanian, the soft ⟨c⟩ is [t͡ʃ].
+All Balto-Slavic languages that use the Latin alphabet, as well as Albanian, Hungarian, Pashto, several Sami languages, Esperanto, Ido, Interlingua, and Americanist phonetic notation (and those aboriginal languages of North America whose practical orthography derives from it) use ⟨c⟩ to represent /t͡s/, the voiceless alveolar or voiceless dental sibilant affricate. In romanized Mandarin Chinese, the letter represents an aspirated version of this sound, /t͡sʰ/.
+Among non-European languages that have adopted the Latin alphabet, ⟨c⟩ represents a variety of sounds. Yup'ik, Indonesian, Malay, and a number of African languages such as Hausa, Fula, and Manding share the soft Italian value of /t͡ʃ/. In Azeri, Crimean Tatar, Kurmanji Kurdish, and Turkish ⟨c⟩ stands for the voiced counterpart of this sound, the voiced postalveolar affricate /d͡ʒ/. In Yabem and similar languages, such as Bukawa, ⟨c⟩ stands for a glottal stop /ʔ/. Xhosa and Zulu use this letter to represent the click /ǀ/. In some other African languages, such as Beninese Yoruba, ⟨c⟩ is used for /ʃ/. In Fijian, ⟨c⟩ stands for a voiced dental fricative /ð/, while in Somali it has the value of /ʕ/.
+The letter ⟨c⟩ is also used as a transliteration of Cyrillic ⟨ц⟩ in the Latin forms of Serbian, Macedonian, and sometimes Ukrainian, along with the digraph ⟨ts⟩.
+Other systems
+As a phonetic symbol, lowercase ⟨c⟩ is the International Phonetic Alphabet (IPA) and X-SAMPA symbol for the voiceless palatal plosive, and capital ⟨C⟩ is the X-SAMPA symbol for the voiceless palatal fricative.
+Digraphs
+There are several common digraphs with ⟨c⟩, the most common being ⟨ch⟩, which in some languages (such as German) is far more common than ⟨c⟩ alone. ⟨ch⟩ takes various values in other languages.
+As in English, ⟨ck⟩, with the value /k/, is often used after short vowels in other Germanic languages such as German and Swedish (but some other Germanic languages use ⟨kk⟩ instead, such as Dutch and Norwegian). The digraph ⟨cz⟩ is found in Polish and ⟨cs⟩ in Hungarian, both representing /t͡ʃ/. The digraph ⟨sc⟩ represents /ʃ/ in Old English, Italian, and a few languages related to Italian (where this only happens before front vowels, while otherwise it represents /sk/). The trigraph ⟨sch⟩ represents /ʃ/ in German.
+Related characters
+Ancestors, descendants and siblings𐤂 : Semitic letter Gimel, from which the following symbols originally deriveΓ γ : Greek letter Gamma, from which C derivesG g : Latin letter G, which is derived from Latin C
+Phonetic alphabet symbols related to C:ɕ : Small c with curl
+ʗ : stretched C
+ᶜ : Modifier letter small c[4]
+ᶝ : Modifier letter small c with curl[4]
+ᴄ : Small capital c is used in the Uralic Phonetic Alphabet.[5]
+C with diacritics: Ć ć Ĉ ĉ Č č Ċ ċ Ḉ ḉ Ƈ ƈ C̈ c̈ Ȼ ȼ Ç ç ꞔ Ꞓ ꞓ
+Ↄ ↄ : Claudian letters[6]Derived ligatures, abbreviations, signs and symbols© : copyright symbol
+℃ : degree Celsius
+¢ : cent
+₡ : colón (currency)
+₢ : Brazilian cruzeiro (currency)
+₵ : Ghana cedi (currency)
+₠ : European Currency Unit CE
+ℂ : double struck C
+ℭ : blackletter C
+Ꜿ ꜿ : Medieval abbreviation for Latin syllables con- and com-, Portuguese -us and -os[7]Computing codes
+Character
+C
+c
+Unicode name
+LATIN CAPITAL LETTER C
+  LATIN SMALL LETTER C
+Encodings
+decimal
+hex
+decimal
+hex
+Unicode
+67
+U+0043
+99
+U+0063
+UTF-8
+67
+43
+99
+63
+Numeric character reference
+&#67;
+&#x43;
+&#99;
+&#x63;
+EBCDIC family
+195
+C3
+131
+83
+ASCII 1
+67
+43
+99
+631 Also for encodings based on ASCII, including the DOS, Windows, ISO-8859 and Macintosh families of encodings.Other representationsNATO phonetic
+Morse code
+Charlie
+–·–·
+Signal flag
+Flag semaphore
+American manual alphabet (ASL fingerspelling)
+Braille
+dots-14See alsoHard and soft CReferences
+^ "C" Oxford English Dictionary, 2nd edition (1989); Merriam-Webster's Third New International Dictionary of the English Language, Unabridged (1993); "cee", op. cit.
+^ Powell, Barry B. (27 Mar 2009). Writing: Theory and History of the Technology of Civilization. Wiley Blackwell. p. 182. ISBN 978-1405162562. 
+^ Sihler, Andrew L. (1995). New Comparative Grammar of Greek and Latin (illustrated ed.). New York: Oxford University Press. p. 21. ISBN 0-19-508345-8. 
+^ a b Constable, Peter (2004-04-19). "L2/04-132 Proposal to add additional phonetic characters to the UCS" (PDF). 
+^ Everson, Michael; et al. (2002-03-20). "L2/02-141: Uralic Phonetic Alphabet characters for the UCS" (PDF). 
+^ Everson, Michael (2005-08-12). "L2/05-193R2: Proposal to add Claudian Latin letters to the UCS" (PDF). 
+^ Everson, Michael; Baker, Peter; Emiliano, António; Grammel, Florian; Haugen, Odd Einar; Luft, Diana; Pedro, Susana; Schumacher, Gerd; Stötzner, Andreas (2006-01-30). "L2/06-027: Proposal to add Medievalist characters to the UCS" (PDF). 
+External linksWikisource has the text of the 1911 Encyclopædia Britannica article C. Media related to C at Wikimedia Commons
+ The dictionary definition of C at Wiktionary
+ The dictionary definition of c at Wiktionaryv
+t
+e
+Latin script
+History
+Spread
+Romanization
+Roman numeralsAlphabets (list)Classical Latin alphabet
+ISO basic Latin alphabet
+phonetic alphabetsInternational Phonetic Alphabet
+X-SAMPA
+Spelling alphabetLetters (list)Letters of the ISO basic Latin alphabetAa
+Bb
+Cc
+Dd
+Ee
+Ff
+Gg
+Hh
+Ii
+Jj
+Kk
+Ll
+Mm
+Nn
+Oo
+Pp
+Qq
+Rr
+Ss
+Tt
+Uu
+Vv
+Ww
+Xx
+Yy
+ZzLetter C with diacriticsĆć
+Ĉĉ
+Čč
+Ċċ
+Çç
+Ḉḉ
+Ȼȼ
+Ꞓꞓ
+Ƈƈ
+ɕ
+ꞔMultigraphs
+Digraphsch
+cz
+dž
+dz
+gh
+ij
+ll
+ly
+nh
+ny
+sh
+sz
+thTrigraphsdzs
+eauTetragraphsoughPentagraphstzsch
+Keyboard layouts (list)QWERTY
+QWERTZ
+AZERTY
+Dvorak
+ColemakStandardsISO/IEC 646
+Unicode
+Western Latin character setsListsprecomposed Latin characters in Unicode
+letters used in mathematics
+Diacritics
+Palaeography
+Categories: GraphemesISO basic Latin lettersHidden categories: Articles needing additional references from December 2014All articles needing additional referencesWikipedia indefinitely semi-protected pagesWikipedia indefinitely move-protected pagesArticles containing explicitly cited English-language textArticles containing Greek-language text

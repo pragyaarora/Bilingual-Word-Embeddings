@@ -1,0 +1,214 @@
+Hangover
+For other uses, see Hangover (disambiguation)
+Hangover
+Synonyms
+veisalgia from Norwegian: kveis, "discomfort following overindulgence", and Greek: ἄλγος álgos, "pain"The Day After by Edvard Munch, 1894-95
+Pronunciation/ˈhæŋoʊvə/Specialty
+Psychiatry, toxicology
+A hangover is the experience of various unpleasant physiological and psychological effects following the consumption of ethanol, as found in wine, beer and distilled spirits. Hangovers can last for several hours or for more than 24 hours. Typical symptoms of a hangover may include headache, drowsiness, concentration problems, dry mouth, dizziness, fatigue, gastrointestinal distress (e.g., vomiting), absence of hunger, depression, sweating, nausea, hyper-excitability and anxiety.[1]
+While the causes of a hangover are still poorly understood,[2] several factors are known to be involved including acetaldehyde accumulation, changes in the immune system and glucose metabolism, dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation and malnutrition. Beverage-specific effects of additives or by-products such as congeners in alcoholic beverages also play an important role.[1] The symptoms occur typically after the intoxicating effect of the alcohol begins to wear off, generally the morning after a night of heavy drinking.[3]
+Though many possible remedies and folk cures have been suggested, there is no compelling evidence to suggest that any are effective for preventing or treating alcohol hangover.[4] Avoiding alcohol or drinking in moderation are the most effective ways to avoid a hangover.[4] The socioeconomic consequences and health risks of alcohol hangover include workplace absenteeism, impaired job performance, reduced productivity and poor academic achievement. A hangover may also compromise potentially dangerous daily activities such as driving a car or operating heavy machinery.[5]Contents
+1 Signs and symptoms
+2 Causes2.1 Pathophysiology
+2.2 Acetaldehyde
+2.3 Congeners
+2.4 Dehydration
+2.5 Low blood sugar
+2.6 Immune system
+2.7 Person-related factors
+3 Management3.1 Potentially beneficial
+3.2 Unsupported remedies
+4 Epidemiology
+5 Society and culture
+6 Research
+7 See also
+8 References
+9 External linksSigns and symptoms[edit]
+A painting from 1681 showing a person affected by nausea, a typical symptom of alcohol hangover
+An alcohol hangover is associated with a variety of symptoms that may include drowsiness, headache, concentration problems, dry mouth, dizziness, gastrointestinal complaints, fatigue, sweating, nausea, hyper-excitability, anxiety, and a feeling of general discomfort that may last more than 24 hours.[6] Alcohol hangover symptoms develop when blood alcohol concentration falls considerably and peak when it returns to almost zero.[5][7] Hangover symptoms validated in controlled studies include general malaise, thirst, headache, feeling dizzy or faint, tiredness, loss of appetite, nausea, stomach ache, and feeling as though one's heart is racing. Some symptoms such as changes in sleep pattern and gastrointestinal distress are attributed to direct effects of the alcohol intoxication, or withdrawal symptoms.[8] Drowsiness and impaired cognitive function are the two dominant features of alcohol hangover.[7]
+Causes[edit]
+The processes which lead to hangovers are still poorly understood.[2] Several pathophysiological changes may give rise to the alcohol hangover including increased levels of acetaldehyde, hormonal alterations of the cytokine pathways and decrease of the availability of glucose. Additional associated phenomena are dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation and insufficient eating.[1] Some complex organic molecules found in alcoholic beverages known as congeners may play an important role in producing hangover effects because some, such as methanol, are metabolized to the notably toxic substances formaldehyde and formic acid.[1]
+Pathophysiology[edit]
+Alcohol flush reaction as a result of the accumulation of acetaldehyde, the first metabolite of alcohol
+After being ingested, ethanol is first converted to acetaldehyde by the enzyme alcohol dehydrogenase and then to acetic acid by oxidation and egestion process. These reactions also convert nicotinamide adenine dinucleotide (NAD+) to its reduced form NADH in a redox reaction. By causing an imbalance of the NAD+/NADH redox system, alcoholic beverages make normal bodily functions more difficult. Consequences of the alcohol induced redox changes in the human body include increased triglyceride production, increased amino acid catabolism, inhibition of the citric acid cycle, lactic acidosis, ketoacidosis, hyperuricemia, disturbance in cortisol and androgen metabolism and increased fibrogenesis. The metabolism of glucose and insulin are also influenced.[9] However, recent studies showed no significant correlation between hangover severity and the concentrations of various hormones, electrolytes, free fatty acids, triglycerides, lactate, ketone bodies, cortisol, and glucose in blood and urine samples.[3]
+Alcohol also induces the CYP2E1 enzyme, which metabolizes ethanol and other substances into more reactive toxins. In particular, in binge drinking the enzyme is activated and plays a role in creating a harmful condition known as oxidative stress which can lead to cell death.[10]
+Acetaldehyde[edit]
+Acetaldehyde, the first by-product of ethanol, is between 10 and 30 times more toxic than alcohol itself[11] and can remain at an elevated plateau for many hours after initial ethanol consumption.[12] In addition, certain genetic factors can amplify the negative effects of acetaldehyde. For example, some people (predominantely East Asians) have a mutation in their alcohol dehydrogenase gene that makes this enzyme unusually fast at converting ethanol to acetaldehyde. In addition, about half of all East Asians convert acetaldehyde to acetic acid more slowly (via acetaldehyde dehydrogenase), causing a higher buildup of acetaldehyde than normally seen in other groups.[13] The high concentration of acetaldehyde causes the alcohol flush reaction, colloquially known as the "Asian Flush". Since the alcohol flush reaction is highly uncomfortable and the possibility of hangovers is immediate and severe, people with this gene variant are less likely to become alcoholics.[14][15]
+Clear liquors such as vodka have a lower concentration of congeners
+Acetaldehyde may also influence glutathione peroxidase, a key antioxidant enzyme, and increases the susceptibility to oxidative stress.[10] Likewise, acetic acid (or the acetate ion) can cause additional problems. One study found that injecting sodium acetate into rats caused them to have nociceptive behavior (headaches). In addition, there is a biochemical explanation for this finding. High acetate levels cause adenosine to accumulate in many parts of the brain. But when the rats were given caffeine, which blocks the action of adenosine, they no longer experienced headaches.[16][17][18]
+Congeners[edit]
+In addition to ethanol and water, most alcoholic drinks also contain congeners, either as flavoring or as a by-product of fermentation and the wine aging process. While ethanol is by itself sufficient to produce most hangover effects, congeners may potentially aggravate hangover and other residual effects to some extent. Congeners include substances such as amines, amides, acetones, acetaldehydes, polyphenols, methanol, histamines, fusel oil, esters, furfural, and tannins, many but not all of which are toxic.[8] One study in mice indicates that fusel oil may have a mitigating effect on hangover symptoms,[19] while some whiskey congeners such as butanol protect the stomach against gastric mucosal damage in the rat.[20] Different types of alcoholic beverages contain different amounts of congeners. In general, dark liquors have a higher concentration while clear liquors have a lower concentration. Whereas vodka has virtually no more congeners than pure ethanol, bourbon has a total congener content 37 times higher than that found in vodka.[8]
+Several studies have examined whether certain types of alcohol cause worse hangovers.[21][22][23][24] All four studies concluded that darker liquors, which have higher congeners, produced worse hangovers. One even showed that hangovers were worse and more frequent with darker liquors.[21] In a 2006 study, an average of 14 standard drinks (330 ml each) of beer was needed to produce a hangover, but only 7 to 8 drinks was required for wine or liquor (note that one standard drink has the same amount of alcohol regardless of type).[24] Another study ranked several drinks by their ability to cause a hangover as follows (from low to high): distilled ethanol diluted with fruit juice, beer, vodka, gin, white wine, whisky, rum, red wine and brandy.[23][24]
+One potent congener is methanol. It is naturally formed in small quantities during fermentation and it can be accidentally concentrated by improper distillation techniques. Metabolism of methanol produces some extremely toxic compounds, such as formaldehyde and formic acid, which may play a role in the severity of hangover. Ethanol slows the conversion of methanol into its toxic metabolites so that most of the methanol can be excreted harmlessly in the breath and urine without forming its toxic metabolites. This may explain the temporary postponement of symptoms reported in the common remedy of drinking more alcohol to relieve hangover symptoms.[8][25] Since methanol metabolism is effectively inhibited by consumption of alcohol, methanol accumulates during drinking and only begins to be metabolized once ethanol has been cleared. This delayed action makes it an attractive candidate explanation for delayed post-intoxication symptoms and correlations between methanol concentrations and the presence of hangover symptoms that have been found in studies.[3]
+Dehydration[edit]
+Ethanol has a dehydrating effect by causing increased urine production (diuresis), which could cause thirst, dry mouth, dizziness and may lead to an electrolyte imbalance. Studies suggest that electrolyte changes play only a minor role in the genesis of the alcohol hangover and are caused by dehydration effects. Drinking water may help relieve symptoms as a result of dehydration but it is unlikely that rehydration significantly reduces the presence and severity of alcohol hangover.[3] Alcohol's effect on the stomach lining can account for nausea because alcohol stimulates the production of hydrochloric acid in the stomach.
+Low blood sugar[edit]
+Studies show that alcohol hangover is associated with a decrease in blood glucose concentration (less than 70 ml/dl), but the relationship between blood glucose concentration and hangover severity is unclear.[3] Also known as insulin shock, hypoglycemia can lead to coma or even death.[26]
+Immune system[edit]
+In current research, the significant relationship between immune factors and hangover severity is the most convincing among all factors so far studied.[3] An imbalance of the immune system, in particular of cytokine metabolism has been identified as playing a role in the pathophysiology of the hangover state. Especially the hangover symptoms nausea, headache, and fatigue have been suggested to be mediated by changes in the immune system. The concentration of several cytokines have been found to be significantly increased in the blood after alcohol consumption. These include interleukin 12 (IL-12), interferon gamma (IFNγ) and interleukin 10 (IL-10).[27] Some pharmacological studies such as on tolfenamic acid[28] and Opuntia ficus-indica (OFI)[29] have also indicated an involvement of the immune system. These studies suggest that the presence and severity of hangover symptoms can probably be reduced by administration of a cyclooxygenase inhibitor such as aspirin or ibuprofen.[3]
+Person-related factors[edit]
+Several factors which do not in themselves cause alcohol hangover are known to influence its severity. These factors include personality, genetics, health status, age, sex, associated activities during drinking such as smoking, the use of other drugs, physical activity such as dancing, as well as sleep quality and duration.[3]Genetics: alleles associated with aldehyde dehydrogenase (ALDH) and flushing phenotypes (alcohol flush reaction) in Asians are known genetic factors that influence alcohol tolerance and the development of hangover effects. Existing data shows that drinkers with genotypes known to lead to acetaldehyde accumulation are more susceptible to hangover effects.[30] The fact that about 25% of heavy drinkers claim that they have never had a hangover is also an indication that genetic variation plays a role in individual differences of hangover severity.[5]
+Age: some people experience hangovers as getting worse as one ages. This is thought to be caused by declining supplies of alcohol dehydrogenase, the enzyme involved in metabolizing alcohol. Although it is actually unknown whether hangover symptoms and severity change with age, research shows that drinking patterns change across ages, and heavy drinking episodes that may result in hangover are much less often experienced as age increases.[5]
+Sex: at the same number of drinks, women are more prone to hangover than men, and this is likely explained by sex differences in the pharmacokinetics of alcohol. Women attain a higher blood alcohol concentration (BAC) than men at the same number of drinks. At equivalent BACs, men and women appear to be indistinguishable with respect to most hangover effects.[30]
+Cigarette smoking: acetaldehyde which is absorbed from cigarette smoking during alcohol consumption is regarded as a contributor to alcohol hangover symptoms.[10]Management[edit]
+Hangovers are poorly understood from a medical point of view.[31] Health care professionals prefer to study alcohol abuse from a standpoint of treatment and prevention, and there is a view that the hangover provides a useful, natural and intrinsic disincentive to excessive drinking.[32]
+Within the limited amount of serious study on the subject, there is debate about whether a hangover may be prevented or at least mitigated. There is also a vast body of folk medicine and simple quackery. A four-page literature review in the British Medical Journal concludes: "No compelling evidence exists to suggest that any conventional or complementary intervention is effective for preventing or treating alcohol hangover. The most effective way to avoid the symptoms of alcohol induced hangover is to avoid drinking."[4] Most remedies do not significantly reduce overall hangover severity. Some compounds reduce specific symptoms such as vomiting and headache, but are not effective in reducing other common hangover symptoms such as drowsiness and fatigue.[33]
+Potentially beneficial[edit]
+A bottle of Aspirin from 1899
+There is no evidence that any treatment for hangovers is very effective.[4][33]Rehydration: Drinking water before going to bed or during hangover may relieve dehydration-associated symptoms such as thirst, dizziness, dry mouth, and headache.[3][21]
+Non-steroidal anti-inflammatory drugs such as aspirin or ibuprofen have been proposed as a treatment for the headaches associated with a hangover. There however is no evidence to support a benefit, and there are concerns that taking alcohol and aspirin together may increase the risk of stomach bleeding and liver damage.[33]
+Tolfenamic acid, an inhibitor of prostaglandin synthesis, in a 1983 study reduced headache, nausea, vomiting, irritation but had no effect on tiredness in 30 people.[33]
+Pyritinol: A 1973 study found that large doses (several hundred times the recommended daily intake) of Pyritinol, a synthetic Vitamin B6 analog, can help to reduce hangover symptoms.[21] Possible side effects of pyritinol include hepatitis (liver damage) due to cholestasis and acute pancreatitis.[34][35]
+Yeast-based extracts: The difference in the change for discomfort, restlessness, and impatience were statistically significant but no significant differences on blood chemistry parameters, blood alcohol or acetaldehyde concentrations have been found, and it did not significantly improve general well-being.[33]Unsupported remedies[edit]
+See also: Hangover food
+Kudzu roots (Pueraria lobata), a common ingredient in herbal hangover remedies may have harmful effects when combined with alcohol
+Recommendations for foods, drinks and activities to relieve hangover symptoms abound. The ancient Romans, on the authority of Pliny the Elder, favored raw owl's eggs or fried canary,[36] while the "prairie oyster" restorative, introduced at the 1878 Paris World Exposition, calls for raw egg yolk mixed with Worcestershire sauce, Tabasco sauce, salt and pepper.[37] By 1938, the Ritz-Carlton Hotel provided a hangover remedy in the form of a mixture of Coca-Cola and milk[37] (Coca-Cola itself having been invented, by some accounts,[38][39] as a hangover remedy). Alcoholic writer Ernest Hemingway relied on tomato juice and beer.[40] Other purported hangover cures include cocktails such as Bloody Mary or Black Velvet (consisting of equal parts champagne and stout).[40] A 1957 survey by an American folklorist found widespread belief in the efficacy of heavy fried foods, tomato juice and sexual activity.[41]
+Other untested or discredited treatments include:Hair of the dog: The belief is that consumption of further alcohol after the onset of a hangover will relieve symptoms, based upon the theory that the hangover represents a form of alcohol withdrawal[32] and that by satiating the body's need for alcohol the symptoms will be relieved. Social drinkers and alcoholics claim that drinking more alcohol gives relief from hangover symptoms, but research shows that the use of alcohol as a hangover cure seems to predict current or future problem drinking and alcohol use disorder, through negative reinforcement and the development of physical dependence.[25][30] While the practice is popular in tradition[41] and promoted by many sellers of alcoholic beverages,[42] medical opinion holds that the practice merely postpones the symptoms, and courts addiction.[43] Favored choices include Fernet Branca[44] and Bloody Mary.[45]
+Kudzu (Pueraria montana var. lobata): The main ingredient in remedies such as kakkonto. A study concluded, "The chronic usage of Pueraria lobata at times of high ethanol consumption, such as in hangover remedies, may predispose subjects to an increased risk of acetaldehyde-related neoplasm and pathology. ... Pueraria lobata appears to be an inappropriate herb for use in herbal hangover remedies as it is an inhibitor of ALDH2."[46]
+Artichoke: Research shows that artichoke extract does not prevent the signs and symptoms of alcohol-induced hangover.[33]
+Sauna or steam-bath: Medical opinion holds this may be dangerous, as the combination of alcohol and hyperthermia increases the likelihood of dangerous cardiac arrhythmias.[47]
+Oxygen: There have been anecdotal reports from those with easy access to a breathing oxygen supply – medical staff, and military pilots — that oxygen can also reduce the symptoms of hangovers sometimes caused by alcohol consumption. The theory is that the increased oxygen flow resulting from oxygen therapy improves the metabolic rate, and thus increases the speed at which toxins are broken down.[48] However, one source states that (in an aviation context) oxygen has no effect on physical impairment caused by hangover.[49]
+Fructose and glucose: Glucose and fructose significantly inhibit the metabolic changes produced by alcohol intoxication, nevertheless they have no significant effect on hangover severity.[33]
+Vitamin B6: No effects on alcohol metabolism, peak blood alcohol and glucose concentrations have been found and psychomotor function is not significantly improved when using Vitamin B6 supplements.[33]
+Caffeinated drinks: No significant correlation between caffeine use and hangover severity has been found.[50]Epidemiology[edit]
+Hangovers occur commonly.A study in college students found that 25% had experienced a hangover in the previous week and 29% reported losing school time for hangover recovery.[21]
+15% of men and women who have consumed alcohol experience hangovers at least monthly and ten percent of British men reported hangover-related problems at work at least monthly.[21]
+An estimated 9.23% (11.6 million workers) of the U.S. labor force work with a hangover.[51]
+About 23% of drinkers do not report any hangover after drinking to intoxication.[8]Society and culture[edit]
+A somewhat dated French idiomatic expression for hangover is "mal aux cheveux", literally "sore hair" (or "[even] my hair hurts").{fact}
+Alcohol hangover has considerable economic consequences. A British study found that alcohol use accounted for 3.3 billion (USD) in lost wages each year, as a result of work missed because of hangovers. In Canada 1.4 billion (USD) is lost each year because of decreased occupational productivity caused by hangover-like symptoms. In Finland, a country with a population of 5 million persons, over 1 million workdays are lost each year because of hangovers. The average annual opportunity cost due to hangovers are estimated as 2000 (USD) per working adult.[21] The socioeconomic implications of an alcohol hangover include workplace absenteeism, impaired job performance, reduced productivity and poor academic achievement. Potentially dangerous daily activities such as driving a car or operating heavy machinery are also negatively influenced.[5]
+Research based on social media data found that the most hungover day of the year is New Year's Day.[52]
+In mid-2017, it was reported that one company in the UK allows sick days when hung over.[53]
+Research[edit]
+Psychological research of alcohol hangover is growing rapidly. The Alcohol Hangover Research Group had its inaugural meeting in June 2010 as part of the Research Society on Alcoholism (RSA) 33rd Annual Scientific Meeting in San Antonio, Texas.
+In 2012, Éduc'alcool, a Quebec-based non-profit organization that aims to educate the public on the responsible use of alcohol, published a report noting hangovers have long-lasting effects that inhibit the drinker's capabilities a full 24 hours after heavy drinking.[54]
+In 2012, Las Vegas based Hangover Heaven, a mobile hangover treatment clinic, opened along with its Hangover Research Institute, which studies the treatment of hangovers.[55]
+See also[edit]Auto-brewery syndrome
+Comedown (drugs)
+Food drunkReferences[edit]^ a b c d Stephens R, Ling J, Heffernan TM, Heather N, Jones K (23 January 2008). "A review of the literature on the cognitive effects of alcohol hangover". Alcohol and Alcoholism. 43 (2): 163–70. doi:10.1093/alcalc/agm160. PMID 18238851. 
+^ a b Prat G, Adan A, Sánchez-Turet M (June 2009). "Alcohol hangover: a critical review of explanatory factors". Human Psychopharmacology. 24 (4): 259–67. doi:10.1002/hup.1023. PMID 19347842. 
+^ a b c d e f g h i Penning R, van Nuland M, Fliervoet LA, Olivier B, Verster JC (June 2010). "The pathology of alcohol hangover". Current Drug Abuse Reviews. 3 (2): 68–75. doi:10.2174/1874473711003020068. PMID 20712596. 
+^ a b c d Pittler MH, Verster JC, Ernst E (December 2005). "Interventions for preventing or treating alcohol hangover: systematic review of randomised controlled trials". BMJ. 331 (7531): 1515–8. doi:10.1136/bmj.331.7531.1515. PMC 1322250 . PMID 16373736. 
+^ a b c d e Verster JC, Stephens R, Penning R, Rohsenow D, McGeary J, Levy D, McKinney A, Finnigan F, Piasecki TM, Adan A, Batty GD, Fliervoet LA, Heffernan T, Howland J, Kim DJ, Kruisselbrink LD, Ling J, McGregor N, Murphy RJ, van Nuland M, Oudelaar M, Parkes A, Prat G, Reed N, Slutske WS, Smith G, Young M, Alcohol Hangover Research Group (June 2010). "The alcohol hangover research group consensus statement on best practice in alcohol hangover research". Current Drug Abuse Reviews. 3 (2): 116–26. doi:10.2174/1874473711003020116. PMC 3827719 . PMID 20712593. 
+^ Verster JC (23 January 2008). "The alcohol hangover--a puzzling phenomenon". Alcohol and Alcoholism. 43 (2): 124–6. doi:10.1093/alcalc/agm163. PMID 18182417. 
+^ a b Penning R, McKinney A, Verster JC (May–Jun 2012). "Alcohol hangover symptoms and their contribution to the overall hangover severity". Alcohol and Alcoholism. 47 (3): 248–52. doi:10.1093/alcalc/ags029. PMID 22434663. 
+^ a b c d e Rohsenow DJ, Howland J (June 2010). "The role of beverage congeners in hangover and other residual effects of alcohol intoxication: a review". Current Drug Abuse Reviews. 3 (2): 76–9. doi:10.2174/1874473711003020076. PMID 20712591. 
+^ Alcohol and Cardiovascular Disease. Chichester: John Wiley & Sons. 1998. ISBN 0470515554. 
+^ a b c Min JA, Lee K, Ki DJ (June 2010). "The application of minerals in managing alcohol hangover: a preliminary review". Current Drug Abuse Reviews. 3 (2): 110–5. doi:10.2174/1874473711003020110. PMID 20712595. 
+^ Sprince H, Parker CM, Smith GG, Gonzales LJ (April 1974). "Protection against acetaldehyde toxicity in the rat by L-cysteine, thiamin and L-2-methylthiazolidine-4-carboxylic acid". Agents and Actions. 4 (2): 125–30. doi:10.1007/BF01966822. PMID 4842541. 
+^ Korsten MA, Matsuzaki S, Feinman L, Lieber CS (February 1975). "High blood acetaldehyde levels after ethanol administration. Difference between alcoholic and nonalcoholic subjects". The New England Journal of Medicine. 292 (8): 386–9. doi:10.1056/NEJM197502202920802. PMID 1110723. 
+^ Xiao Q, Weiner H, Crabb DW (November 1996). "The mutation in the mitochondrial aldehyde dehydrogenase (ALDH2) gene responsible for alcohol-induced flushing increases turnover of the enzyme tetramers in a dominant fashion". The Journal of Clinical Investigation. 98 (9): 2027–32. doi:10.1172/JCI119007. PMC 507646 . PMID 8903321. 
+^ Earleywine M (1999). Mind-Altering Drugs: The Science of Subjective Experience. OUP USA. p. 163. ISBN 978-0-19-516531-9. 
+^ Wall TL, Peterson CM, Peterson KP, Johnson ML, Thomasson HR, Cole M, Ehlers CL (September 1997). "Alcohol metabolism in Asian-American men with genetic polymorphisms of aldehyde dehydrogenase". Annals of Internal Medicine. 127 (5): 376–9. doi:10.7326/0003-4819-127-5-199709010-00007. PMID 9273829. 
+^ Maxwell CR, Spangenberg RJ, Hoek JB, Silberstein SD, Oshinsky ML (December 2010). "Acetate causes alcohol hangover headache in rats". PLoS One. 5 (12): e15963. doi:10.1371/journal.pone.0015963. PMC 3013144 . PMID 21209842. 
+^ Maxwell CR, Spangenberg RJ, Hoek JB, Silberstein SD, Oshinsky ML (December 2010). Skoulakis EM, ed. "Acetate causes alcohol hangover headache in rats". PLoS One. 5 (12): e15963. doi:10.1371/journal.pone.0015963. PMC 3013144 . PMID 21209842. 
+^ [Holmes B (15 January 2011). "Is coffee the real cure for a hangover?". New Scientist. p. 17. 
+^ Hori H, Fujii W, Hatanaka Y, Suwa Y (August 2003). "Effects of fusel oil on animal hangover models". Alcoholism, Clinical and Experimental Research. 27 (8 Suppl): 37S–41S. doi:10.1097/01.ALC.0000078828.49740.48. PMID 12960505. 
+^ Goso Y, Ueno M, Hotta K, Ishihara K (March 2007). "Protective effects of the whisky congeners on ethanol-induced gastric mucosal damage". Alcoholism, Clinical and Experimental Research. 31 (3): 390–4. doi:10.1111/j.1530-0277.2006.00319.x. PMID 17295722. 
+^ a b c d e f g Wiese JG, Shlipak MG, Browner WS (June 2000). "The alcohol hangover". Annals of Internal Medicine. 132 (11): 897–902. doi:10.7326/0003-4819-132-11-200006060-00008. PMID 10836917. 
+^ "Whiskey hangover worse than vodka, study says". MSNBC. 2009-12-18. Retrieved 2010-02-03. 
+^ a b Pawan GL (May 1973). "Alcoholic drinks and hangover effects". The Proceedings of the Nutrition Society. 32 (1): 15A. PMID 4760771. 
+^ a b c Verster JC (2006). "Congeners and alcohol hangover: differences in severity among Dutch college students after consuming beer, wine or liquor". Alcoholism: Clinical and Experimental Research. 30 (Suppl. 6): 53A. doi:10.1111/j.1530-0277.2006.00150.x. 
+^ a b Verster JC (January 2009). "The "hair of the dog": a useful hangover remedy or a predictor of future problem drinking?". Current Drug Abuse Reviews. 2 (1): 1–4. doi:10.2174/1874473710902010001. PMID 19630732. 
+^ "Hypoglycemia (Low Blood Glucose)". diabetes.org. American Diabetes Association. Retrieved 14 March 2015. 
+^ Kim DJ, Kim W, Yoon SJ, Choi BM, Kim JS, Go HJ, Kim YK, Jeong J (November 2003). "Effects of alcohol hangover on cytokine production in healthy subjects". Alcohol. 31 (3): 167–70. doi:10.1016/j.alcohol.2003.09.003. PMID 14693266. 
+^ Kaivola S, Parantainen J, Osterman T, Timonen H (March 1983). "Hangover headache and prostaglandins: prophylactic treatment with tolfenamic acid". Cephalalgia. 3 (1): 31–6. doi:10.1046/j.1468-2982.1983.0301031.x. PMID 6342813. 
+^ Wiese J, McPherson S, Odden MC, Shlipak MG (June 2004). "Effect of Opuntia ficus indica on symptoms of the alcohol hangover". Archives of Internal Medicine. 164 (12): 1334–40. doi:10.1001/archinte.164.12.1334. PMID 15226168. 
+^ a b c Piasecki TM, Robertson BM, Epler AJ (June 2010). "Hangover and risk for alcohol use disorders: existing evidence and potential mechanisms". Current Drug Abuse Reviews. 3 (2): 92–102. doi:10.2174/1874473711003020092. PMC 4264051 . PMID 20712598. 
+^ Verster JC (2008). "The alcohol hangover--a puzzling phenomenon". Alcohol and Alcoholism. 43 (2): 124–6. doi:10.1093/alcalc/agm163. PMID 18182417. 
+^ a b Glater JD (2004-12-07). "Raw Eggs? Hair of the Dog? New Options for the Besotted". The New York Times. 
+^ a b c d e f g h Verster JC, Penning R (June 2010). "Treatment and prevention of alcohol hangover". Current Drug Abuse Reviews. 3 (2): 103–9. doi:10.2174/1874473711003020103. PMID 20712594. 
+^ Maria V, Albuquerque A, Loureiro A, Sousa A, Victorino R (March 2004). "Severe cholestatic hepatitis induced by pyritinol". BMJ. 328 (7439): 572–4. doi:10.1136/bmj.328.7439.572. PMC 381054 . PMID 15001508. 
+^ Straumann A, Bauer M, Pichler WJ, Pirovino M (August 1998). "Acute pancreatitis due to pyritinol: an immune-mediated phenomenon". Gastroenterology. 115 (2): 452–4. doi:10.1016/S0016-5085(98)70212-4. PMID 9679051. 
+^ Charles Dubow (1 Jan 2004). "Hangover Cures". Forbes. 
+^ a b Felten E (2008-12-27). "Recipe to Cure a New Year's Eve Hangover - WSJ.com". Online.wsj.com. Retrieved 2010-03-26. 
+^ Ellis I. "March 29 - Today in Science History". Todayinsci.com. Retrieved 2010-03-26. 
+^ "// Welcome To". Colamyths.com. Retrieved 2010-03-26. 
+^ a b "Hair of the Dog: Is there such a thing as a hangover "cure"?". About.com. 
+^ a b Paulsen FM (April–June 1961). "A Hair of the Dog and Some Other Hangover Cures from Popular Tradition". The Journal of American Folklore. 74 (292): 152–168. doi:10.2307/537784. JSTOR 537784. 
+^ English C (2006-12-29). "For hangovers, bartenders prefer the 'hair of the dog' - SFGate". Articles.sfgate.com. Retrieved 2010-03-26. 
+^ "Hangover Myths Slideshow: Hangover Cures, Herbal Remedies, Hair of the Dog, and Other Common Myths". Webmd.com. 2008-11-14. Retrieved 2010-03-26. 
+^ Curtis W (2010-03-05). "The Bitter Beginning - Magazine". The Atlantic. Retrieved 2010-03-26. 
+^ "Anti-Hangover Tips". The Webtender. Retrieved 2010-03-26. 
+^ McGregor NR (November 2007). "Pueraria lobata (Kudzu root) hangover remedies and acetaldehyde-associated neoplasm risk". Alcohol. 41 (7): 469–78. doi:10.1016/j.alcohol.2007.07.009. PMID 17980785. 
+^ Ylikahri R, Heikkonen E, Soukas A (1988). "The sauna and alcohol". Annals of Clinical Research. 20 (4): 287–91. PMID 3218903. 
+^ Walker T, Fitzgerald M (17 April 2007). "A drinker's guide to hangovers". The Independent. London. 
+^ Reihheart R (2007). Basic Flight Physiology. McGraw-Hill Professional. p. 179. ISBN 0-7735-0801-5. 
+^ Penning R, de Haan L, Verster JC (2011). "Caffeinated Drinks, Alcohol Consumption, and Hangover Severity" (PDF). The Open Neuropsychopharmacology Journal. 4: 36–39. doi:10.2174/1876523801104010036. 
+^ Ling J, Stephens R, Heffernan TM (June 2010). "Cognitive and psychomotor performance during alcohol hangover". Current Drug Abuse Reviews. 3 (2): 80–7. doi:10.2174/1874473711003020080. PMID 20712592. 
+^ Gemma Joyce,"Hangover Data: When Is The Most Hungover Day of the Year?",Brandwatch,26th July, 2017
+^ Liz Connor,"This London company is offering 'hangover' sick days to its staff",Evening Standard,24th August, 2017
+^ Éduc’alcool, "Alcohol and Health: Alcohol Hangover", July 2012.
+^ Glatter R (15 April 2012). "Hangover Heaven...Descent Into Hell?". Forbes. Retrieved 27 August 2013. External links[edit]
+ClassificationV · T · D
+ICD-10: G44.83, F10External resourcesMedlinePlus: 002041Look up hangover or veisalgia in Wiktionary, the free dictionary.Wikimedia Commons has media related to Hangover."Alcohol Hangover: Mechanisms and Mediators" [PDF] by Robert Swift, M.D., Ph.D. and Dena Davidson, Ph.D., NIAAA Alcohol Health and Research World, January 14, 2002, retrieved November 22, 2004.
+"The party's over: Advice on treating hangovers" by Dr. Thomas Stuttaford, The Times, December 13, 2004 retrieved August 24, 2005. A colorful article on hangovers, their cause and treatment along with reference to famous Soho residents, such as Jeffrey Bernard, Dylan Thomas, and Francis Bacon.v
+t
+e
+Psychoactive substance-related disorder (F10–F19, 291–292; 303–305)GeneralSIDSubstance intoxication / Drug overdose
+Withdrawal
+Substance-induced psychosis
+SUDSubstance abuse / Substance use disorder / Substance-related disorders
+Physical dependence / Psychological dependence / Substance dependenceAlcohol
+SID
+Neurological
+disordersAlcoholic hallucinosis
+Alcohol withdrawal
+Fetal alcohol spectrum disorder (FASD)
+Fetal alcohol syndrome (FAS)
+Korsakoff's syndrome
+Korsakoff's psychosis
+Wernicke–Korsakoff syndrome
+Wernicke's encephalopathyDigestive
+systemAlcoholic hepatitis
+Alcoholic liver disease
+Auto-brewery syndromeNervous
+systemAlcohol-related dementia
+Alcoholic hallucinosis
+HangoverCardiovascular
+systemAlcoholic cardiomyopathy
+Alcohol flush reaction
+SUDAlcoholism (alcohol use disorder)
+Binge drinking
+CaffeineSIDEffect of caffeine on memory
+Caffeine-induced sleep disorder
+SUDCaffeine dependenceCannabisSIDEffects of cannabis
+Long-term effects of cannabis
+SUDCannabis dependenceCocaineSIDCocaine intoxication
+SUDCocaine dependenceHallucinogenSIDHallucinogen persisting perception disorderOpioidsSIDOpioid overdose
+SUDOpioid use disorderSedative /
+hypnoticbenzodiazepine: SIDBenzodiazepine overdose
+Benzodiazepine withdrawal
+SUDBenzodiazepine use disorder
+Benzodiazepine dependence
+barbiturate: SIDBarbiturate overdose
+SUDBarbiturate dependenceStimulantsSIDStimulant psychosis
+SUDAmphetamine dependenceTobaccoSIDNicotine poisoning
+Nicotine withdrawal
+SUDNicotine dependenceVolatile
+solventInhalant abuse: Toluene toxicityPoly drug useSIDCombined drug intoxication
+SUDPolysubstance dependence
+v
+t
+e
+Headache (G43–G44, 339, 346)Primary
+ICHD 1MigraineFamilial hemiplegic
+Retinal migraineICHD 2TensionICHD 3Cluster
+Chronic paroxysmal hemicrania
+SUNCTICHD 4Hemicrania continua
+Thunderclap headache
+Sexual headache
+New daily persistent headache
+Hypnic headache
+Secondary
+ICHD 5MigralepsyICHD 7Ictal headache
+Post-dural-puncture headacheICHD 8Hangover
+Medication overuse headache
+ICHD 13Trigeminal neuralgia
+Occipital neuralgia
+External compression headache
+Cold-stimulus headache
+Optic neuritis
+Postherpetic neuralgia
+Tolosa–Hunt syndromeOtherVascularAuthority controlGND: 4339907-1
+Categories: Alcohol abuseDrinking cultureHeadachesEffects of psychoactive drugsHidden categories: Articles containing Norwegian-language textArticles containing Greek-language textInfobox medical condition (new)Wikipedia articles with GND identifiers

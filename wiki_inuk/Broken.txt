@@ -1,0 +1,111 @@
+ᐅᐃᑭᐱᑎᐊoikipitia:ᑐᑭᓕᐅᖅᐹinuluriji
+Template:Shortcut
+Administrators, also called sysops, are active and regular Wikipedians who have access to technical features that help with maintenance. Administrators are expected to respect and be familiar with Wikipedia policy as they are known and trusted members of the community. They can protect and delete pages, block other editors, and undo these actions as well. By default, these privileges are granted indefinitely and are only removed under exceptional circumstances involving high level intervention (see Administrator abuse below).ᓱᖏᖅᑐᐃᔪᖅ ᖃᔭᓕᑉᐹ sungiqtuijuq qajalippaa - Full list of administrators - Requests for adminship
+In the very early days of Wikipedia, all users functioned as administrators, and in principle they still should. Any user can behave in a way befitting an administrator (provided they do not falsely claim to be one), even if they have not been given the extra administrative functions. From early on, it has been pointed out that administrators should never develop into a special subgroup of the community but should be a part of the community like anyone else. However, they are equipped with a few more tools to do some chores that would potentially be harmful if everyone were entrusted with them. Over time, standards to getting appointed administrator have risen, but there are still several administrators created every week.
+The community does look to administrators to perform essential housekeeping chores that require the extra access administrators are entrusted with. Among them are watching the Articles for deletion debates and carrying out the consensus of the community on keeping or deleting these articles, keeping an eye on new and changed articles to swiftly delete obvious vandalism, and meeting user requests for help that require administrative access. Since administrators are expected to be experienced members of the community, users seeking help will often turn to an administrator for advice and information. In general, administrators acting in this role are neutral. They do not have any direct involvement in the issues they are helping people with.Contents1 ᐊᒡᒍᖅᑕᐅᓯᒪᔪᓂᑦ ᐱᔪᓐᓇᕐᓂᖃᐅᖅᑐᑦ/agguqtausimajunit pijunnarniqauqtut1.1 Protected pages
+1.2 Deletion and undeletion
+1.3 Block and unblock
+1.4 Reverting
+1.5 Enforcement of Arbitration Committee rulings
+1.6 Keeping vandalism out of recent changes
+1.7 Design and wording of the interface
+1.8 Other
+2 pinnguutippaa aulatsiji ᐱᙴᑎᑉᐹ ᐊᐅᓚᑦᓯᔨ
+3 Places where admins in particular can assist
+4 Other access types4.1 ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᓐᓂᑐᖅᑎ ᐅᓂᒃᑳᕆᔭᖃᕐᓂᖅ  qarisaujakkut titiraqsimajut annituqti unikkaarijaqarniq
+4.2 Signed-in users
+4.3 Bots
+4.4 Bureaucrats
+4.5 Stewards
+4.6 Checkusers
+4.7 Oversights
+4.8 Developers
+5 Dealing with grievances
+6 ᐊᐅᓚᑦᓯᔨ ᐊᐃᕙᑉᐹ aulatsiji aivappaa
+7 ᐅᖃᓗᕿᑦᑐᖅ ᐊᐱᖅᓱᐹ/uqaluqittuq apiqsupaa
+8 ᐅᑉᔭᒃᐳᖅ/upjakpuq
+9 ᐃᓱᐊᖅᑐᖅ ᒪᑉᐱᑕᖅ ᐊᐅᓚᑦᓯᔨ/isuaqtuq mappitaq aulatsiji
+10 ᐃᓄᓕᕆᔨ ᓇᑭᒪᖅᐳᖅ/inuliriji nakimaqpuq10.1 ᕿᑲᐃᓚᖅ/qikailaq
+10.2 ᕿᑲᖅᑎᐊᖅ/qikaqtiaq
+11 ᒫᓐᓇ ᒥᑦᓯ ᐊᒻᒪ ᑐᑦᓯᐅᔨᕕᒋᕚ/maanna mitsi amma tutsiujivigivaa
+12 ᓱᓕᔪᕆᓇᖅᑐᖅ ᐊᒻᒪ ᓱᖏᖅᑐᐃᔪᖅ ᐱᙴᑎᑉᐹ ᕿᑲᖅᑎᐊᖅ/sulijurinaqtuq amma sungiqtuijuq pinnguutippaa qikaqtiaq
+13 ᐅᑉᔭᒃᐳᖅ/upjakpuq
+ᐊᒡᒍᖅᑕᐅᓯᒪᔪᓂᑦ ᐱᔪᓐᓇᕐᓂᖃᐅᖅᑐᑦ/agguqtausimajunit pijunnarniqauqtut[ᓱᖁᓯᖅᐹ ᐃᓚ]
+ᐅᐃᑭᐱᑎᐊ ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ ᑎᒍᕚ ᑮᓗ ᑭᒡᓕᖃᖅᑎᑕᐅᔪᖅ ᖃᕆᑕᙳᐊᒃᑯᑦ ᐋᖅᑭᒃᑕᐅᖃᑦᑕᖅᑐᑦ ᓱᖁᑎᒋᕚ.
+ᐃᓄᓕᕆᔨ ᐱᔪᖕᓇᖅᑐᖅ ᐊᑲᕐᕿᕗᖅ ᐊᑐᐃᓐᓇᓯᕗᖅ ᑐᑭᐊ.oikipitia aqittuq qaritaujaup titirarvinga tiguvaa atillu kigliqaqtitaujuq qaritannguakkut aaqqiktauqattaqtut suqutigivaa. inuliriji pijungnaqtuq aqarqivuk atuinnasivuq tukia.
+Protected pages[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Edit the ᐊᒥᖅ (Main page), and other protected pages. For information and guidelines, see Wikipedia:Editing the main page. You can suggest changes at Talk:ᐊᒥᖅ. The main page used to receive a lot of vandalism; protecting it is an unfortunate compromise to keep our welcome mat free of random profanity.
+Protect and unprotect pages, with different kinds of protection against editing by certain classes of users, and page moving. Pages are generally protected rarely and temporarily; for information and guidelines, see Wikipedia:Protection policy and Wikipedia:Semi-protection policy.
+Deletion and undeletion[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Delete pages, including images, and their history. For information and guidelines, see both Wikipedia:Deletion policy and (most definitely) Wikipedia:Deletion guidelines for administrators. To suggest a page for deletion (after reading the policy and guidelines pages!), see Wikipedia:Articles for deletion. Sometimes deletion is a technical matter, in which a redirection page has to be removed to make way for renaming an article, or a page whose history has been broken up has to be deleted and the pieces recombined. Other times it's a matter of cleaning up simple junk edits on pages with no actual content, or removing material that has been pasted in from another site and infringes copyright.
+View and restore deleted pages, including images, and their history. See Wikipedia:Viewing and restoring deleted pages by sysops for guidelines. To challenge an already made decision to delete a page, see Wikipedia:Deletion review.
+Block and unblock[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Block IP addresses, IP ranges, and user accounts, for a specific time or indefinitely.
+Unblock IP addresses, IP ranges, and user accounts.
+See Wikipedia:Blocking policy for more information on when blocks are appropriate and when they are not. See Special:Ipblocklist for currently blocked addresses and usernames
+Reverting[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Revert pages quickly. Any user (logged-in or not) can revert a page to an earlier version. Administrators have a faster, automated reversion tool to help them revert vandalism. When looking at a user's contributions, a link that looks like: [rollback] – appears next to edits that are at the top of the edit history. Clicking on the link reverts to the last edit not authored by that user, with an edit summary of (Reverted edits by X to last version by Y) and marks it as a minor change. One-click rollback is only intended for vandalism, spam, etc.; if reverting over disputed content, it should be done manually with an appropriate edit summary.
+Enforcement of Arbitration Committee rulings[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Administrators have the authority to enforce rulings by the Arbitration Committee.
+Template:FurtherKeeping vandalism out of recent changes[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Administrators can exclude bulk vandalism from ᐱᒋᕗᖅ ᐊᓯᐊᙳᑐᖅ (recent changes). To do this, add &bot=1 to the end of the URL used to access a user's contributions. For example, http://en.wikipedia.org/w/index.php?title=Special:Contributions&target=Example&bot=1. When the rollback links on the contributions list are clicked, the revert and the original edit that you are reverting will both be hidden from the default recent changes display. (The bot marker was originally added to keep massive bot edits from flooding recent changes, hence the "bot".)  This means that they will be hidden from recent changes unless you click the "bots" link to set hidebots=0. The edits are not hidden from contributions lists, page histories or watchlists. The edits remain in the database and are not removed, but they no longer flood recent changes. The aim of this feature is to reduce the annoyance factor of a flood vandal with relatively little effort. This should not be used for reverting a change you just don't like, but is meant only for simple vandalism, particularly massive flood vandalism.
+Design and wording of the interface[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Admins can change the text of the interface by editing the pages in the MediaWiki namespace. This includes the text at the top of pages such as the "Special:Whatlinkshere" and the page that a blocked user will see when they try to edit a page (MediaWiki:Blockedtext).
+Admins can edit the style of the interface by changing the CSS in the monobook stylesheet at MediaWiki:Monobook.css.
+Admins can edit some of the site-wide and skin-specific JavaScript of the software at places like MediaWiki:Monobook.js.
+Other[ᓱᖁᓯᖅᐹ ᐃᓚ]
+There are various other actions which only those with administrator privileges can perform:Can move category pages and other move protected pages
+Can view Special:Unwatchedpages to see pages which may be more vulnerable to vandalism
+Can view the history of deleted pages
+pinnguutippaa aulatsiji ᐱᙴᑎᑉᐹ ᐊᐅᓚᑦᓯᔨ[ᓱᖁᓯᖅᐹ ᐃᓚ]
+If you have been around for a while and you would like sysop access, add your name to Wikipedia:Requests for adminship according to the guidelines mentioned there, and a discussion will take place by fellow editors in order to determine if there is consensus that you should become an administrator.
+It is recommended that you write for Wikipedia for a while before requesting administrator status, since other users will have to recognize you before they can agree on trusting you with the tools.
+Also keep in mind that each language's Wikipedia has its own policies for administrators, which may differ somewhat.
+Although multiple user accounts are allowed on Wikipedia in certain circumstances, only one should have admin powers beyond being an editor.
+Be careful, please!
+If you are granted access, you must exercise care in using these functions, especially the ability to delete pages and their history, to delete images, and the ability to block IP addresses. You can learn about your newfound powers at the Wikipedia:Administrators' how-to guide. You should also take a look at the pages linked from the Administrators' reading list before using any of your admin abilities.Places where admins in particular can assist[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Admin rights can be particularly helpful for working in certain areas of Wikipedia.Incidents that may require admin intervention
+3RR violations
+Intervention against vandalism
+Copyright problems
+Candidate speedy deletion pages
+Admins will also find their tools useful for RC patrolling.
+Other access types[ᓱᖁᓯᖅᐹ ᐃᓚ]
+In addition to administrators, there are other types of identified users. See also Wikipedia:User access levels.ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᓐᓂᑐᖅᑎ ᐅᓂᒃᑳᕆᔭᖃᕐᓂᖅ  qarisaujakkut titiraqsimajut annituqti unikkaarijaqarniq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Visitors who haven't "signed in" can still do most things, including the most important: editing articles and helping with Wikipedia maintenance tasks.Signed-in users[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Signed-up users can do everything IP addresses can do. They can also upload files, start new articles and, once they reach the "autoconfirm" threshold, they can move/rename pages and edit semi-protected pages. See Special:Userlogin to sign up.Bots[ᓱᖁᓯᖅᐹ ᐃᓚ]
+The edits of users with bot status turned on do not show up in recent changes, usually only used for mass edits by bots.Bureaucrats[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Users with "bureaucrat" status can turn other users into sysops (but not remove sysop status), change usernames, and flag and unflag bots accounts. Bureaucrats are created by other bureaucrats on projects where these exist, or by stewards on those who don't yet have one. Sysoppings are recorded in Special:Log/rights or Wikipedia:Bureaucrat log for activity prior to December 24, 2004. Sysoppings by stewards are recorded at Meta:Special:Log/rights but the few stewards who actively sysop users on the English Wikipedia do so using their local bureaucrat status, making this distinction rather academic.Stewards[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Users with "Steward" status can change the access of any user on any Wikimedia project. This includes granting and revoking sysop access and marking users as bots. Their actions are recorded at Special:Log/rights on meta. Requests for their assistance can be made at m:Requests for permissions. Normally, they will not perform actions that can be carried out by a local bureaucrat.Checkusers[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Users with the "Checkuser" permission can retrieve the IP addresses used by a username and can also retrieve all edits by users using a certain IP or IP range. A log of Checkuser actions is visible to all Checkusers.Oversights[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Users with the "Oversight" permission can hide revisions of pages from all users. These revisions can temporarily be accessed and reviewed by users with the oversight permission. A log of oversight actions is visible to all Oversights.Developers[ᓱᖁᓯᖅᐹ ᐃᓚ]
+The highest degree of technical access (actually a group of levels, the difference between all but the lowest of which isn't really visible to users) is "developer", for those who can make direct changes to the MediaWiki software and the Wikimedia wiki farm and databases. These people, by and large, do not carry out administrative functions.
+They can be contacted via the wikitech-l mailing list. See m:Developers for a partial list of developers and further information.Dealing with grievances[ᓱᖁᓯᖅᐹ ᐃᓚ]
+If you think an administrator has acted improperly against you or another editor, you should express your concerns directly to the administrator responsible. Try to come to a resolution in an orderly and civil manner. However, if the matter is not resolved between the two parties, you can take further action according to Wikipedia:Resolving disputes.  See also Requests for comment/User conduct: Use of administrator privileges.ᐊᐅᓚᑦᓯᔨ ᐊᐃᕙᑉᐹ aulatsiji aivappaa[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Administrators can be removed if they misuse their powers. Currently, administrators may be removed either at the request of Jimbo Wales or by a ruling of the Arbitration Committee. At their discretion, lesser penalties may also be assessed against problematic administrators, including the restriction of their use of certain powers or placement on administrative probation. The technical ability to remove administrator status rests with stewards.
+There have been a number of alternative procedures suggested for the removal of sysop status but none of them have achieved consensus.  Some administrators will voluntarily stand for reconfirmation under certain circumstances; see Category:Administrators open to recall.ᐅᖃᓗᕿᑦᑐᖅ ᐊᐱᖅᓱᐹ/uqaluqittuq apiqsupaa[ᓱᖁᓯᖅᐹ ᐃᓚ]
+An often paraphrased comment about adminship is the following, said by Jimbo Wales in Feb 2003, referring to administrators as sysops:
+Template:Quotationᐅᑉᔭᒃᐳᖅ/upjakpuq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Administrators' how-to guide
+Administrators' reading list
+An essay on what adminship is not
+ᐃᓱᐊᖅᑐᖅ ᒪᑉᐱᑕᖅ ᐊᐅᓚᑦᓯᔨ/isuaqtuq mappitaq aulatsiji[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Wikipedia:Bans and blocks
+Wikipedia:Deletion policy
+Wikipedia:Policy
+Wikipedia:Proposed deletions
+Wikipedia:Protection policy
+Wikipedia:Vandalism in progress
+ᐃᓄᓕᕆᔨ ᓇᑭᒪᖅᐳᖅ/inuliriji nakimaqpuq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+ᕿᑲᐃᓚᖅ/qikailaq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Thogo
+Qrc2006
+ᕿᑲᖅᑎᐊᖅ/qikaqtiaq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+ᐃᖁᐆᕐ (inactive)
+ᑏᑎᕉ (inactive)
+ᒫᓐᓇ ᒥᑦᓯ ᐊᒻᒪ ᑐᑦᓯᐅᔨᕕᒋᕚ/maanna mitsi amma tutsiujivigivaa[ᓱᖁᓯᖅᐹ ᐃᓚ]
+Users can contact admins on this page to ask them to protect pages. Requests for deletion should be made on Wikipedia:Requests for deletion and requests for blocking on Wikipedia:Vandalism in progress.
+All admins should watch this section for issues that admins must be aware of, and for news about policy changes affecting admins.ᓱᓕᔪᕆᓇᖅᑐᖅ ᐊᒻᒪ ᓱᖏᖅᑐᐃᔪᖅ ᐱᙴᑎᑉᐹ ᕿᑲᖅᑎᐊᖅ/sulijurinaqtuq amma sungiqtuijuq pinnguutippaa qikaqtiaq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+ᐅᑉᔭᒃᐳᖅ/upjakpuq[ᓱᖁᓯᖅᐹ ᐃᓚ]
+meta:Administrators of various Wikipedias
+Categories: Wikipedia administrationWikipedia functionariesᐅᐃᑭᐱᑎᐊ

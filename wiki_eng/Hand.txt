@@ -1,0 +1,308 @@
+Hand
+"Hands" redirects here. For other uses, see Hand (disambiguation) and Hands (disambiguation).
+HandPalmar and dorsal aspects of human right hand
+X-ray of human handDetails
+Vein
+dorsal venous network of hand
+Nerve
+Ulnar, median, radial nerves
+Identifiers
+Latin
+Manus
+MeSH
+D006225
+TA
+A01.1.00.025
+FMA
+9712
+Anatomical terminology
+[edit on Wikidata]A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each "hand" and fingerprints extremely similar to human fingerprints) are often described as having "hands" instead of paws on their front limbs. The raccoon is usually described as having "hands" though opposable thumbs are lacking.[1]
+Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally — for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand.[2]
+The human hand normally has five digits: four fingers plus one thumb;[3][4] these are often referred to collectively as five fingers, however, whereby the thumb is included as one of the fingers.[3][5][6] It has 27 bones, not including the sesamoid bone, the number of which varies between people,[7] 14 of which are the phalanges (proximal, intermediate and distal) of the fingers and thumb. The metacarpal bones connect the fingers and the carpal bones of the wrist. Each human hand has five metacarpals[8] and eight carpal bones.
+Fingers contain some of the densest areas of nerve endings in the body, and are the richest source of tactile feedback. They also have the greatest positioning capability of the body; thus, the sense of touch is intimately associated with hands. Like other paired organs (eyes, feet, legs) each hand is dominantly controlled by the opposing brain hemisphere, so that handedness—the preferred hand choice for single-handed activities such as writing with a pencil, reflects individual brain functioning.
+Among humans, the hands play an important function in body language and sign language. Likewise the ten digits of two hands, and the twelve phalanges of four fingers (touchable by the thumb) have given rise to number systems and calculation techniques.Contents
+1 Structure1.1 Areas
+1.2 Bones1.2.1 Arches
+1.3 Muscles1.3.1 Intrinsic
+1.3.2 Extrinsic
+1.4 Innervation
+1.5 Skin
+1.6 Variation
+2 Clinical significance
+3 Evolution
+4 Additional images
+5 See also
+6 Notes
+7 References
+8 External linksStructure[edit]
+Many mammals and other animals have grasping appendages similar in form to a hand such as paws, claws, and talons, but these are not scientifically considered to be grasping hands. The scientific use of the term hand in this sense to distinguish the terminations of the front paws from the hind ones is an example of anthropomorphism. The only true grasping hands appear in the mammalian order of primates. Hands must also have opposable thumbs, as described later in the text.
+The hand is located at the distal end of each arm. Apes and monkeys are sometimes described as having four hands, because the toes are long and the hallux is opposable and looks more like a thumb, thus enabling the feet to be used as hands.
+The word "hand" is sometimes used by evolutionary anatomists to refer to the appendage of digits on the forelimb such as when researching the homology between the three digits of the bird hand and the dinosaur hand.[2]
+Areas[edit]
+Human hand parts
+Areas of the human hand include:The palm (Volar), which is the central region of the anterior part of the hand, located superficially to the metacarpus. The skin in this area contains dermal papillae to increase friction, such as are also present on the fingers and used for fingerprints.
+The opisthenar area (dorsal) is the corresponding area on the posterior part of the hand.
+The heel of the hand is the area anteriorly to the bases of the metacarpal bones, located in the proximal part of the palm. It is the area that sustains most pressure when using the palm of the hand for support, such as in handstand.There are five digits attached to the hand, notably with a nail fixed to the end in place of the normal claw. The four fingers can be folded over the palm which allows the grasping of objects. Each finger, starting with the one closest to the thumb, has a colloquial name to distinguish it from the others:index finger, pointer finger, forefinger, or 2nd digit
+middle finger or long finger or 3rd digit
+ring finger or 4th digit
+little finger, pinky finger, small finger, baby finger, or 5th digitThe thumb (connected to the first metacarpal bone and trapezium) is located on one of the sides, parallel to the arm. A reliable way of identifying human hands is from the presence of opposable thumbs. Opposable thumbs are identified by the ability to be brought opposite to the fingers, a muscle action known as opposition.
+Bones[edit]
+Bones of the human hand
+Hand-bone animation
+The skeleton of the human hand consists of 27 bones:[9] the eight short carpal bones of the wrist are organized into a proximal row (scaphoid, lunate, triquetral and pisiform) which articulates with the bones of the forearm, and a distal row (trapezium, trapezoid, capitate and hamate), which articulates with the bases of the five metacarpal bones of the hand. The heads of the metacarpals will each in turn articulate with the bases of the proximal phalanx of the fingers and thumb. These articulations with the fingers are the metacarpophalangeal joints known as the knuckles. The fourteen phalanges make up the fingers and thumb, and are numbered I-V (thumb to little finger) when the hand is viewed from an anatomical position (palm up). The four fingers each consist of three phalanx bones: proximal, middle, and distal. The thumb only consists of a proximal and distal phalanx.[10] Together with the phalanges of the fingers and thumb these metacarpal bones form five rays or poly-articulated chains.
+Because supination and pronation (rotation about the axis of the forearm) are added to the two axes of movements of the wrist, the ulna and radius are sometimes considered part of the skeleton of the hand.
+There are numerous sesamoid bones in the hand, small ossified nodes embedded in tendons; the exact number varies between people:[7] whereas a pair of sesamoid bones are found at virtually all thumb metacarpophalangeal joints, sesamoid bones are also common at the interphalangeal joint of the thumb (72.9%) and at the metacarpophalangeal joints of the little finger (82.5%) and the index finger (48%). In rare cases, sesamoid bones have been found in all the metacarpophalangeal joints and all distal interphalangeal joints except that of the long finger.
+The articulations are:interphalangeal articulations of hand (the hinge joints between the bones of the digits)
+metacarpophalangeal joints (where the digits meet the palm)
+intercarpal articulations (where the palm meets the wrist)
+wrist (may also be viewed as belonging to the forearm).Arches[edit]
+Arches of the hand
+Red: one of the oblique arches
+Brown: one of the longitudinal arches of the digits
+Dark green: transverse carpal arch
+Light green: transverse metacarpal arch
+The fixed and mobile parts of the hand adapt to various everyday tasks by forming bony arches: longitudinal arches (the rays formed by the finger bones and their associated metacarpal bones), transverse arches (formed by the carpal bones and distal ends of the metacarpal bones), and oblique arches (between the thumb and four fingers):
+Of the longitudinal arches or rays of the hand, that of the thumb is the most mobile (and the least longitudinal). While the ray formed by the little finger and its associated metacarpal bone still offers some mobility, the remaining rays are firmly rigid. The phalangeal joints of the index finger, however, offer some independence to its finger, due to the arrangement of its flexor and extension tendons.[11]
+The carpal bones form two transversal rows, each forming an arch concave on the palmar side. Because the proximal arch simultaneously has to adapt to the articular surface of the radius and to the distal carpal row, it is by necessity flexible. In contrast, the capitate, the "keystone" of the distal arch, moves together with the metacarpal bones and the distal arch is therefore rigid. The stability of these arches is more dependent of the ligaments and capsules of the wrist than of the interlocking shapes of the carpal bones, and the wrist is therefore more stable in flexion than in extension.[11] The distal carpal arch affects the function of the CMC joints and the hands, but not the function of the wrist or the proximal carpal arch. The ligaments that maintain the distal carpal arches are the transverse carpal ligament and the intercarpal ligaments (also oriented transversally). These ligaments also form the carpal tunnel and contribute to the deep and superficial palmar arches. Several muscle tendons attaching to the TCL and the distal carpals also contribute to maintaining the carpal arch.[12]
+Compared to the carpal arches, the arch formed by the distal ends of the metacarpal bones is flexible due to the mobility of the peripheral metacarpals (thumb and little finger). As these two metacarpals approach each other, the palmar gutter deepens. The central-most metacarpal (middle finger) is the most rigid. It and its two neighbors are tied to the carpus by the interlocking shapes of the metacarpal bones. The thumb metacarpal only articulates with the trapezium and is therefore completely independent, while the fifth metacarpal (little finger) is semi-independent with the fourth metacarpal (ring finger) which forms a transitional element to the fifth metacarpal.[11]
+Together with the thumb, the four fingers form four oblique arches, of which the arch of the index finger functionally is the most important, especially for precision grip, while the arch of the little finger contribute an important locking mechanism for power grip. The thumb is undoubtedly the "master digit" of the hand, giving value to all the other fingers. Together with the index and middle finger, it forms the dynamic tridactyl configuration responsible for most grips not requiring force. The ring and little fingers are more static, a reserve ready to interact with the palm when great force is needed.[11]
+See also: arches of the foot
+Muscles[edit]
+Main article: Muscles of the hand
+Muscles and other structures of wrist and palm
+The muscles acting on the hand can be subdivided into two groups: the extrinsic and intrinsic muscle groups. The extrinsic muscle groups are the long flexors and extensors. They are called extrinsic because the muscle belly is located on the forearm.
+Intrinsic[edit]
+The intrinsic muscle groups are the thenar (thumb) and hypothenar (little finger) muscles; the interosseous muscles (four dorsally and three volarly) originating between the metacarpal bones; and the lumbrical muscles arising from the deep flexor (and are special because they have no bony origin) to insert on the dorsal extensor hood mechanism.[13]
+Extrinsic[edit]
+Extensor compartments of wrist (back of hand)
+The fingers have two long flexors, located on the underside of the forearm. They insert by tendons to the phalanges of the fingers. The deep flexor attaches to the distal phalanx, and the superficial flexor attaches to the middle phalanx. The flexors allow for the actual bending of the fingers. The thumb has one long flexor and a short flexor in the thenar muscle group. The human thumb also has other muscles in the thenar group (opponens and abductor brevis muscle), moving the thumb in opposition, making grasping possible.
+The extensors are located on the back of the forearm and are connected in a more complex way than the flexors to the dorsum of the fingers. The tendons unite with the interosseous and lumbrical muscles to form the extensorhood mechanism. The primary function of the extensors is to straighten out the digits. The thumb has two extensors in the forearm; the tendons of these form the anatomical snuff box. Also, the index finger and the little finger have an extra extensor, used, for instance, pointing. The extensors are situated within 6 separate compartments.
+Compartment 1 (Most radial)
+Compartment 2
+Compartment 3
+Compartment 4
+Compartment 5
+Compartment 6 (Most ulnar)
+Abductor pollicis longus
+Extensor carpi radialis longus
+Extensor pollicis longus
+Extensor indicis
+Extensor digiti minimi
+Extensor carpi ulnaris
+Extensor pollicis brevis
+Extensor carpi radialis brevisExtensor digitorum communis
+The first four compartments are located in the grooves present on the dorsum of inferior side of radius while the 5th compartment is in between radius and ulna. The 6th compartment is in the groove on the dorsum of inferior side of ulna.
+Innervation[edit]
+Cutaneous innervation of the upper limb
+The hand is innervated by the radial, median, and ulnar nerves.Motor innervationThe radial nerve innervates the finger extensors and the thumb abductor, thus the muscles that extends at the wrist and metacarpophalangeal joints (knuckles); and that abducts and extends the thumb. The median nerve innervates the flexors of the wrist and digits, the abductors and opponens of the thumb, the first and second lumbrical. The ulnar nerve innervates the remaining intrinsic muscles of the hand.[14]
+All muscles of the hand are innervated by the brachial plexus (C5–T1) and can be classified by innervation:[15]
+Nerve
+Muscles
+radial
+Extensors: carpi radialis longus and brevis, digitorum, digiti minimi, carpi ulnaris, pollicis longus and brevis, and indicis.
+Other: abductor pollicis longus.
+median
+Flexors: carpi radialis, pollicis longus, digitorum profundus (half), superficialis, and pollicis brevis (superficial head).
+Other: palmaris longus. abductor pollicis brevis, opponens pollicis, and first and second lumbricals.
+ulnar
+Flexor carpi ulnaris, flexor digitorum profundus (half), palmaris brevis, flexor digiti minimi, abductor digiti minimi, opponens digiti minimi, adductor pollicis, flexor pollicis brevis (deep head), palmar and dorsal interossei, and third and fourth lumbricals.Cutaneous innervationThe radial nerve innervates the skin the back of the hand from the thumb to the ring finger and the dorsal aspects of the index, middle, and half ring fingers as far as the proximal interphalangeal joints. The median nerve innervates the palmar side of the thumb, index, middle, and half ring fingers. Dorsal branches innervates the distal phalanges of the index, middle, and half ring fingers. The ulnar nerve innervates the ulnar third of the hand, both at the palm and the back of the hand, and the little and half ring fingers.[14]
+There is a considerable variation to this general pattern, except for the little finger and volar surface of the index finger. For example, in some individuals, the ulnar nerve supplies the entire ring finger and the ulnar side of the middle finger, whilst, in others, the median nerve supplies the entire ring finger.[14]
+Skin[edit]Left: papillary ridges of palm
+Right: sexual dimorphism
+The glabrous (hairless) skin on the front of the hand, the palm, is relatively thick and can be bent along the hand's flexure lines where the skin is tightly bound to the underlying tissue and bones. Compared to the rest of the body's skin, the hands' palms (as well as the soles of the feet) are usually lighter — and even much lighter in dark-skinned individuals, compared to the other side of the hand. Indeed, genes specifically expressed in the dermis of palmoplantar skin inhibit melanin production and thus the ability to tan, and promote the thickening of the stratum lucidum and stratum corneum layers of the epidermis. All parts of the skin involved in grasping are covered by papillary ridges (fingerprints) acting as friction pads. In contrast, the hairy skin on the dorsal side is thin, soft, and pliable, so that the skin can recoil when the fingers are stretched. On the dorsal side, the skin can be moved across the hand up to 3 cm (1.2 in); an important input the cutaneous mechanoreceptors.[16]
+The web of the hand is a "fold of skin which connects the digits"[17]. These webs, located between each set of digits, are known as skin folds (interdigital folds or plica interdigitalis). They are defined as "one of the folds of skin, or rudimentary web, between the fingers and toes".[18]
+Variation[edit]
+Further information: Digit ratio
+The ratio of the length of the index finger to the length of the ring finger in adults is affected by the level of exposure to male sex hormones of the embryo in utero. This digit ratio is below 1 for both sexes but it is lower in males than in females on average.
+Clinical significance[edit]
+X-ray of the left hand of a ten-year-old boy with polydactyly.
+A number of genetic disorders affect the hand. Polydactyly is the presence of more than the usual number of fingers. One of the disorders that can cause this is Catel-Manzke syndrome. The fingers may be fused in a disorder known as syndactyly. Or there may be an absence of one or more central fingers—a condition known as ectrodactyly. Additionally, some people are born without one or both hands (amelia).
+There are several cutaneous conditions that can affect the hand including the nails.
+The autoimmune disease rheumatoid arthritis can affect the hand, particularly the joints of the fingers.
+Some conditions can be treated by hand surgery. These include carpal tunnel syndrome, a painful condition of the hand and fingers caused by compression of the median nerve, and Dupuytren's contracture, a condition in which fingers bend towards the palm and cannot be straightened. A similar condition[clarification needed] to this is where some of the fingers cannot be flexed due to injury to the ulnar nerve.
+A common fracture of the hand is a scaphoid fracture—a fracture of the scaphoid bone, one of the carpal bones. This is the commonest carpal bone fracture and can be slow to heal due to a limited blood flow to the bone. There are various types of fracture to the base of the thumb; these are known as Rolando fractures, Bennet's fracture, and Gamekeeper's thumb. Another common fracture, known as Boxer's fracture, is to the neck of a metacarpal.
+Evolution[edit]
+"Hands" of a Javanese tree shrew and a human
+The prehensile hands and feet of primates evolved from the mobile hands of semi-arboreal tree shrews that lived about 60 million years ago. This development has been accompanied by important changes in the brain and the relocation of the eyes to the front of the face, together allowing the muscle control and stereoscopic vision necessary for controlled grasping. This grasping, also known as power grip, is supplemented by the precision grip between the thumb and the distal finger pads made possible by the opposable thumbs. Hominidae (great apes including humans) acquired an erect bipedal posture about 3.6 million years ago, which freed the hands from the task of locomotion and paved the way for the precision and range of motion in human hands.[19] Functional analyses of the features unique to the hand of modern humans have shown that they are consistent with the stresses and requirements associated with the effective use of paleolithic stone tools.[20][21] It is possible that the refinement of the bipedal posture in the earliest hominids evolved to facilitate the use of the trunk as leverage in accelerating the hand.[22]
+While the human hand has unique anatomical features, including a longer thumb and fingers that can be controlled individually to a higher degree, the hands of other primates are anatomically similar and the dexterity of the human hand can not be explained solely on anatomical factors. The neural machinery underlying hand movements is a major contributing factor; primates have evolved direct connections between neurons in cortical motor areas and spinal motoneurons, giving the cerebral cortex monosynaptic control over the motoneurons of the hand muscles; placing the hands "closer" to the brain.[23] The recent evolution of the human hand is thus a direct result of the development of the central nervous system, and the hand, therefore, is a direct tool of our consciousness — the main source of differentiated tactile sensations — and a precise working organ enabling gestures — the expressions of our personalities.[24]A gorilla, a large extant primate with small thumbs, and the hand skeleton of Ardipithecus ramidus, a large Pliocene primate with relatively human-like thumbs
+There are nevertheless several primitive features left in the human hand, including pentadactyly (having five fingers), the hairless skin of the palm and fingers, and the os centrale found in human embryos, prosimians, and apes. Furthermore, the precursors of the intrinsic muscles of the hand are present in the earliest fishes, reflecting that the hand evolved from the pectoral fin and thus is much older than the arm in evolutionary terms.[19]
+The proportions of the human hand are plesiomorphic (shared by both ancestors and extant primate species); the elongated thumbs and short hands more closely resemble the hand proportions of Miocene apes than those of extant primates.[25] Humans did not evolve from knuckle-walking apes,[26] and chimpanzees and gorillas independently acquired elongated metacarpals as part of their adaptation to their modes of locomotion.[27] Several of primitive hand features most likely present in the chimpanzee-human last common ancestor (CHLCA) and absent in modern humans are still present in the hands of Australopithecus, Paranthropus, and Homo floresiensis. This suggests that the derived changes in modern humans and Neanderthals did not evolve until 2.5 to 1.5 million years ago or after the appearance of the earliest Acheulian stone tools, and that these changes are associated with tool-related tasks beyond those observed in other hominins.[28] The thumbs of Ardipithecus ramidus, an early hominin, are almost as robust as in humans, so this may be a primitive trait, while the palms of other extant higher primates are elongated to the extent that some of the thumb's original function has been lost (most notably in highly arboreal primates such as the spider monkey). In humans, the big toe is thus more derived than the thumb.[27]
+There is a hypothesis suggesting the form of the modern human hand is especially conducive to the formation of a compact fist, presumably for fighting purposes. The fist is compact and thus effective as a weapon. It also provides protection for the fingers.[29] However, this is not widely accepted to be one of the primary selective pressures acting on hand morphology throughout human evolution, with tool use and production being thought to be far more influential.[21][30][31][32]
+Additional images[edit]Illustration of Hand and Wrist Bones.Bones of the left hand. Volar surface.Bones of the left hand. Dorsal surface.Static adult human physical characteristics of the hand.Cuban doctor checks the hand of a patient. Sara, Guinea-Bissau, liberated zones, 1974Hard hands of a young girl in Algeria.
+See also[edit]
+This article uses anatomical terminology; for an overview, see Anatomical terminology.
+Dactylonomy
+Dermatoglyphics
+Finger-counting
+Finger tracking
+Handstand
+Hand strength
+Hand walking
+Human skeletal changes due to bipedalism
+Knuckle-walking
+Palmistry – fortune-telling based on lines in hand palms.
+Manus (anatomy)
+Mudra – Hindu term for hand gestures.
+Notes[edit]
+^ Thomas, Dorcas MacClintock ; illustrated by J. Sharkey (2002). A natural history of raccoons. Caldwell, N.J.: Blackburn Press. p. 15. ISBN 978-1-930665-67-5. 
+^ a b Xu et al. 2009
+^ a b Mark L. Latash (18 March 2008). Synergy. Oxford University Press, USA. pp. 137–. ISBN 978-0-19-533316-9. 
+^ Tracy L. Kivell; Pierre Lemelin; Brian G. Richmond; Daniel Schmitt (10 August 2016). The Evolution of the Primate Hand: Anatomical, Developmental, Functional, and Paleontological Evidence. Springer. pp. 7–. ISBN 978-1-4939-3646-5. 
+^ Goldfinger, Eliot (1991). Human Anatomy for Artists : The Elements of Form: The Elements of Form. Oxford University Press. pp. 177, 295. 
+^ O'Rahilly,, Ronan; Müller, Fabiola (1983). Basic Human Anatomy: A Regional Study of Human Structure. Saunders. p. 93. 
+^ a b Schmidt & Lanz 2003, p. 105
+^ Marieb 2004, p. 237
+^ Tubiana, Thomine & Mackin 1998, p. 4
+^ [Saladin, Kenneth S. Anatomy & Physiology: The Unity of Form and Function. New York, NY: McGraw-Hill, 2007. Print.]
+^ a b c d Tubiana, Thomine & Mackin 1998, pp. 9–14
+^ Austin 2005, pp. 319–320
+^ "Medical mnemonics". LifeHugger. Archived from the original on 2011-07-13. Retrieved 2009-12-19. 
+^ a b c Jones & Lederman 2006, pp. 16–18
+^ Ross & Lamperti 2006, p. 257
+^ Jones & Lederman 2006, pp. 18–21
+^ "Web". Oxford English Dictionary (3rd ed.). Oxford University Press. September 2005.  (Subscription or UK public library membership required.)
+^ "web of fingers/ toes". Farlex Medical Dictionary. Farlex Partner Medical Dictionary. Retrieved 14 March 2016. 
+^ a b Schmidt & Lanz 2003, p. 1
+^ Key and Lycett (2011) Technology based evolution? A biometric test.... Journal of Archaeological Science
+^ a b Rolian et al., 2011
+^ Marzke 2009
+^ Flanagan & Johansson 2002
+^ Putz & Tuppek 1999
+^ Almécija 2009
+^ Kivella & Schmitt 2009
+^ a b Lovejoy et al. 2009, Abstract, pp. 101–102
+^ Tocheri et al. 2008
+^ Reardon 2012, Knight 2012, Morgan & Carrier 2013
+^ Key and Lycett, 2011
+^ williams et al., 2012
+^ Key, 2013
+References[edit]
+Almécija, Sergio (2009). "Evolution of the hand in Miocene apes: implications for the appearance of the human hand (PhD Thesis)" (PDF). Universitat Autònoma de Barcelona. 
+Austin, Noelle M. (2005). "Chapter 9: The Wrist and Hand Complex". In Levangie, Pamela K.; Norkin, Cynthia C. Joint Structure and Function: A Comprehensive Analysis (4th ed.). Philadelphia: F. A. Davis Company. ISBN 0-8036-1191-9. 
+Flanagan, J Randall; Johansson, Roland S (2002). "Hand Movements". Encyclopedia of the human brain (PDF). Elsevier Science. 
+Jones, Lynette A.; Lederman, Susan J. (2006). "Structure of the Skin". Human hand function. Oxford University Press. ISBN 978-0-19-517315-4. 
+Kivella, Tracy L.; Schmitt, Daniel (August 25, 2009). "Independent evolution of knuckle-walking in African apes shows that humans did not evolve from a knuckle-walking ancestor". PNAS. 106 (34): 14241–14246. Bibcode:2009PNAS..10614241K. doi:10.1073/pnas.0901280106. PMC 2732797 . PMID 19667206. 
+Knight, Kathryn (2012). "Fighting Shaped Human Hands". Journal of Experimental Biology. doi:10.1242/jeb.083725. 
+Lovejoy, C. Owen; Suwa, Gen; Simpson, Scott W.; Matternes, Jay H.; White, Tim D. (October 2009). "The Great Divides: Ardipithecus ramidus Reveals the Postcrania of Our Last Common Ancestors with African Apes". Science. 326 (5949): 73, 100–106. Bibcode:2009Sci...326..100L. doi:10.1126/science.1175833. PMID 19810199. 
+Marieb, Elaine N (2004). Human Anatomy & Physiology (Sixth ed.). Pearson PLC. ISBN 0-321-20413-1. 
+Marzke, Mary. "Evolution of the hand and bipedality". Massey University, NZ. Retrieved September 21, 2017. 
+Morgan, Michael H.; Carrier, David R. (January 2013). "Protective buttressing of the human fist and the evolution of hominin hands". J Exp Biol. 216: 236–244. doi:10.1242/jeb.075713. Retrieved September 21, 2017. 
+Putz, RV; Tuppek, A. (November 1999). "Evolution of the hand". Handchir Mikrochir Plast Chir. 31 (6): 357–61. doi:10.1055/s-1999-13552. PMID 10637723. | accessdate =
+Reardon, Sara (December 19, 2012). "Human hands evolved so we could punch each other". New Scientist. Retrieved September 21, 2017. 
+Ross, Lawrence M.; Lamperti, Edward D., eds. (2006). Thieme Atlas of Anatomy: General Anatomy and Musculoskeletal System. Thieme. ISBN 1-58890-419-9. 
+Schmidt, Hans-Martin; Lanz, Ulrich (2003). Surgical Anatomy of the Hand. Thieme. ISBN 1-58890-007-X. 
+Tocheri, Matthew W.; Orr, Caley M.; Jacofsky, Marc C.; Marzke, Mary W. (2008). "The evolutionary history of the hominin hand since the last common ancestor of Pan and Homo". J. Anat. (212): 544–562. doi:10.1111/j.1469-7580.2008.00865.x. PMC 2409097 . PMID 18380869.  (Abstract, PubMed) (PDF, Smithsonian)
+Tubiana, Raoul; Thomine, Jean-Michel; Mackin, Evelyn (1998). Examination of the Hand and Wrist (2nd ed.). Taylor & Francis. ISBN 978-1-85317-544-2. 
+Xu, X; Clark, JM; Mo, J; Choiniere, J; Forster, CA; Erickson, GM; Hone, DWE; Sullivan, C; Eberth, DA; Nesbitt, S; Zhao, Q; Hernandez, R; Jia, CK; Han, FL; Guo, Y (2009). "A Jurassic ceratosaur from China helps clarify avian digital homologies". Nature. 459 (7249): 940–944. Bibcode:2009Natur.459..940X. doi:10.1038/nature08124. PMID 19536256. CS1 maint: Multiple names: authors list (link)
+External links[edit]Find more aboutHandat Wikipedia's sister projectsDefinitions from Wiktionary
+Media from Wikimedia Commons
+News from Wikinews
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Learning resources from WikiversityHand anatomy (eMedicine)
+Film Board of Canada documentary Faces of the Hand (Requires Adobe Flash)
+The Common Hand article in the May 2012 National Geographicv
+t
+e
+Human regional anatomyHeadEar
+FaceCheek
+Chin
+Eye
+Mouth
+Nose
+Forehead
+Jaw
+Occiput
+Scalp
+TempleNeckAdam's apple
+ThroatTrunkAbdomenWaist
+Midriff
+Navel
+Back
+ThoraxBreast
+PelvisSex organsLimbs
+ArmShoulder
+Axilla
+Brachium
+Elbow
+Forearm
+Wrist
+Hand
+FingerThumb
+Index
+Middle
+Ring
+LittleLegButtocks
+Hip
+Thigh
+Knee
+Calf
+FootAnkle
+Heel
+Sole
+Toe
+OtherÉcorché
+General anatomy: systems and organs, regional anatomy, planes and lines, superficial axial anatomy, superficial anatomy of limbs
+v
+t
+e
+Muscles of the armShoulderdeltoid
+rotator cuffsupraspinatus
+infraspinatus
+teres minor
+subscapularis
+teres majorfascia:deltoid fascia
+supraspinous fascia
+infraspinous fascia
+Arm
+(compartments)
+anteriorcoracobrachialis
+biceps
+brachialisposteriortriceps brachii
+anconeus
+articularis cubitifasciaaxillary sheath
+axillary fascia
+brachial fascia
+intermuscular septalateral
+medialotherspacesquadrangular space
+triangular space
+triangular interval
+Forearm
+anterior
+superficial:pronator teres
+palmaris longus
+flexor carpi radialis
+flexor carpi ulnaris
+flexor digitorum superficialisdeep:pronator quadratus
+flexor digitorum profundus
+flexor pollicis longus
+posterior
+superficial:mobile wadbrachioradialis
+extensor carpi radialis longus and brevis
+extensor digitorum
+extensor digiti minimi
+extensor carpi ulnarisdeep:supinator
+anatomical snuff boxabductor pollicis longus
+extensor pollicis brevis
+extensor pollicis longus
+extensor indicis
+fasciabicipital aponeurosis
+common tendonsextensor
+flexor
+antebrachial fasciaothercubital tunnel
+Hand
+lateral volarthenaropponens pollicis
+flexor pollicis brevis
+abductor pollicis brevis
+adductor pollicismedial volarhypothenaropponens digiti minimi
+flexor digiti minimi brevis
+abductor digiti minimi
+palmaris brevisintermediatelumbrical
+interosseidorsal
+palmarfascia
+posterior:extensor retinaculum
+extensor expansionanterior:flexor retinaculum
+palmar aponeurosisAuthority controlGND: 4023207-4
+NDL: 00572746
+Categories: Upper limb anatomyHandHidden categories: Pages with unresolved propertiesWikipedia indefinitely move-protected pagesWikipedia articles needing clarification from September 2017CS1 maint: Multiple names: authors listWikipedia articles with GND identifiers

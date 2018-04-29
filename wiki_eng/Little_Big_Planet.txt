@@ -1,0 +1,237 @@
+LittleBigPlanet
+This article is about the LittleBigPlanet series. For the PlayStation 3 game, see LittleBigPlanet (2008 video game). For the PlayStation Portable game, see LittleBigPlanet (2009 video game). For the PlayStation Vita game, see LittleBigPlanet PS Vita.
+LittleBigPlanetSeries logoGenres
+Puzzle platformer
+Developer(s)
+Media Molecule
+SCE Cambridge Studio
+Tarsier Studios
+Double Eleven
+XDev
+United Front Games
+Sumo Digital
+Publisher(s)
+Sony Computer Entertainment
+Platforms
+PlayStation 3
+PlayStation Portable
+PlayStation Vita
+PlayStation 4
+Platform of origin
+PlayStation 3
+First release
+LittleBigPlanet
+27 October 2008
+Latest release
+LittleBigPlanet 3
+18 November 2014
+LittleBigPlanet (LBP[1]) is a puzzle platform video game series created by Media Molecule and published by Sony Computer Entertainment on multiple PlayStation platforms. The series follows the adventures of Sackboy and has a large emphasis on gameplay rather than being story-driven. All of the games in the series put a strong emphasis on user-generated content and are based on the series' tagline "Play, Create, Share". The tagline represents the three core elements of the series; Playing alone or with others online or on the same console, creating new content using the in-game creation tools and sharing creations and discoveries online with other players.[2]
+Tarsier Studios, Fireproof Games and Supermassive Games also contribute to the development of the PlayStation 3 games, creating in-game assets including costumes, backgrounds and stickers.[3]
+The series comprises five games across four gaming platforms. The series was launched in 2008 with the PlayStation 3 game, LittleBigPlanet which was followed in 2009 by a PlayStation Portable version of the same name initially developed by SCE Studio Liverpool[4] but later handed to SCE Cambridge Studio. The sequel to the PlayStation 3 version, LittleBigPlanet 2, was released in January 2011 alongside a smaller spin-off title called Sackboy's Prehistoric Moves. A PlayStation Vita game was developed by Tarsier Studios and Double Eleven, released in September 2012. At E3 2014, Sony announced LittleBigPlanet 3, a PlayStation 4 installment that was developed by Sumo Digital and released in November 2014.[5] The games are all published by Sony Computer Entertainment.Contents
+1 Gameplay1.1 Play
+1.2 Create
+1.3 Share
+2 Overview
+3 Games3.1 Main series3.1.1 LittleBigPlanet
+3.1.2 LittleBigPlanet 2
+3.1.3 LittleBigPlanet 3
+3.2 Handheld3.2.1 LittleBigPlanet (PlayStation Portable)
+3.2.2 LittleBigPlanet PS Vita
+3.3 Spinoff games3.3.1 LittleBigPlanet Karting
+3.3.2 Sackboy's Prehistoric Moves
+3.3.3 Run Sackboy! Run!
+3.3.4 LittleBigPlanet Hub
+4 Reception
+5 References
+6 External linksGameplay[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2013) (Learn how and when to remove this template message)The core mechanics of the series revolve around its tagline "Play, Create, Share".
+Play[edit]
+In the first two instalments of the series, gameplay consisted primarily, but not entirely, of traditional two-dimensional platforming like jumping and avoiding obstacles to successfully navigate to the end of a level to win. Since LittleBigPlanet 2, gameplay has expanded to being a "platform for games" with the introduction of numerous mini-games and other genres into the game, diversifying the game from being strictly a traditional platform game. Most LittleBigPlanet games involve a player playing solo or co-operatively with friends to navigate through a level whilst collecting various "bubbles" along the way. These bubbles come in two types: Small ones, known as Score Bubbles, which constitute points and larger ones, known as Prize Bubbles, that contain new costumes, stickers, or other types of collectibles. These collectibles can be used in level creation or to customise Sackboy. There are also numerous co-operative parts of levels whereby certain prize bubbles
+Create[edit]
+The Create component primarily refers to level creation in the game, on which LittleBigPlanet places a major emphasis; it also can refer to other things, such as character customisation. Players can create their own levels with the built-in level creator. Many items that are collected while playing through the story mode and from LittleBigPlanet's community can be used to help with level creation. These levels can remain as the original LittleBigPlanet platforming gameplay, or they can be expanded to many other game types, such as racing, fighting, shooting, sports and nearly any other game type that the player can think of. The player can also make non-gaming creations such as music and films (films are commonly known in-game as cut-scenes). In LittleBigPlanet 2, Sackbots were introduced to give players more control over Non Playable Characters in their levels as well as make the levels in their entirety more intelligent (for example, Sackbots can be in various areas of a level and control things in it which the player cannot). The creation technique introduced on the game gave the possibility for logic, and it gave the ability to build sets of machines and complex contraptions.
+Share[edit]
+Lastly, the Share component relates to sharing creations with the game's community by uploading levels to the PlayStation Network. To-date there are in excess of ten million user-created levels available to play in the PlayStation 3 games. Since the release of LittleBigPlanet 2 and the LBP.me community website, the Share component has also had a strong emphasis sharing discoveries. Players are encouraged to share levels they find with other players by writing reviews and comments in-game and by sharing links to creations' LBP.me pages via social networks.
+Overview[edit]
+The series takes place in a world known as LittleBigPlanet, sometimes referred to as Craftworld. Each curator is in charge of a part of LittleBigPlanet and they govern them independently. LittleBigPlanet has geography inspired by the real-life Earth. All games in the series follow the main protagonist Sackboy, a small, brown, anthropomorphic, humanoid creature made of fabric with a zip fastener and button eyes. He can be customised to the player's liking using costumes that are either unlocked in the game, or bought as DLC from the PlayStation Store. The player can control Sackboy's four emotions; happiness, sadness, worry and anger, each of which has three levels of intensity. The English language version of each game is narrated by Stephen Fry and in all formats Fry's scripts are written by Dean Wilkinson.
+Games[edit]Timeline of release years2008
+LittleBigPlanet
+2009
+LittleBigPlanet (PSP)
+2010
+Sackboy's Prehistoric Moves
+2011
+LittleBigPlanet 2
+2012
+LittleBigPlanet PS Vita
+LittleBigPlanet Karting
+2013
+2014
+LittleBigPlanet 3
+Main series[edit]
+LittleBigPlanet[edit]
+Main article: LittleBigPlanet (2008 video game)
+The first game in the series was released on the PlayStation 3 platform in 2008 and was the first title developed by Media Molecule, under the name The Next Big Thing. The game received extremely positive reviews for its design, gameplay, and customisation leading it to win many awards.[6] In the game, player controls Sackboy as he travels around LittleBigPlanet, helping the eight creator curators of LittleBigPlanet with their problems in their own respective realms as he tries to stop The Collector, one of the eight creator curators who, unlike the other seven, has gone rogue, kidnapping the creations of LittleBigPlanet.[7]
+LittleBigPlanet 2[edit]
+Main article: LittleBigPlanet 2
+The second game in the series is a direct sequel to the first LittleBigPlanet and was developed by Media Molecule for the PlayStation 3 for a release in 2011. The sequel saw a major shift in the direction of the series, going from a primarily traditional platform game in the first two entries to a more varied style of gameplay called a "platform for games". The second game gave players a wider variety of options when it came to level design, which saw the creation of levels other than platforming such as racing, puzzles, and fighting games.[8] Following the events of the first two entries in the series, the game takes place when an antagonist known as the Negativitron invades LittleBigPlanet and begins to suck up all its inhabitants. Sackboy must then team up with a secret organisation known as "The Alliance", led by Larry Da Vinci, to save LittleBigPlanet from the Negativitron as they travel around LittleBigPlanet battling the Negativitron.[9] The game also supported the PlayStation Move, with an update post-launch.
+LittleBigPlanet 3[edit]
+Main article: LittleBigPlanet 3
+LittleBigPlanet 3 is a game for the PlayStation 3[10][11][12] and PlayStation 4. Announced at E3 2014, it was developed by Sumo Digital and released in November 2014. In the game, Sackboy is transported to another world, Bunkum. Here, he has to awaken its three missing heroes, OddSock, Toggle and Swoop, who are new playable characters. The PlayStation 4 version was made available free as part of the PS Plus February 2017 lineup.[13]
+Handheld[edit]
+LittleBigPlanet (PlayStation Portable)[edit]
+Main article: LittleBigPlanet (2009 video game)
+Following the critical success of the original game, a portable entry of the series was developed primarily by Cambridge Studio in association with Media Molecule for the PlayStation Portable. The game, released in 2009, shared the same name as the original game; however, it was not a port of the PlayStation 3 game, but rather a new entry in the series. It boasted an entirely new story-mode with new levels and still featured many of the same mechanics of its PlayStation 3 counterpart, such as customisations, albeit without the multi-player component of the game. Also notable are a few restrictions such as only having 2 layers instead of 3. The game takes place after the events of the PlayStation 3 version of LittleBigPlanet, in which The Collector has already been defeated. A massive carnival is being held and Sackboy decides to go around the world to invite the eight curators of LittleBigPlanet to the carnival whilst finding materials for his own carnival float.[14]
+LittleBigPlanet PS Vita[edit]
+Main article: LittleBigPlanet PS Vita
+The fourth game in the series was developed by Double Eleven Limited, Tarsier Studios and Sony XDev Europe for the PlayStation Vita handheld and had a 2012 release.[15] The game features the same core mechanics from LittleBigPlanet 2, with the focus being on a "platform for games" rather than a platformer like previous entries in the series before LittleBigPlanet 2. The game utilises the unique controls of the PlayStation Vita by using its multi-touch touchscreen and its rear touchpad to navigate through various obstacles in stages as well as for level creation by users.[16] The game supports cross-buy of DLC costume packs between LittleBigPlanet 2, as well as LittleBigPlanet Karting, a cross-play pack was released for LittleBigPlanet 2 on 18 December 2012.
+Spinoff games[edit]
+LittleBigPlanet Karting[edit]
+Main article: LittleBigPlanet Karting
+This is the fifth game in the series and the first to use a completely new genre for the series, with it being a kart racing game instead of platforming. Because it's made by SCE San Diego, who also made M.F.N. Adventures with Naughty Dog & BiOrangElectriX Games, it was originally intended to be a spin-off but became a main part of the series, as it continued where LittleBigPlanet 2 left off. The game was developed by United Front, with the help of XDev, in conjunction with series creator Media Molecule for the PlayStation 3. As part of the LittleBigPlanet series, the game will still retain the series' signature "Play, Create, Share" concept. It also has its own story mode, venturing through LittleBigPlanet, Monster Islands, Victoria's Laboratory, The Progress Emporium, Eve's Asylum, Avalonia/The Space Bass, and Hoard, Sweet Hoard, to put an end to the greedy, grabbing Hoard racers, who snatch many pieces of the different planets to stash them in the Garage at the End of the Universe. Sony Entertainment America shut down the LittleBigPlanet Karting online servers on August 31 of 2016 for North Americans.
+Sackboy's Prehistoric Moves[edit]
+Main article: Sackboy's Prehistoric Moves
+The game was developed by XDev as a spin-off from the LittleBigPlanet series utilising the PlayStation Move on the PlayStation 3. It was released in December 2010, as a downloadable title from the PlayStation Store and was later bundled with LittleBigPlanet 2. The game was described as a "demo" and featured 10 prehistoric inspired story levels. In the game, Sackboy must save Little Big Planet from the T-Rex. Unlike the main games, which can be played as a single-player experience, the game required a minimum of two players to work. This was due to the main mechanics of the spin-off whereby one player would control Sackboy traditionally using the gamepad for platforming while a second player had to use a PlayStation Move similar to a pointer to move obstacles and objects out of the way in order to successfully navigate a level.[17]
+Run Sackboy! Run![edit]
+Run Sackboy! Run! is a free-to-play endless running game that was released on iOS on 30 October 2014,[18] Android on 17 December 2014 via the Google Play store[19] and PlayStation Vita on 31 March 2015.[20] The game has no real plot, except for Sackboy running through Craftworld from the Negativitron.
+LittleBigPlanet Hub[edit]
+LittleBigPlanet Hub is a currently unreleased free-to-play game for the PlayStation 3.[21] LittleBigPlanet Hub will be available to download free from the PlayStation Store and will allow players to create levels and play a curated selection of community levels from LittleBigPlanet and LittleBigPlanet 2 as well as 16 levels from the games' story modes. LittleBigPlanet Hub will also feature weekly challenges, not found in other LittleBigPlanet games. Downloadable content purchased in other LittleBigPlanet games will be compatible with LittleBigPlanet Hub, and users will also be able to access additional content from the PlayStation Store.
+Since its announcement in August 2013, no further details about LittleBigPlanet Hub have been revealed.[22]
+Reception[edit]
+Game
+GameRankings
+Metacritic
+LittleBigPlanet (PlayStation 3)94.67%
+95/100[23]LittleBigPlanet (PlayStation Portable)87.55%
+87/100[24]Sackboy's Prehistoric Moves67.50%
+66/100LittleBigPlanet 292.20%
+91/100LittleBigPlanet PS Vita88.70%
+88/100LittleBigPlanet Karting72.71%
+74/100LittleBigPlanet 380%
+79/100Run Sackboy! Run!64%
+65/100Most of the games in the series have been well received by critics with the LittleBigPlanet on PlayStation 3 and PlayStation Portable gaining Metacritic scores of 95/100[23] and 87/100[24] respectively. LittleBigPlanet 2 garnered nearly as much acclaim as the first game with an average score of 91/100.[25] LittleBigPlanet PS Vita also received very positive reviews and was the highest-ranked PS Vita game at the time of its release with an average score of 88/100.[26] However, the release of LittleBigPlanet 3 did not receive critical acclaim, garnering a mostly positive average of 79/100.[27] Critically, LittleBigPlanet Karting is the worst-performing major game in the series so far but still gained a "mixed or average" Metacritic score of 74/100.[28] However, the mobile game Run Sackboy! Run! performed worse, with a Metacritic score of 65/100.[29]References[edit]^ Ellie Gibson (26 August 2008). "LBP's copyright system explained". Eurogamer. Eurogamer. Retrieved 18 October 2008. 
+^ Matthew Frassetti (3 June 2009). "Play, Create, and Share Is The New Sandbox Genre". Gematsu. Retrieved 15 December 2011. 
+^ "Introducing the Extended LittleBigPlanet Family - Media Molecule - We make games". Media Molecule. Retrieved 6 December 2010. 
+^ "LittleBigPlanet coming to PSP - CVG". Computerandvideogames.com. 8 April 2008. Retrieved 14 June 2014. 
+^ "LittleBigPlanet 3 coming to PS4 this November". 10 June 2014. Retrieved 10 June 2014. 
+^ "2009 12th Annual Interactive Achievement Awards". Interactive.org. Retrieved 24 October 2010. 
+^ "PlayStation Games - LittleBigPlanet™". Uk.playstation.com. Retrieved 6 December 2010. 
+^ Eric Levine (10 May 2010). "LittleBigPlanet 2 for PS3 Officially Announced for Winter 2010!". PlayStation Blog. Retrieved 10 May 2010. 
+^ Media Molecule Staff. "LittleBigPlanet 2 Official Site". Sony Computer Entertainment. Archived from the original on 13 May 2010. Retrieved 10 May 2010. 
+^ "Twitter / StevenIsbell: @rialrees @hyperdude53". Twitter.com. 10 June 2014. Retrieved 14 June 2014. 
+^ "Report: LittleBigPlanet 3 PS3 Version Happening, in Addition to PS4". Playstationlifestyle.net. Retrieved 14 June 2014. 
+^ Lowe, Mike (10 June 2014). "Little Big Planet 3 for PS3 and PS4: Three new characters drive multiplayer focus". Pocket-lint. Retrieved 14 June 2014. 
+^ "PS Plus: Free Games for February 2017". PlayStation.Blog. Retrieved 2017-02-07. 
+^ "PlayStation Games - LittleBigPlanet™". Uk.playstation.com. Retrieved 6 December 2010. 
+^ "LittleBigPlanet (working title) - PlayStation Vita, PS Vita game". Uk.playstation.com. Retrieved 14 December 2011. 
+^ Schramm, Mike (7 June 2011). "LittleBigPlanet (PS Vita) preview: Touched by a Sackboy". Joystiq. Retrieved 27 June 2011. 
+^ "Sackboy's Prehistoric Moves, LittleBigPlanet 2 Demo, Beta Expansion All Coming in December – PlayStation Blog". Blog.us.playstation.com. 18 November 2010. Retrieved 17 January 2011. 
+^ Acinelli, Nick (2 November 2014). "Run Sackboy! Run! is available on IOS now". TechnologyTell. Retrieved 4 November 2014. 
+^ Matulef, Jeffrey (4 September 2014). "LittleBigPlanet gets a F2P mobile runner spin-off, Run Sackboy! Run!". Eurogamer. Gamer Network. Retrieved 7 September 2014. 
+^ Isbell, Steven (31 March 2015). "Run Sackboy! Run! Out Today on PS Vita". PlayStation Blog. Retrieved 31 March 2015. 
+^ "Introducing LittleBigPlanet HUB!". LittleBigPlanet.com. 
+^ "Introducing LittleBigPlanet HUB! - PlayStation.Blog.Europe". Blog.eu.playstation.com. Retrieved 14 June 2014. 
+^ a b "LittleBigPlanet for PlayStation 3 Reviews, Ratings, Credits, and More at Metacritic". Metacritic.com. 27 October 2008. Retrieved 6 December 2010. 
+^ a b "LittleBigPlanet for PSP Reviews, Ratings, Credits, and More at Metacritic". Metacritic.com. 17 November 2009. Retrieved 6 December 2010. 
+^ "LittleBigPlanet 2 for PlayStation 3 Reviews". Metacritic. Retrieved 14 June 2014. 
+^ "LittleBigPlanet PS Vita for PlayStation Vita Reviews". Metacritic. Retrieved 14 June 2014. 
+^ "LittleBigPlanet 3 for PlayStation 4 Reviews". Metacritic. Retrieved 30 August 2015. 
+^ "LittleBigPlanet Karting for PlayStation 3 Reviews". Metacritic. Retrieved 14 June 2014. 
+^ "Run Sackboy! Run Reviews". Metacritic. Retrieved 19 April 2017. External links[edit]Official websitev
+t
+e
+LittleBigPlanet seriesVideo games
+ConsoleLittleBigPlanetDLC
+LittleBigPlanet 2DLC
+LittleBigPlanet Karting
+LittleBigPlanet 3HandheldLittleBigPlanet
+LittleBigPlanet PS Vita
+RelatedModNation Racers
+PlayStation All-Stars Battle Royale
+v
+t
+e
+Sony Interactive Entertainment Worldwide StudiosFranchisesApe Escape
+Arc the Lad
+Boku no Natsuyasumi
+Buzz!
+Colony Wars
+Dark Cloud
+Echochrome
+EverQuest
+Everybody's Golf
+Everybody's Tennis
+EyeToy
+FantaVision
+Fat Princess
+G-Police
+Genji
+God of War
+Gran Turismo
+Gravity Rush
+Infamous
+Invizimals
+Jak and Daxter
+Jumping Flash!
+Killzone
+Knack
+Legend of Legaia
+Lemmings
+LittleBigPlanet
+LocoRoco
+MediEvil
+MLB: The Show
+ModNation Racers
+MotorStorm
+Motor Toon Grand Prix
+Ore no Shikabane wo Koete Yuke/Oreshika
+PaRappa the Rapper
+Patapon
+PlanetSide
+Pursuit Force
+Rally Cross
+Ratchet & Clank
+Resistance
+Shadow of the Beast
+SingStar
+Siren
+Sly Cooper
+SOCOM
+Soul Sacrifice
+Sports Champions
+Start the Party!
+Syphon Filter
+The Eye of Judgment
+The Getaway
+The Last of Us
+This Is Football (franchise)
+Twisted Metal
+Uncharted
+Vib-Ribbon
+Warhawk
+White Knight Chronicles
+Wipeout
+WonderbookDivisionsBend Studio
+Foster City Studio
+Japan Studio
+London Studio
+San Diego Studio
+Santa Monica StudioSubsidiariesGuerrilla Games
+J.S.E.E.D.
+PlayStation C.A.M.P.
+Team Gravity
+Team Ico
+Media Molecule
+Naughty Dog
+PixelOpus
+Polyphony Digital
+Sucker Punch Productions
+XDevFormer subsidiaries989 Studios
+Bigbig Studios
+Contrail
+Evolution Studios
+Guerrilla Cambridge
+Incognito Entertainment
+Psygnosis
+Team Soho
+Zipper Interactive
+Categories: LittleBigPlanetVideo game franchises introduced in 2008Video games developed in the United KingdomSony Interactive Entertainment gamesFictional planetsScience fantasy video gamesMedia MoleculeHidden categories: Use dmy dates from March 2015Articles needing additional references from November 2013All articles needing additional references

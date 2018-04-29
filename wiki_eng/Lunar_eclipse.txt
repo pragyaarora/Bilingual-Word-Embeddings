@@ -1,0 +1,651 @@
+Lunar eclipse
+For other uses, see Lunar eclipse (disambiguation).
+Not to be confused with Solar eclipse.Recent total eclipses
+January 31, 2018April 4, 2015September 28, 2015April 15, 2014October 8, 2014
+A lunar eclipse occurs when the Moon passes directly behind Earth and into its shadow. This can occur only when the Sun, Earth, and the Moon are aligned (in syzygy) exactly or very closely so, with the planet in between. Hence, a lunar eclipse can occur only on the night of a full moon. The type and length of an eclipse depend on the Moon's proximity to either node of its orbit.
+During a total lunar eclipse, Earth completely blocks direct sunlight from reaching the Moon. The only light reflected from the lunar surface has been refracted by Earth's atmosphere. This light appears reddish for the same reason that a sunset or sunrise does: the Rayleigh scattering of bluer light. Due to this reddish color, a totally eclipsed Moon is sometimes called a blood moon.
+Unlike a solar eclipse, which can be viewed only from a certain relatively small area of the world, a lunar eclipse may be viewed from anywhere on the night side of Earth. A total lunar eclipse lasts a few hours, whereas a total solar eclipse lasts only a few minutes as viewed from any given place, due to the smaller size of the Moon's shadow. Also unlike solar eclipses, lunar eclipses are safe to view without any eye protection or special precautions, as they are dimmer than the full Moon.
+For the date of the next eclipse, see the section Recent and forthcoming lunar eclipses.
+Contents
+1 Types of lunar eclipse1.1 Selenelion
+2 Timing
+3 Danjon scale
+4 Lunar versus solar eclipse4.1 Lunar eclipse appearance
+5 Lunar eclipse in culture5.1 Incans
+5.2 Mesopotamians
+5.3 Chinese
+6 Blood moon
+7 Occurrence7.1 Recent and forthcoming lunar eclipses
+8 See also
+9 References
+10 Further reading
+11 External linksTypes of lunar eclipse 
+A schematic diagram of the shadow cast by Earth. Within the umbra, the central region, the planet totally shields direct sunlight. In contrast, within the penumbra, the outer portion, the sunlight is only partially blocked. (Neither the Sun, Moon, and Earth sizes nor the distances between the bodies are to scale.)
+A total penumbral lunar eclipse dims the Moon in direct proportion to the area of the Sun's disk covered by Earth. This comparison of the Moon (within the southern part of Earth's shadow) during the penumbral lunar eclipse of January 1999 (left) and the Moon outside the shadow (right) shows this slight darkening.
+Earth's shadow can be divided into two distinctive parts: the umbra and penumbra. Earth totally occludes direct solar radiation within the umbra, the central region of the shadow. However, since the Sun's diameter appears about one-quarter of Earth's in the lunar sky, the planet only partially blocks direct sunlight within the penumbra, the outer portion of the shadow.
+A penumbral lunar eclipse occurs when the Moon passes through Earth's penumbra. The penumbra causes a subtle dimming of the lunar surface. A special type of penumbral eclipse is a total penumbral lunar eclipse, during which the Moon lies exclusively within Earth's penumbra. Total penumbral eclipses are rare, and when these occur, the portion of the Moon closest to the umbra may appear slightly darker than the rest of the lunar disk.
+A partial lunar eclipse occurs when only a portion of the Moon enters Earth's umbra, while a total lunar eclipse occurs when the entire Moon enters the planet's umbra. The Moon's average orbital speed is about 2,300 mph (1.03 km/s), or a little more than its diameter per hour, so totality may last up to nearly 107 minutes. Nevertheless, the total time between the first and the last contacts of the Moon's limb with Earth's shadow is much longer and could last up to four hours.[1]
+The relative distance of the Moon from Earth at the time of an eclipse can affect the eclipse's duration. In particular, when the Moon is near apogee,the farthest point from Earth in its orbit, its orbital speed is the slowest. The diameter of Earth's umbra does not decrease appreciably within the changes in the Moon's orbital distance. Thus, the concurrence of a totally eclipsed Moon near apogee will lengthen the duration of totality.
+A central lunar eclipse is a total lunar eclipse during which the Moon passes through the centre of Earth's shadow, contacting the antisolar point. This type of lunar eclipse is relatively rare.Selenelion
+A view of the October 2014 lunar eclipse from Minneapolis, with the setting and partially eclipsed Moon appearing squashed just above the horizon just after sunrise (seen as sunlight shining on the tree in the right image)
+A selenelion or selenehelion occurs when both the Sun and an eclipsed Moon can be observed at the same time. This can occur only just before sunset or just after sunrise, when both bodies will appear just above the horizon at nearly opposite points in the sky. This arrangement has led to the phenomenon being also called a horizontal eclipse.
+Typically, a number of high ridges undergoing sunrise or sunset can view it. Although the Moon is in Earth's umbra, both the Sun and an eclipsed Moon can be simultaneously seen because atmospheric refraction causes each body to appear higher in the sky than their true geometric positions.[2]
+Timing
+As viewed from Earth, the Earth’s shadow can be imagined as two concentric circles. As the diagram illustrates, the type of lunar eclipse is defined by the path taken by the Moon as it passes through Earth’s shadow. If the moon passes through the outer circle but does not reach the inner circle, it is a penumbral eclipse; if only a portion of the moon passes through the inner circle, it is a partial eclipse; and if entire Moon passes through the inner circle at some point, it is a total eclipse.
+Contact points relative to the Earth's umbral and penumbral shadows, here with the Moon near is descending node
+The timing of total lunar eclipses are determined by its contacts:[3]P1 (First contact): Beginning of the penumbral eclipse. Earth's penumbra touches the Moon's outer limb.
+U1 (Second contact): Beginning of the partial eclipse. Earth's umbra touches the Moon's outer limb.
+U2 (Third contact): Beginning of the total eclipse. The Moon's surface is entirely within Earth's umbra.
+Greatest eclipse: The peak stage of the total eclipse. The Moon is at its closest to the center of Earth's umbra.
+U3 (Fourth contact): End of the total eclipse. The Moon's outer limb exits Earth's umbra.
+U4 (Fifth contact): End of the partial eclipse. Earth's umbra leaves the Moon's surface.
+P4 (Sixth contact): End of the penumbral eclipse. Earth's penumbra no longer makes contact with the Moon.Danjon scale
+The following scale (the Danjon scale) was devised by André Danjon for rating the overall darkness of lunar eclipses:[4]L=0: Very dark eclipse. Moon almost invisible, especially at mid-totality.
+L=1: Dark eclipse, gray or brownish in coloration. Details distinguishable only with difficulty.
+L=2: Deep red or rust-colored eclipse. Very dark central shadow, while outer edge of umbra is relatively bright.
+L=3: Brick-red eclipse. Umbral shadow usually has a bright or yellow rim.
+L=4: Very bright copper-red or orange eclipse. Umbral shadow is bluish and has a very bright rim.Lunar versus solar eclipse
+A solar eclipse occurs in the day time at new moon, when the moon is between the Earth and the sun, while a lunar eclipse occurs at night when the Earth passes between the Sun and the Moon.
+The moon does not completely disappear as it passes through the umbra because of the refraction of sunlight by the Earth's atmosphere into the shadow cone.
+There is often confusion between a solar and lunar eclipse. While both involve interactions between the sun, Earth, and moon, they are very different in their interactions.
+Lunar eclipse appearance
+A lunar eclipse occurs in two regions, an outer penumbral shadow where the sunlight is dimmed, and an inner umbral shadow, where much dimmer sunlight only exists by refraction through the Earth's atmosphere, leaving a red color. This can be seen in different exposures of a partial lunar eclipse, for example here with exposures of 1/80, 2/5, and 2 seconds.
+The moon does not completely disappear as it passes through the umbra because of the refraction of sunlight by the Earth's atmosphere into the shadow cone; if the Earth had no atmosphere, the Moon would be completely dark during an eclipse.[5] The reddish coloration arises because sunlight reaching the Moon must pass through a long and dense layer of the Earth's atmosphere, where it is scattered. Shorter wavelengths are more likely to be scattered by the air molecules and the small particles, and so by the time the light has passed through the atmosphere, the longer wavelengths dominate. This resulting light we perceive as red. This is the same effect that causes sunsets and sunrises to turn the sky a reddish color; an alternative way of considering the problem is to realize that, as viewed from the moon, the sun would appear to be setting (or rising) behind the Earth.
+From the Moon, a lunar eclipse would show a ring of reddish-orange light surrounding a dark Earth in the sky.
+The amount of refracted light depends on the amount of dust or clouds in the atmosphere; this also controls how much light is scattered. In general, the dustier the atmosphere, the more that other wavelengths of light will be removed (compared to red light), leaving the resulting light a deeper red color. This causes the resulting coppery-red hue of the moon to vary from one eclipse to the next. Volcanoes are notable for expelling large quantities of dust into the atmosphere, and a large eruption shortly before an eclipse can have a large effect on the resulting color.
+Christopher Columbus predicting the lunar eclipse.
+Lunar eclipse in culture
+Several cultures have myths related to lunar eclipses or allude to the lunar eclipse as being a good or bad omen. The Egyptians saw the eclipse as a sow swallowing the moon for a short time; other cultures view the eclipse as the moon being swallowed by other animals, such as a jaguar in Mayan tradition, or a three legged toad in China. Some societies thought it was a demon swallowing the moon, and that they could chase it away by throwing stones and curses at it.[6] The Greeks were ahead of their time when they said the Earth was round and used the shadow from the lunar eclipse as evidence.[7] Some Hindus believe in the importance of bathing in the Ganges River following an eclipse because it will help to achieve salvation.[8]
+Incans
+Similarly to the Mayans, the Incans believed that lunar eclipses occurred when a jaguar would eat the moon, which is why a blood moon looks red. The Incans also believed that once the jaguar finished eating the moon, it could come down and devour all the animals on Earth, so they would take spears and shout at the moon to keep it away.[9]
+Mesopotamians
+The ancient Mesopotamians believed that a lunar eclipse was when the moon was being attacked by seven demons. This attack was more than just one on the moon, however, for the Mesopotamians linked what happened in the sky with what happened on the land, and because the king of Mesopotamia represented the land, the seven demons were thought to be also attacking the king. In order to prevent this attack on the king, the Mesopotamians made someone pretend to be the king so they would be attacked instead of the true king. After the lunar eclipse was over, the substitute king was made to disappear (possibly by poisoning).[9]
+Chinese
+In some Chinese cultures, people would ring bells to prevent a dragon or other wild animals from biting the moon.[10] In the nineteenth century, during a lunar eclipse, the Chinese navy fired its artillery because of this belief.[11] During the Zhou Dynasty in the Book of Songs, the sight of a red moon engulfed in darkness was believed to foreshadow famine or disease.[12]
+Blood moon
+See also: Blood Moon Prophecy
+Certain lunar eclipses have been referred to as "blood moons" in popular articles but this is not a scientifically-recognized term.[13] This term has been given two separate, but overlapping, meanings.
+The first, and simpler, meaning relates to the reddish color a totally eclipsed Moon takes on to observers on Earth.[14] As sunlight penetrates the atmosphere of Earth, the gaseous layer filters and refracts the rays in such a way that the green to violet wavelengths on the visible spectrum scatter more strongly than the red, thus giving the Moon a reddish cast.[15]
+The second meaning of "blood moon" has been derived from this apparent coloration by two fundamentalist Christian pastors, Mark Blitz and John Hagee.[13][16] They claimed that the 2014–15 "lunar tetrad" of four lunar eclipses coinciding with the feasts of Passover and Tabernacles matched the "moon turning to blood" described in the Book of Joel of the Hebrew Bible.[16] This tetrad was claimed to herald the Second Coming of Christ and the Rapture as described in the Book of Revelations on the date of the first of the eclipses in this sequence on April 15, 2014.[17]
+Occurrence
+This multi-exposure sequence shows the August 2017 lunar eclipse visible from the ESO headquarters.[18]
+This collage shows the transitional stages of a lunar eclipse.
+See also: Saros (astronomy) and Eclipse cycle
+At least two lunar eclipses and as many as five occur every year, although total lunar eclipses are significantly less common. If the date and time of an eclipse is known, the occurrences of upcoming eclipses are predictable using an eclipse cycle, like the saros.
+Recent and forthcoming lunar eclipses
+Main article: List of 21st-century lunar eclipses
+Further information: Lists of lunar eclipses
+Eclipses occur only during an eclipse season, when the Sun appears to pass near either node of the Moon's orbit.
+Lunar eclipse series sets from 1998–2002
+Descending node
+ 
+Ascending node
+Saros
+Date
+Viewing
+Type
+Chart
+Saros
+Date
+Viewing
+Type
+Chart
+109
+1998 Aug 08Penumbral114
+1999 Jan 31Penumbral119
+1999 Jul 28Partial124
+2000 Jan 21Total129
+2000 Jul 16Total134
+2001 Jan 09Total139
+2001 Jul 05Partial144
+2001 Dec 30Penumbral149
+2002 Jun 24Penumbral
+Last set
+1998 Sep 06
+Last set
+1998 Mar 13Next set
+2002 May 26
+Next set
+2002 Nov 20
+Lunar eclipse series sets from 2002–2005
+Descending node
+ 
+Ascending node
+Saros
+Photo
+Date
+View
+Type
+Chart
+Saros
+Photo
+Date
+View
+Type
+Chart
+111
+2002 May 26penumbral116
+2002 Nov 20penumbral1212003 May 16total1262003 Nov 09total1312004 May 04total1362004 Oct 28total141
+2005 Apr 24penumbral146
+2005 Oct 17partial
+Last set
+2002 Jun 24
+Last set
+2001 Dec 30Next set
+2006 Mar 14
+Next set
+2006 Sep 7
+Lunar eclipse series sets from 2006–2009
+Descending node
+ 
+Ascending node
+Saros #
+and photo
+Date
+Viewing
+Type
+Chart
+Saros #
+and photo
+Date
+Viewing
+Type
+Chart
+1132006 Mar 14penumbral1182006 Sep 7partial1232007 Mar 03total1282007 Aug 28total1332008 Feb 21total1382008 Aug 16partial1432009 Feb 09penumbral1482009 Aug 06penumbral
+Last set
+2005 Apr 24
+Last set
+2005 Oct 17Next set
+2009 Dec 31
+Next set
+2009 Jul 07
+Lunar eclipse series sets from 2009–2013
+Ascending node
+ 
+Descending node
+Saros #
+Photo
+Date
+Viewing
+Type
+chart
+Saros #
+Photo
+Date
+Viewing
+Type
+chart
+110
+2009 July 07penumbral1152009 Dec 31partial1202010 June 26partial1252010 Dec 21total1302011 June 15total1352011 Dec 10total1402012 June 04partial145
+2012 Nov 28penumbral150
+2013 May 25penumbral
+Last set
+2009 Aug 06
+Last set
+2009 Feb 9Next set
+2013 Apr 25
+Next set
+2013 Oct 18
+Lunar eclipse series sets from 2013–2016
+Ascending node
+ 
+Descending node
+Saros
+Viewing
+date
+Type
+Saros
+Viewing
+date
+Type
+1122013 Apr 25Partial117
+2013 Oct 18Penumbral1222014 Apr 15Total1272014 Oct 08Total1322015 Apr 04Total1372015 Sep 28Total142
+2016 Mar 23Penumbral1472016 Sep 16Penumbral
+Last set
+2013 May 25
+Last set
+2012 Nov 28Next set
+2017 Feb 11
+Next set
+2016 Aug 18
+Lunar eclipse series sets from 2016–2020
+Descending node
+ 
+Ascending node
+Saros
+Date
+Type
+Viewing
+Saros
+Date
+Viewing
+Type
+Chart
+109
+2016 Aug 18Penumbral1142017 Feb 11Penumbral1192017 Aug 07Partial1242018 Jan 31Total129
+2018 Jul 27Total134
+2019 Jan 21Total139
+2019 Jul 16Partial144
+2020 Jan 10Penumbral149
+2020 Jul 05Penumbral
+Last set
+2016 Sep 16
+Last set
+2016 Mar 23Next set
+2020 Jun 05
+Next set
+2020 Nov 30
+See also
+Moon portalBook: Lunar EclipsesLists of lunar eclipses and List of 21st-century lunar eclipses
+Moon illusion
+Orbit of the MoonReferences^ Karttunen, Hannu. Fundamental Astronomy. Springer. 
+^ "Observing Blog - In Search of Selenelion". Sky & Telescope. 2010-06-26. Retrieved 2011-12-08. 
+^ Clarke, Kevin. "On the nature of eclipses". Inconstant Moon. Cyclopedia Selenica. Retrieved 19 December 2010. 
+^ Paul Deans and Alan M. MacRobert (July 16, 2006). "Observing and Photographing Lunar Eclipses". Sky & Telescope. F+W. CS1 maint: Uses authors parameter (link)
+^ Fred Espenak and Jean Meeus. "Visual Appearance of Lunar Eclipses". NASA. The troposphere and stratosphere act together as a ring-shaped lens that refracts heavily reddened sunlight into Earth's umbral shadow 
+^ Littmann, Mark; Espenak, Fred; Willcox, Ken (2008). "Chapter 4: Eclipses in Mythology". Totality Eclipses of the Sun (3rd ed.). New York: Oxford University Press. ISBN 978-0-19-953209-4. Retrieved 17 December 2014. 
+^ Pollack, Rebecca. "Ancient Myths Revised with Lunar Eclipse". University of Maryland. Retrieved 2 October 2014. 
+^ Ani. "Hindus take a dip in the Ganges during Lunar Eclipse". Yahoo News. Retrieved 2 October 2014. 
+^ a b Lee, Jane. "Lunar Eclipse Myths From Around the World". National Geographic. Retrieved 9 October 2014. 
+^ Quilas, Ma Evelyn. "Interesting Facts and Myths about Lunar Eclipse". LA Times. Retrieved 2 October 2014. 
+^ "MYTHOLOGY OF THE LUNAR ECLIPSE". 
+^ Kaul, Gayatri. "What Lunar Eclipse Means in Different Parts of the World". India.com. Retrieved 6 October 2014. 
+^ a b Sappenfield, Mark (13 April 2014). "Blood Moon to arrive Monday night. What is a Blood Moon?". Christian Science Monitor. Retrieved 8 February 2018. 
+^ Nigro, Nicholas (2010). Knack Night Sky: Decoding the Solar System, from Constellations to Black Holes. Globe Pequot. pp. 214–5. ISBN 978-0-7627-6604-8. 
+^ "All you need to know about the 'blood moon'". theguardian. 28 September 2015. 
+^ a b "What is a Blood Moon?". Earth & Sky. 24 April 2014. Retrieved 30 May 2014. 
+^ Bailey, Sarah Pulliam (15 April 2014). "'Blood moon' sets off apocalyptic debate among some Christians". Washington Post. Religion News Service. Retrieved 8 February 2018. 
+^ "Lunar Eclipse @ ESO". European Southern Observatory. Retrieved 14 August 2017. Further readingBao-Lin Liu, Canon of Lunar Eclipses 1500 B.C.-A.D. 3000, 1992
+Jean Meeus and Hermann Mucke Canon of Lunar Eclipses. Astronomisches Büro, Vienna, 1983
+Espenak, F., Fifty Year Canon of Lunar Eclipses: 1986-2035. NASA Reference Publication 1216, 1989External linksFind more aboutLunar eclipseat Wikipedia's sister projectsDefinitions from Wiktionary
+Media from Wikimedia Commons
+News from Wikinews
+Texts from Wikisource
+Textbooks from Wikibooks"Lunar Eclipse Essentials": video from NASA
+Animated explanation of the mechanics of a lunar eclipse, University of South Wales
+U.S. Navy Lunar Eclipse Computer
+NASA Lunar Eclipse Page
+Search among the 12,064 lunar eclipses over five millennium and display interactive maps
+Lunar Eclipses for Beginners
+Tips on photographing the lunar eclipse from New York Institute of Photography
+Lunar Eclipse 08 October 2014 on YouTubev
+t
+e
+The MoonPhysical
+propertiesInternal structure
+Topography
+Atmosphere
+Gravity fieldHill sphere
+Magnetic field
+Sodium tail
+MoonlightEarthshine
+OrbitOrbital elementsDistancePerigee and apogee
+NodesNodal period
+Precession
+SyzygyNew moon
+Full moon
+EclipsesLunar eclipseTotal penumbral lunar eclipse
+Tetrad
+Solar eclipse
+Solar eclipses on the Moon
+Eclipse cycle
+Supermoon
+TideTidal force
+Tidal locking
+Tidal acceleration
+Tidal range
+Lunar mansionSurface and
+featuresSelenography
+Terminator
+HemispheresNear side
+Far side
+PolesNorth pole
+South poleFace
+MariaList
+MountainsPeak of eternal light
+Valleys
+Volcanic featuresDomes
+Calderas
+CratersList
+Ray systems
+Crater of eternal darkness
+Shackleton crater
+South Pole–Aitken basin
+SoilSwirls
+Rilles
+Wrinkle ridges
+RocksLunar basalt 70017
+Water
+Space weatheringMicrometeorite
+Sputtering
+Quakes
+Transient lunar phenomenonScienceObservation
+Libration
+Lunar theory
+OriginGiant-impact hypothesisTheia
+Lunar magma ocean
+GeologyTimescaleLate Heavy Bombardment
+Lunar meteorites
+KREEP
+ExperimentsLunar laser ranging
+ALSEP
+Lunar sample displaysApollo 11
+Apollo 17ExplorationMissionsApollo program
+Probes
+LandingConspiracy theories
+Colonization
+TourismTime-tellingLunar calendar
+Lunisolar calendar
+MonthLunar monthNodal period
+Fortnight
+Sennight
+Lunar mansionPhases and
+namesNew
+FullNames
+Crescent
+Super and micro
+Blood
+Blue
+Black
+Dark
+Wet
+TetradRelated
+topicsLunar effect
+Moon illusion
+PareidoliaMan in the Moon
+Moon rabbit
+Craters named after people
+Memorials on the Moon
+Moon in fiction
+Moon in mythologyHjúki and Bil
+"Moon is made of green cheese"
+Natural satellite
+Double planet
+Lilith (hypothetical second moon)
+ Category
+ Moon portal
+ Earth sciences portal
+ Solar System portal
+v
+t
+e
+Lunar eclipsesLists of lunar eclipsesAll
+Central total eclipses
+Total penumbral eclipses
+Historically significantLunar eclipses
+by century20th BCE
+19th BCE
+18th BCE
+17th BCE
+16th BCE
+15th BCE
+14th BCE
+13th BCE
+12th BCE
+11th BCE
+10th BCE
+9th BCE
+8th BCE
+7th BCE
+6th BCE
+5th BCE
+4th BCE
+3rd BCE
+2nd BCE
+1st BCE
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+13th
+14th
+15th
+16th
+17th
+18th
+19th
+20th
+21st
+22nd
+23rd
+24th
+25th
+26th
+27th
+28th
+29th
+30thLunar eclipses
+by Saros series100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+Partial eclipses
+1950–20491952 Feb
+1952 Aug
+1954 Jul
+1955 Nov
+1956 May
+1958 May
+1959 Mar
+1961 Mar
+1961 Aug
+1963 Jul
+1965 Jun
+1970 Feb
+1970 Aug
+1972 Jul
+1973 Dec
+1974 Jun
+1976 May
+1977 Apr
+1979 Mar
+1981 Jul
+1983 Jun
+1988 Aug
+1990 Aug
+1991 Dec
+1992 Jun
+1994 May
+1995 Apr
+1997 Mar
+1999 Jul
+2001 Jul
+2005 Oct
+2006 Sep
+2008 Aug
+2009 Dec
+2010 Jun
+2012 Jun
+2013 Apr
+2017 Aug
+→ 2019 Jul
+2021 Nov
+2023 Oct
+2024 Sep
+2026 Aug
+2028 Jan
+2028 Jul
+2030 Jun
+2034 Sep
+2035 Aug
+2037 Jul
+2039 Jun
+2039 Nov
+2041 May
+2041 Nov
+2046 Jan
+2046 Jul
+2048 Jun
+Total eclipses
+1950–20491950 Apr
+1950 Sep
+1953 Jan
+1953 Jul
+1954 Jan
+1956 Nov
+1957 May
+1957 Nov
+1960 Mar
+1960 Sep
+1963 Dec
+1964 Jun
+1964 Dec
+1967 Apr
+1967 Oct
+1968 Apr
+1968 Oct
+1971 Feb
+1971 Aug
+1972 Jan
+1974 Nov
+1975 May
+1975 Nov
+1978 Mar
+1978 Sep
+1979 Sep
+1982 Jan
+1982 Jul
+1982 Dec
+1985 May
+1985 Oct
+1986 Apr
+1986 Oct
+1989 Feb
+1989 Aug
+1990 Feb
+1992 Dec
+1993 Jun
+1993 Nov
+1996 Apr
+1996 Sep
+1997 Sep
+2000 Jan
+2000 Jul
+2001 Jan
+2003 May
+2003 Nov
+2004 May
+2004 Oct
+2007 Mar
+2007 Aug
+2008 Feb
+2010 Dec
+2011 Jun
+2011 Dec
+2014 Apr
+2014 Oct
+2015 Apr
+2015 Sep
+2018 Jan
+→ 2018 Jul
+2019 Jan
+2021 May
+2022 May
+2022 Nov
+2025 Mar
+2025 Sep
+2026 Mar
+2028 Dec
+2029 Jun
+2029 Dec
+2032 Apr
+2032 Oct
+2033 Apr
+2033 Oct
+2036 Feb
+2036 Aug
+2037 Jan
+2040 May
+2040 Nov
+2043 Mar
+2043 Sep
+2044 Mar
+2044 Sep
+2047 Jan
+2047 Jul
+2048 JanPenumbral eclipses
+PartialPrevious penumbral: 2017 Feb 11
+Next penumbral: → 2020 Jan 10Total1963 Jan 09
+1981 Jan 20
+1988 Mar 03
+1999 Jan 31
+2006 Mar 14
+→ 2042 May 05
+2053 Aug 29
+See alsoDanjon scale
+Gamma
+ Book
+ Category
+ Commons
+ Portal
+ WikiProject
+→ symbol denotes next eclipse in seriesAuthority controlGND: 4170432-0
+Categories: Astronomical eventsEclipsesLunar eclipsesLunar observationHidden categories: CS1 maint: Uses authors parameterWikipedia pages semi-protected against vandalismWikipedia articles with GND identifiers

@@ -1,0 +1,934 @@
+Reindeer
+For other uses, see Reindeer (disambiguation).
+"Caribou" redirects here. For other uses, see Caribou (disambiguation).
+Reindeer
+Temporal range: Middle Pleistocene to present[1]PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N↓Reindeer in NorwayConservation statusVulnerable (IUCN 3.1)[2]Scientific classification 
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Artiodactyla
+Family:
+Cervidae
+Subfamily:
+Capreolinae
+Tribe:
+Rangiferini
+Genus:
+Rangifer
+C.H. Smith, 1827
+Species:
+R. tarandus
+Binomial name
+Rangifer tarandus
+(Linnaeus, 1758)Reindeer habitat divided into North American (green) and Eurasian (red) parts
+SynonymsCervus tarandus (Linnaeus, 1758)The reindeer (Rangifer tarandus), also known as the caribou in North America,[3] is a species of deer with circumpolar distribution, native to Arctic, sub-Arctic, tundra, boreal and mountainous regions of northern Europe, Siberia and North America.[2] This includes both sedentary and migratory populations. Rangifer herd size varies greatly in different geographic regions. The Taimyr herd of migrating Siberian tundra reindeer (R. t. sibiricus) in Russia is the largest wild reindeer herd in the world,[4][5] with numbers varying between 400,000 and 1,000,000. What was once the second largest herd is the migratory boreal woodland caribou (R. t. caribou) George River herd in Canada, with former variations between 28,000 and 385,000. As of January 2018, there are fewer than 9,000 animals estimated to be left in the George River herd as reported by the Canadian Broadcasting Corporation.[6] The New York Times in April 2018 similarly reported of the disappearance of the only herd of southern mountain caribous in the lower 48 states, with an expert calling it "functionally extinct" after the herd's size dwindled to a mere three animals.[7]
+Rangifer varies in size and colour from the smallest, the Svalbard reindeer, to the largest, the boreal woodland caribou. The North American range of caribou extends from Alaska through the Yukon, the Northwest Territories and Nunavut into the boreal forest and south through the Canadian Rockies and the Columbia and Selkirk Mountains.[8] The barren-ground, Porcupine and Peary caribou live in the tundra, while the shy boreal woodland caribou prefer the boreal forest. Two major subspecies in North America, the Porcupine caribou and the barren-ground caribou, form large herds and undertake lengthy seasonal migrations from birthing grounds, to summer and winter feeding grounds in the tundra and taiga. The migrations of Porcupine caribou herds are among the longest of any terrestrial mammal.[8] Barren-ground caribou are also found in Kitaa in Greenland, but the larger herds are in Alaska, the Northwest Territories and Nunavut.[9]
+While overall widespread and numerous,[2] some of its subspecies are rare and at least one has already become extinct, the Queen Charlotte Islands caribou of Canada.[10][11] Historically the range of the sedentary boreal woodland caribou covered over half of present-day Canada[12]and into the northern States in the U.S.. Woodland caribou have disappeared from most of their original southern range and were designated as threatened in 2002 by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC).[13] Environment Canada reported in 2011 that there were approximately 34,000 boreal woodland caribou in 51 ranges remaining in Canada.(Environment Canada, 2011b).[14] Siberian tundra reindeer herds are in decline. For this reason, Rangifer tarandus is considered to be vulnerable by the IUCN.
+Human dependence on caribou/wild reindeer began in the Middle Pleistocene period.[15]:17 Arctic peoples, such as the Caribou Inuit, the inland-dwelling Inuit of the Kivalliq Region in northern Canada, the Caribou Clan in the Yukon, the Inupiat, the Inuvialuit, the Hän, the Northern Tutchone and the Gwich'in (who followed the Porcupine caribou for millennia), have depended on them for food, clothing and shelter. Hunting of wild reindeer and herding of semi-domesticated reindeer (for meat, hides, antlers, milk and transportation) are important to several Arctic and sub-Arctic peoples.[16]
+The Sami people (Laplanders), have also depended on reindeer herding and fishing for centuries.[17]:IV[18]:16[17]:IV In Lapland, reindeer pull pulks.[19]
+Male and female reindeer can grow antlers annually, although the proportion of females that grow antlers varies greatly between population and season.[20] Antlers are typically larger on males.
+In traditional festive legend, Santa Claus's reindeer pull a sleigh through the night sky to help Santa Claus deliver gifts to good children on Christmas Eve.Contents
+1 Etymology1.1 Rangifer tarandus
+1.2 Reindeer
+1.3 Caribou
+1.4 Other local variants
+2 Taxonomy and evolution
+3 Subspecies
+4 Physical characteristics4.1 Antlers
+4.2 Pelt
+4.3 Heat exchange
+4.4 Hooves
+4.5 Size
+4.6 Clicking sound
+4.7 Eyes
+5 Biology and behaviour5.1 Diet
+5.2 Seasonal body composition
+5.3 Reproduction and life-cycle
+5.4 Social structure, migration and range
+6 Ecology6.1 Distribution and habitat
+6.2 Predators
+6.3 Other threats
+7 By country7.1 Russia
+7.2 North America7.2.1 United States7.2.1.1 Alaska7.2.1.1.1 Porcupine caribou herd
+7.2.1.1.2 Western Arctic caribou herd
+7.2.1.1.3 Teshekpuk Lake and Central Arctic caribou herds
+7.2.1.1.4 Reindeer imported to Alaska
+7.2.2 Canada7.2.2.1 Nunavut7.2.2.1.1 Ahiak, Beverly and Qamanirjuaq caribou herds
+7.2.2.1.2 Peary caribou on Baffin Island
+7.2.2.2 The Northwest Territories
+7.2.2.3 R. t. caribou7.2.2.3.1 George River caribou herd (GRCH)
+7.2.2.3.2 Leaf River caribou herd (LRCH)
+7.2.2.4 Queen Charlotte Islands caribou
+7.2.3 Greenland
+7.3 Norway7.3.1 Svalbard reindeer
+7.4 Finland
+7.5 Iceland
+7.6 British overseas territory experiment
+7.7 French overseas territory experiment
+8 Conservation8.1 Current status
+8.2 Boreal woodland caribou (COSEWIC designation as threatened)
+8.3 Peary caribou (COSEWIC designation as endangered)
+9 Relationship with humans9.1 Reindeer and indigenous peoples
+9.2 Reindeer husbandry
+9.3 In history
+9.4 Santa Claus's reindeer
+9.5 In mythology and art
+10 Heraldry and symbols
+11 See also11.1 Parasites
+12 Notes
+13 Further reading
+14 References
+15 Bibliography
+16 External links16.1 Caribou-specific links (North America)Etymology[edit]
+Rangifer tarandus[edit]
+The name Rangifer, which Carl Linnaeus chose for the reindeer genus, was used by Albertus Magnus in his De animalibus, fol. Liber 22, Cap. 268: "Dicitur Rangyfer quasi ramifer". This word may go back to a Saami word raingo.[21] For the origin of the word tarandus, which Linnaeus chose as the specific epithet, he made reference to Ulisse Aldrovandi's Quadrupedum omnium bisulcorum historia fol. 859–863, Cap. 30: De Tarando (1621). However, Aldrovandi – and before him Konrad Gesner[22] – thought that rangifer and tarandus were two separate animals.[23] In any case, the tarandos name goes back to Aristotle and Theophrastus – see 'In history' below.
+Reindeer[edit]
+The name rein (-deer) is of Norse origin (Old Norse hreinn, which again goes back to Proto-Germanic *hrainaz and Proto-Indo-European *kroinos meaning "horned animal"). Danish: rensdyr. Norwegian: rein or reinsdyr. Swedish: ren.
+The word deer was originally broader in meaning, but became more specific over time. In Middle English, der (Old English dēor) meant a wild animal of any kind. This was in contrast to cattle, which then meant any sort of domestic livestock that was easy to collect and remove from the land, from the idea of personal property ownership (rather than real estate property) and related to modern chattel (property) and capital. Cognates of Old English dēor in other dead Germanic languages have the general sense of animal, such as Old High German tior, Old Norse djúr or dýr, Gothic dius, Old Saxon dier, and Old Frisian diar.[24]
+Caribou[edit]
+The name caribou comes, through French, from the Mi'kmaq qalipu, meaning "snow shoveler", referring to its habit of pawing through the snow for food.[25]
+Other local variants[edit]
+Because of its importance to many cultures, Rangifer tarandus and some of its subspecies have names in many languages. In the Uralic languages, Sami *poatsoj (in Northern Sami boazu, in Lule Sami boatsoj, in Pite Sami båtsoj, in Southern Sami bovtse, in Inari Sami puásui), in Meadow Mari pücö and in Udmurt pudžej, all referring to domesticated reindeer, go back to *pocaw, an Iranian loan word deriving from Proto-Indo-European *peḱu-, meaning "cattle". The Finnish name poro may also stem from the same word.[26]
+With its range across North America and depth of history, Rangifer tarandus has countless aboriginal names. In Inuktitut, spoken in the eastern North American Arctic, the caribou is known by the name tuktu.[27][28] In the western North American Arctic, the term used by the Iñupiat is tuttu, or tutu.[29] The Gwich’in people have over two dozen distinct caribou-related words.[30]Names for Rangifer tarandus in North American indigenous languagescaribou
+syllabics or
+meaning
+language
+people
+region
+R. t. subspecies and ecotype
+language family
+qalipuone who paws
+Mi'kmaq
+Mi'kmaq
+what is now eastern Canada and the northeastern U.S.
+R. t. caribou
+Algonquian
+atíhkocaribou
+Woods Cree
+Cree
+Northern Manitoba
+R. t. groenlandicus
+Algonquian
+atihkwCree-Montagnais-NaskapiR. t. caribou
+Algonquian
+bedzeyh[31]
+Koyukon language
+Koyukon
+Alaska
+R. t. granti (the Western Arctic caribou herd)
+Athabaskan
+vadzaih[30]caribou
+Gwich’in language
+Gwich’in
+the Northwest Territories
+R. t. groenlandicus (the Bluenose East and Bluenose West barren-ground caribou herds), R. t. granti (the Porcupine caribou herd)
+Athabaskan
+wëdzey[32]
+Hän language
+Hän
+Athabaskan
+tuktu[33]
+Inuktitut
+Inuit
+Nunavut (the barren-ground caribou population) and Labrador
+R. t. groenlandicus, R. t. caboti
+Eskimo–Aleut
+tuttu[31]
+Inupiaq language
+Inupiat people
+Alaska
+R. t. granti (the Western Arctic caribou herd)
+Eskimo–Aleut
+tuntu[31]
+Yup'ik
+Yup'ik
+Alaska
+R. t. granti (the Western Arctic caribou herd)
+Eskimo–Aleut
+Taxonomy and evolution[edit]
+The species' taxonomic name, Rangifer tarandus, was defined by Carl Linnaeus in 1758. The woodland caribou subspecies' taxonomic name Rangifer tarandus caribou was defined by Gmelin in 1788.
+Based on Banfield's often-cited A Revision of the Reindeer and Caribou, Genus Rangifer (1961),[15] R. t. caboti (the Labrador caribou), R. t. osborni (Osborn's caribou—from British Columbia) and R. t. terraenovae (the Newfoundland caribou) were considered invalid and included in R. t. caribou.
+Some recent authorities have considered them all valid, even suggesting that they are quite distinct. In their book entitled Mammal Species of the World, American zoologist Don E. Wilson and DeeAnn Reeder agree with Valerius Geist, specialist on large North American mammals, that this range actually includes several subspecies.[34][35][36][Notes 1]
+Geist (2007) argued that the "true woodland caribou, the uniformly dark, small-maned type with the frontally emphasized, flat-beamed antlers", which is "scattered thinly along the southern rim of North American caribou distribution" has been incorrectly classified. He affirms that the "true woodland caribou is very rare, in very great difficulties and requires the most urgent of attention."[34]
+In 2005, an analysis of mtDNA found differences between the caribou from Newfoundland, Labrador, southwestern Canada and southeastern Canada, but maintained all in R. t. caribou.[37]
+Mallory and Hillis argued that, "Although the taxonomic designations reflect evolutionary events, they do not appear to reflect current ecological conditions. In numerous instances, populations of the same subspecies have evolved different demographic and behavioural adaptations, while populations from separate subspecies have evolved similar demographic and behavioural patterns... "[U]nderstanding ecotype in relation to existing ecological constraints and releases may be more important than the taxonomic relationships between populations."[38]
+Current classifications of Rangifer tarandus, either with prevailing taxonomy on subspecies, designations based on ecotypes, or natural population groupings, fail to capture "the variability of caribou across their range in Canada" needed for effective species conservation and management.[39] "Across the range of a species, individuals may display considerable morphological, genetic, and behavioural variability reflective of both plasticity and adaptation to local environments."[40] COSEWIC developed Designated Unit (DU) attribution to add to classifications already in use.[39]
+Subspecies[edit]
+The canonical Mammal Species of the World (3rd ed.) recognizes fourteen subspecies, two of which are extinct.[9]Subspecies of Rangifer tarandussubspecies
+name
+sedentary/migratory
+division[9]
+range
+weight of male
+R. t. buskensis[35] (1915)
+Busk reindeerwoodland[9]
+Russia and the neighbouring regions
+no data
+R. t. caboti** (G. M. Allen, 1914)[9][Notes 2][34][35]
+Labrador cariboutundra
+Quebec and Labrador, Canada
+no data
+R. t. caribou (Gmelin, 1788)[15]
+Woodland caribou; includes boreal woodland caribou, migratory woodland caribou and mountain woodland caribou
+sedentary[Notes 3]
+boreal forest
+southern Canada and the northwestern U.S. mainland[41]
+largest subspecies
+R. t. granti[15]
+Porcupine caribou or Grant's caribou
+migratory
+tundra
+Alaska, United States and the Yukon, CanadaR. t. fennicus (Lönnberg, 1909)
+Finnish forest reindeerwoodland[9]
+northwestern Russia and Finland[19][41]
+150–250 kg (330–550 lb)
+R. t. groenlandicus (Borowski, 1780)[15]
+Barren-ground caribou
+migratory
+tundra
+the High Arctic islands of Nunavut and the Northwest Territories, Canada and western Greenland
+150 kg (330 lb)
+R. t. osborni** (J. A. Allen, 1902)[Notes 2][34][35]
+Osborn's caribouwoodland
+British Columbia, Canada
+no data
+R. t. pearsoni (Lydekker, 1903)[35]
+Novaya Zemlya reindeerisland subspecies make local movements
+the Novaya Zemlya archipelago of Russia[41]
+no data
+R. t. pearyi (J. A. Allen, 1902)[15]
+Peary caribouisland subspecies make local movements
+the High Arctic islands of Nunavut and the Northwest Territories, Canada[41]
+smallest North American subspecies
+R. t. phylarchus (Hollister, 1912)[35]
+Kamchatkan reindeerwoodland[9]
+the Kamchatka Peninsula and the regions bordering the Sea of Okhotsk, Russia[41]
+no data
+R. t. platyrhynchus (Vrolik, 1829)
+Svalbard reindeerisland subspecies make local movements
+the Svalbard archipelago of Norway[41]
+smallest subspecies
+R. t. sibiricus (Murray, 1866)[35]
+Siberian tundra reindeertundra
+Siberia, Russia[41]
+no data
+R. t. tarandus (Linnaeus, 1758)
+Mountain reindeertundra or mountain
+the Arctic tundra of the Fennoscandian Peninsula in Norway[19][41]
+no data
+R. t. terraenovae** (Bangs, 1896)[9][Notes 2][34][35]
+Newfoundland caribouwoodland
+Newfoundland, Canada
+no data
+R. t. valentinae**[9]
+Siberian forest reindeerboreal forest
+the Ural Mountains, Russia and the Altai Mountains, Mongolia[41]
+no dataExtinct subspecies of Rangifer tarandussubspecies
+name
+sedentary/migratory
+division
+range
+weight of male
+extinct since
+R. t. dawsoni (Thompson-Seton, 1900)[15]
+†Queen Charlotte Islands caribou or Dawson's caribou
+extinct
+woodland
+Graham Island of the Queen Charlotte Islands archipelago, off the coast of British Columbia, Canada
+no data
+1908
+R. t. eogroenlandicus
+†Arctic reindeer or East Greenland caribou
+extinct
+tundra
+eastern Greenland
+no data
+1900
+The table above includes R. tarandus caboti (Labrador caribou), R. tarandus osborni (Osborn's caribou – from British Columbia) and R. tarandus terraenovae (Newfoundland caribou). Based on a review in 1961,[15] these were considered invalid and included in R. tarandus caribou, but some recent authorities have considered them all valid, even suggesting that they are quite distinct.[34][35] An analysis of mtDNA in 2005 found differences between the caribou from Newfoundland, Labrador, southwestern Canada and southeastern Canada, but maintained all in R. tarandus caribou.[37]
+There are seven subspecies of reindeer in Eurasia, of which only two are found in Fennoscandia: the mountain reindeer (R. t. tarandus) in Norway, Sweden, Finland and Russia and the Finnish forest reindeer (R. t. fennicus) in Finland and Russia.[19]
+Two subspecies are found only in North America: the Porcupine caribou (R. t. granti) and the Peary caribou (R. t. pearyi). The barren-ground caribou (R. t. groenlandicus) is found in western Greenland, but the larger herds are in Alaska, the Northwest Territories and Nunavut.[9]
+According to Grubb, based on Banfield[15] and considerably modified by Geist,[42] these subspecies and divisions are considered valid:[9] the caribou or woodland caribou division, which includes R. t. buskensis, R. t. caribou, R. t. dawsoni, R. t. fennicus, R. t. phylarchus and R. t. valentinae (R. t. osborni is a transitional subspecies between the caribou and tarandus divisions), the tarandus or tundra reindeer division, which includes R. t. caboti, R. t. groenlandicus, R. t. pearsoni, R. t. sibiricus and R. t. terraenovae and the platyrhynchus or dwarf reindeer division, which includes R. t. pearyi and R. t. platyrhynchus.
+Some of the Rangifer tarandus subspecies may be further divided by ecotype depending on several behavioural factors – predominant habitat use (northern, tundra, mountain, forest, boreal forest, forest-dwelling, woodland, woodland (boreal), woodland (migratory) or woodland (mountain), spacing (dispersed or aggregated) and migration patterns (sedentary or migratory).[43][44][45]
+The "glacial-interglacial cycles of the upper Pleistocene had a major influence on the evolution" of Rangifer tarandus and other Arctic and sub-Arctic species. Isolation of Rangifer tarandus in refugia during the last glacial – the Wisconsin in North America and the Weichselian in Eurasia-shaped "intraspecific genetic variability" particularly between the North American and Eurasian parts of the Arctic.[3]
+In 1986 Kurtén reported that the oldest reindeer fossil was an "antler of tundra reindeer type from the sands of Süssenborn" in the Pleistocene (Günz) period (680,000 to 620,000 BP).[1] By the 4-Würm period (110,000-70,000 to 12,000–10,000 BP) its European range was very extensive. Reindeer occurred in... Spain, Italy and southern Russia. Reindeer [was] particularly abundant in the Magdalenian deposits from the late part of the 4-Wurm just before the end of the Ice Age: at that time and at the early Mesolithic it was the game animal for many tribes. The supply began to get low during the Mesolithic, when reindeer retired to the north.
+— Kurtén 1968:170"In spite of the great variation, all the Pleistocene and living reindeer belong to the same species."[1]
+Humans started hunting reindeer in the Mesolithic and Neolithic periods and humans are today the main predator in many areas. Norway and Greenland have unbroken traditions of hunting wild reindeer from the last glacial period until the present day. In the non-forested mountains of central Norway, such as Jotunheimen, it is still possible to find remains of stone-built trapping pits, guiding fences and bow rests, built especially for hunting reindeer. These can, with some certainty, be dated to the Migration Period, although it is not unlikely that they have been in use since the Stone Age.[citation needed]
+Physical characteristics[edit]
+Antlers[edit]
+Reindeer losing the velvet layer under which a new antler is growing, an annual process
+In most populations both sexes grow antlers; the reindeer is the only cervid species in which females grow them as well as males.[46]
+There is considerable variation between subspecies in the size of the antlers (e.g. they are rather small and spindly in the northernmost subspecies),[47] but on average the bull reindeer's antlers are the second largest of any extant deer, after the moose. In the largest subspecies, the antlers of large males can range up to 100 cm (39 in) in width and 135 cm (53 in) in beam length. They have the largest antlers relative to body size among living deer species.[46] Antler size measured in number of points reflects the nutritional status of the reindeer and climate variation of its environment.[48][49] The number of points on male reindeer increases from birth to five years of age and remained relatively constant from then on.[50] "In male caribou, antler mass (but not the number of tines) varies in concert with body mass."[51][52] While antlers of bull woodland caribou are typically smaller than barren-ground caribou, they can be over one metre across. They are flattened, compact and relatively dense.[14] Geist describes them as frontally emphasized, flat-beamed antlers.[53] Woodland caribou antlers are thicker and broader than those of the barren-ground caribou and their legs and heads are longer.[14] Quebec-Labrador bull caribou antlers can be significantly larger and wider than other woodland caribou. Central barren-ground bull caribou are perhaps the most diverse in configuration and can grow to be very high and wide. Mountain caribou are typically the most massive with the largest circumference measurements.[citation needed]
+The antlers' main beams begin at the brow "extending posterior over the shoulders and bowing so that the tips point forward. The prominent, palmate brow tines extend forward, over the face."[54] The antlers typically have two separate groups of points, lower and upper.
+Antlers begin to grow on male reindeer in March or April and on female reindeer in May or June. This process is called antlerogenesis. Antlers grow very quickly every year on the males. As the antlers grow they are covered in thick velvet, filled with blood vessels and spongy in texture. The antler velvet of the barren-ground caribou and boreal woodland caribou are dark chocolate brown.[55] The velvet that covers growing antlers is a highly vascularised skin. This velvet is dark brown on woodland or barren-ground caribou and slate-grey on Peary caribou and the Dolphin-Union caribou herd.[54][56][57] Velvet lumps in March can develop into a rack measuring more than a metre in length (3 ft) by August.[58]:88
+When the antler growth is fully grown and hardened, the velvet is shed or rubbed off. To the Inuit, for whom, the caribou is a "culturally important keystone species", the months are named after landmarks in the caribou life cycle. For example, amiraijaut in the Igloolik region is "when velvet falls off caribou antlers."[59]
+Male reindeer use their antlers to compete with other males during the mating season. In describing woodland caribou, SARA wrote, "During the rut, males engage in frequent and furious sparring battles with their antlers. Large males with large antlers do most of the mating."[60] Reindeer continue to migrate until the bull reindeer have spent the back fat.[59][61][62]
+In late autumn or early winter after the rut, male reindeer lose their antlers, growing a new pair the next summer with a larger rack than the previous year. Female reindeer keep their antlers until they calve. In the Scandinavian populations, old males' antlers fall off in December, young males' fall off in the early spring and females' fall off in the summer.
+When bull reindeer shed their antlers in early to midwinter, the antlered female reindeer acquire the highest ranks in the feeding hierarchy, gaining access to the best forage areas. These cows are healthier than those without antlers.[63] Calves whose mothers do not have antlers are more prone to disease and have a significantly higher mortality.[63] Females in good nutritional condition, for example, during a mild winter with good winter range quality, may grow new antlers earlier as antler growth requires high intake.[63]
+According to a respected Igloolik elder, Noah Piugaattuk, who was one of the last outpost camp leaders,[64] caribou (tuktu) antlers[59]...get detached every year… Young males lose the velvet from the antlers much more quickly than female caribou even though they are not fully mature. They start to work with their antlers just as soon as the velvet starts to fall off. The young males engage in fights with their antlers towards autumn…soon after the velvet had fallen off they will be red, as they start to get bleached their colour changes… When the velvet starts to fall off the antler is red because the antler is made from blood. The antler is the blood that has hardened, in fact the core of the antler is still bloody when the velvet starts to fall off, at least close to the base.
+— Elder Noah Piugaattuk of Igloolik cited in "Tuktu — Caribou" (2002) "Canada's Polar LifeAccording to the Igloolik Oral History Project (IOHP), "Caribou antlers provided the Inuit with a myriad of implements, from snow knives and shovels to drying racks and seal-hunting tools. A complex set of terms describes each part of the antler and relates it to its various uses".[59] Currently, the larger racks of antlers are used by Inuit as materials for carving. Iqaluit-based Jackoposie Oopakak's 1989 carving, entitled Nunali, which means ""place where people live", and which is part of the permanent collection of the National Gallery of Canada, includes a massive set of caribou antlers on which he has intricately carved the miniaturized world of the Inuit where "Arctic birds, caribou, polar bears, seals, and whales are interspersed with human activities of fishing, hunting, cleaning skins, stretching boots, and travelling by dog sled and kayak...from the base of the antlers to the tip of each branch".[65]
+Pelt[edit]
+The colour of the fur varies considerably, both between individuals and depending on season and subspecies. Northern populations, which usually are relatively small, are whiter, while southern populations, which typically are relatively large, are darker. This can be seen well in North America, where the northernmost subspecies, the Peary caribou, is the whitest and smallest subspecies of the continent, while the southernmost subspecies, the boreal woodland caribou, is the darkest and largest.[47]
+The coat has two layers of fur: a dense woolly undercoat and longer-haired overcoat consisting of hollow, air-filled hairs.[66][Notes 4] Fur is the primary insulation factor that allows reindeer to regulate their core body temperature in relation to their environment, the thermogradient, even if the temperature rises to 100 °F (38 °C).[67] In 1913 Dugmore noted how the woodland caribou swim so high out of the water, unlike any other mammal, because their hollow, "air-filled, quill-like hair" acts as a supporting "life jacket."[68]
+Heat exchange[edit]
+Blood moving into the legs is cooled by blood returning to the body in a countercurrent heat exchange (CCHE), a highly efficient means of minimizing heat loss through the skin's surface. In the CCHE mechanism, in cold weather, blood vessels are closely knotted and intertwined with arteries to the skin and appendages that carry warm blood with veins returning to the body that carry cold blood causing the warm arterial blood to exchange heat with the cold venous blood. In this way, their legs for example are kept cool, maintaining the core body temperature nearly 30 °C (54 °F) higher with less heat lost to the environment. Heat is thus recycled instead of being dissipated. The "heart does not have to pump blood as rapidly in order to maintain a constant body core temperature and thus, metabolic rate." CCHE is present in animals like reindeer, fox and moose living in extreme conditions of cold or hot weather as a mechanism for retaining the heat in (or out of) the body. These are countercurrent exchange systems with the same fluid, usually blood, in a circuit, used for both directions of flow.[69]
+Reindeer have specialised counter-current vascular heat exchange in their nasal passages. Temperature gradient along the nasal mucosa is under physiological control. Incoming cold air is warmed by body heat before entering the lungs and water is condensed from the expired air and captured before the reindeer's breath is exhaled, then used to moisten dry incoming air and possibly be absorbed into the blood through the mucous membranes.[70] Like moose, caribou have specialised noses featuring nasal turbinate bones that dramatically increase the surface area within the nostrils.
+Hooves[edit]
+The reindeer has large feet with crescent-shaped, cloven hooves for walking in snow or swamps. According to the Species at Risk Public Registry (SARA), woodland[60]"Caribou have large feet with four toes. In addition to two small ones, called "dew claws," they have two large, crescent-shaped toes that support most of their weight and serve as shovels when digging for food under snow. These large concave hooves offer stable support on wet, soggy ground and on crusty snow. The pads of the hoof change from a thick, fleshy shape in the summer to become hard and thin in the winter months, reducing the animal’s exposure to the cold ground. Additional winter protection comes from the long hair between the "toes"; it covers the pads so the caribou walks only on the horny rim of the hooves."
+— SARA 2014Reindeer hooves adapt to the season: in the summer, when the tundra is soft and wet, the footpads become sponge-like and provide extra traction. In the winter, the pads shrink and tighten, exposing the rim of the hoof, which cuts into the ice and crusted snow to keep it from slipping. This also enables them to dig down (an activity known as "cratering") through the snow to their favorite food, a lichen known as reindeer moss (Cladonia rangiferina).[71][72]
+Size[edit]
+Skull
+The females usually measure 162–205 cm (64–81 in) in length and weigh 80–120 kg (180–260 lb).[73] The males (or "bulls" as they are often called) are typically larger (to an extent which varies between the different subspecies), measuring 180–214 cm (71–84 in) in length and usually weighing 159–182 kg (351–401 lb).[73] Exceptionally large males have weighed as much as 318 kg (701 lb).[73] Weight varies drastically between seasons, with males losing as much as 40% of their pre-rut weight.[74]
+Shoulder height Is usually 85 to 150 cm (33 to 59 in), and the tail is 14 to 20 cm (5.5 to 7.9 in) long.
+The reindeer from Svalbard are the smallest. They are also relatively short-legged and may have a shoulder height of as little as 80 cm (31 in),[75] thereby following Allen's rule.
+Clicking sound[edit]
+The knees of many subspecies of reindeer are adapted to produce a clicking sound as they walk.[76] The sounds originate in the tendons of the knees and may be audible from ten meters away. The frequency of the knee-clicks is one of a range of signals that establish relative positions on a dominance scale among reindeer. "Specifically, loud knee-clicking is discovered to be an honest signal of body size, providing an exceptional example of the potential for non-vocal acoustic communication in mammals."[77] The clicking sound made by reindeer as they walk is caused by small tendons slipping over bone protuberances (sesamoid bones) in their feet.[78][79] The sound is made when a reindeer is walking or running, occurring when the full weight of the foot is on the ground or just after it is relieved of the weight.[68]
+Eyes[edit]
+A study by researchers from University College London in 2011 revealed that reindeer can see light with wavelengths as short as 320 nm (i.e. in the ultraviolet range), considerably below the human threshold of 400 nm. It is thought that this ability helps them to survive in the Arctic, because many objects that blend into the landscape in light visible to humans, such as urine and fur, produce sharp contrasts in ultraviolet.[80] A study at the University of Tromsø has confirmed that "Arctic reindeer eyes change in colour through the seasons from gold through to blue to help them better detect predators...".[81]
+Biology and behaviour[edit]
+Diet[edit]
+Caribou licking salt from roadway in British Columbia
+Reindeer are ruminants, having a four-chambered stomach. They mainly eat lichens in winter, especially reindeer moss – a unique adaptation among mammals – and are the "only large mammal able to metabolize lichen owing to specialized bacteria and protozoa in their gut.".[82] They are the only animals (except for some gastropods) in which the enzyme lichenase, which breaks down lichenin to glucose, has been found.[83] However, they also eat the leaves of willows and birches, as well as sedges and grasses. They have been known to eat their own fallen antlers, probably for calcium.[citation needed] There is some evidence to suggest that on occasion, especially in the spring when they are nutritionally stressed,[84] they will also feed on small rodents such as lemmings,[85] fish such as Arctic char and bird eggs.[86] Reindeer herded by the Chukchis have been known to devour mushrooms enthusiastically in late summer.[87]Seasonal body composition[edit]
+Swedish reindeer
+Reindeer have developed adaptations for optimal metabolic efficiency during warm months as well as for during cold months.[88] The body composition of reindeer varies highly with the seasons. Of particular interest is the body composition and diet of breeding and non-breeding females between seasons. Breeding females have more body mass than non-breeding females between the months of March and September with a difference of around 10 kg more than non-breeding females. From November to December, non-breeding females have more body mass than breeding females, as non-breeding females are able to focus their energies towards storage during colder months rather than lactation and reproduction. Body masses of both breeding and non-breeding females peaks in September. During the months of March through April, breeding females have more fat mass than the non-breeding females with a difference of almost 3 kg. After this however, nonbreeding females on average have a higher fat mass than the breeding females.[89]
+The environmental variations play a large part in reindeer nutrition, as winter nutrition is crucial to adult and neonatal survival rates.[90] Lichens are a staple during the winter months as they are a readily available food source, which reduces the reliance on stored body reserves.[89] Lichens are a crucial part of the reindeer diet; however, they are less prevalent in the diet of pregnant reindeer compared to non-pregnant individuals. The amount of lichen in a diet is found more in non-pregnant adult diets than pregnant individuals due to the lack of nutritional value. Although lichens are high in carbohydrates, they are lacking in essential proteins that vascular plants provide. The amount of lichen in a diet decreases in latitude, which results in nutritional stress being higher in areas with low lichen abundance.[91]
+Reproduction and life-cycle[edit]
+Further information: Rut (mammalian reproduction) § Cervidae
+Reindeer mate in late September to early November and the gestation period is about 228–234 days.[92] During the mating season, males battle for access to females. Two males will lock each other's antlers together and try to push each other away. The most dominant males can collect as many as 15–20 females to mate with. A male will stop eating during this time and lose much of his body reserves.[93]
+To calve, "females travel to isolated, relatively predator-free areas such as islands in lakes, peatlands, lakeshores, or tundra."[60] As females select the habitat for the birth of their calves, they are more wary than males.[92] Dugmore noted that, in their seasonal migrations, the herd follows a doe for that reason.[68] Newborns weigh on average 6 kg (13 lb).[74] In May or June the calves are born.[92] After 45 days, the calves are able to graze and forage, but continue suckling until the following autumn when they become independent from their mothers.[93]
+Males live 4 years less than the females, whose maximum longevity is about 17 years. Females with a normal body size and who have had sufficient summer nutrition can begin breeding anytime between the ages of one to three years.[92] When a female has undergone nutritional stress, it is possible for her to not reproduce for the year.[94] Dominant males, those with larger body size and antler racks, inseminate more than one doe a season.
+Social structure, migration and range[edit]
+The size of the antlers plays a significant role in establishing the hierarchy in the herd.[95]
+Some populations of North American caribou, for example many herds in the barren-ground caribou subspecies and some woodland caribou in Ungava and Labrador, migrate the farthest of any terrestrial mammal, travelling up to 5,000 km (3,000 mi) a year, and covering 1,000,000 km2 (400,000 sq mi).[2][96] Other North American populations, the boreal woodland caribou for example, are largely sedentary.[97] The European populations are known to have shorter migrations. Island herds such as the subspecies R. t. pearsoni and R. t. platyrhynchus make local movements. Migrating reindeer can be negatively affected by parasite loads. Severely infected individuals are weak and probably have shortened lifespans, but parasite levels vary between populations. Infections create an effect known as culling: infected migrating animals are less likely to complete the migration.[98]
+Normally travelling about 19–55 km (12–34 mi) a day while migrating, the caribou can run at speeds of 60–80 km/h (37–50 mph).[2] Young caribou can already outrun an Olympic sprinter when only a day old.[99] During the spring migration smaller herds will group together to form larger herds of 50,000 to 500,000 animals, but during autumn migrations the groups become smaller and the reindeer begin to mate. During winter, reindeer travel to forested areas to forage under the snow. By spring, groups leave their winter grounds to go to the calving grounds. A reindeer can swim easily and quickly, normally at about 6.5 km/h (4 mph) but, if necessary, at 10 km/h (6 mph) and migrating herds will not hesitate to swim across a large lake or broad river.[2]As an adaptation to their Arctic environment, they have lost their circadian rhythm.[100]Ecology[edit]
+Distribution and habitat[edit]
+Swedish reindeer walking
+Originally, the reindeer was found in Scandinavia, eastern Europe, Greenland, Russia, Mongolia and northern China north of the 50th latitude. In North America, it was found in Canada, Alaska, and the northern conterminous USA from Washington to Maine. In the 19th century, it was apparently still present in southern Idaho.[2] Even in historical times, it probably occurred naturally in Ireland. During the late Pleistocene era, reindeer occurred as far south as Nevada and Tennessee in North America and as far south as Spain in Europe.[95][101] Today, wild reindeer have disappeared from these areas, especially from the southern parts, where it vanished almost everywhere. Large populations of wild reindeer are still found in Norway, Finland, Siberia, Greenland, Alaska and Canada.
+According to the Grubb (2005), Rangifer tarandus is "circumboreal in the tundra and taiga" from "Svalbard, Norway, Finland, Russia, Alaska (USA) and Canada including most Arctic islands, and Greenland, south to northern Mongolia, China (Inner Mongolia; now only domesticated or feral?), Sakhalin Island, and USA (Northern Idaho and the Great Lakes region). Reindeer were introduced to, and feral in, Iceland, Kerguelen Islands, South Georgia Island, Pribilof Islands, St. Matthew Island."[9]
+There is strong regional variation in Rangifer herd size. There are large population differences among individual herds and the size of individual herds has varied greatly since 1970. The largest of all herds (in Taimyr, Russia) has varied between 400,000 and 1,000,000; the second largest herd (at the George River in Canada) has varied between 28,000 and 385,000.
+While Rangifer is a widespread and numerous genus in the northern Holarctic, being present in both tundra and taiga (boreal forest),[95] by 2013, many herds had "unusually low numbers" and their winter ranges in particular were smaller than they used to be.[4] Caribou and reindeer numbers have fluctuated historically, but many herds are in decline across their range.[102] This global decline is linked to climate change for northern migratory herds and industrial disturbance of habitat for non-migratory herds.[103] Barren-ground caribou are susceptible to the effects of climate change due to a mismatch in the phenological process, between the availability of food during the calving period.[104][105][106]In November 2016, it was reported that more than 81,000 reindeer in Russia had died as a result of climate change. Longer autumns leading to increased amounts of freezing rain created a few inches of ice over lichen, starving many reindeer.[107]
+Predators[edit]
+Reindeer standing on snow to avoid bloodsucking insects.
+A variety of predators prey heavily on reindeer, including overhunting by people in some areas, which contributes to the decline of populations.[60]
+Golden eagles prey on calves and are the most prolific hunter on the calving grounds.[108] Wolverines will take newborn calves or birthing cows, as well as (less commonly) infirm adults.
+Brown bears and polar bears prey on reindeer of all ages, but like the wolverines they are most likely to attack weaker animals, such as calves and sick reindeer, since healthy adult reindeer can usually outpace a bear. The grey wolf is the most effective natural predator of adult reindeer and sometimes takes large numbers, especially during the winter. Some wolf packs as well as individual grizzly bears in Canada may follow and live off of a particular reindeer herd year round.[109][110]
+Additionally, as carrion, reindeer may be scavenged opportunistically by foxes, hawks and ravens.
+Bloodsucking insects, such as mosquitoes (Culicidae), black flies (Simuliidae), and botflies and deer botflies (Oestridae, specifically, the reindeer warble fly (Hypoderma tarandi) and the reindeer nose botfly (Cephenemyia trompe)), are a plague to reindeer during the summer and can cause enough stress to inhibit feeding and calving behaviours.[111] An adult reindeer will lose perhaps about 1 liter (about 2 US pints) of blood to biting insects for every week it spends in the tundra.[99] The population numbers of some of these predators is influenced by the migration of reindeer.[citation needed] Tormenting insects keep caribou on the move searching for windy areas like hilltops and mountain ridges, rock reefs, lakeshore and forest openings, or snow patches that offer respite from the buzzing horde. Gathering in large herds is another strategy that caribou use to block insects.[112]
+In one case, the entire body of a reindeer was found in the stomach of a Greenland shark, a species found in the far northern Atlantic, although this was possibly a case of scavenging, considering the dissimilarity of habitats between the ungulate and the large, slow-moving fish.[113]
+Other threats[edit]
+White-tailed deer (Odocoileus virginianus) commonly carry meningeal worm or brainworm, a nematode parasite that causes reindeer, moose (Alces alces), elk (Cervus canadensis), and mule deer (Odocoileus hemionus) to develop fatal neurological symptoms[114][115][116] which include a loss of fear of humans. White-tailed deer that carry this worm are partly immune to it.[74]
+Changes in climate and habitat beginning in the twentieth century have expanded range overlap between white-tailed deer and caribou, increasing the frequency of infection within the reindeer population. This increase in infection is a concern for wildlife managers. Human activities, such as "clear-cutting forestry practices, forest fires, and the clearing for agriculture, roadways, railways, and power lines," favour the conversion of habitats into the preferred habitat of the white-tailed deer-"open forest interspersed with meadows, clearings, grasslands, and riparian flatlands."[74]
+By country[edit]
+Russia[edit]
+Main article: Reindeer in Russia
+In 2013, the Taimyr herd in Russia was the largest herd in the world. In 2000, the herd increased to 1,000,000 but by 2009, there were 700,000 animals.[4][117] In the 1950s, there were 110,000.[5]
+There are three large herds of migratory tundra wild reindeer in central Siberia's Yakutia region: the Lena-Olenek, Yana-Indigirka and Sundrun herds. While the population of the Lena-Olenek herd is stable, the others are declining.[5]
+Further east again, the Chukotka herd is also in decline. In 1971, there were 587,000 animals. They recovered after a severe decline in 1986, to only 32,200 individuals, but their numbers fell again.[118] According to Kolpashikov, by 2009 there were less than 70,000.[5]
+North America[edit]
+Approximate range of caribou subspecies in North America. Overlap is possible for contiguous range. 1. Rangifer tarandus caribou, which is subdivided into ecotypes: woodland (boreal), woodland (migratory) and woodland (montane), 2. R. t. dawsoni (extinct 1908), 3. R. t. granti, 4. R. t. groenlandicus, 5. R. t. groenlandicus/pearyi, 6. R. t. pearyi
+There are four living subspecies of the reindeer (Rangifer tarandus), locally known in North America as the caribou: R. t. caribou, which is subdivided into ecotypes: woodland (boreal), woodland (migratory) and woodland (montane), R. t. granti (Porcupine caribou or Grant's caribou), R. t. groenlandicus (barren-ground caribou) and R. t. pearyi (Peary caribou).
+In North America, because of its vast range in a wide diversity of ecosystems, the subspecies Rangifer tarandus caribou is further distinguished by a number of ecotypes, including boreal woodland caribou, migratory woodland caribou and mountain woodland caribou.[43][44][45] Populations—caribou that do not migrate—or herds—those that do migrate—may not fit into narrow ecotypes. For example, Banfield's 1961 classification of the migratory George River caribou herd, in the Ungava region of Quebec, as the subspecies Rangifer tarandus caribou, the woodland caribou, remains—although other woodland caribou are mainly sedentary.
+Rangifer tarandus is "endangered in Canada in regions such as southeastern British Columbia at the Canadian-USA border, along the Columbia, Kootenay and Kootenai rivers and around Kootenay Lake. Rangifer tarandus is endangered in the United States in Idaho and Washington. R. t. pearyi is on the IUCN endangered list." According to Geist, the "woodland caribou is highly endangered throughout its distribution right into Ontario."[9]
+United States[edit]
+Most U.S. caribou populations are in Alaska. There is also a remnant population of about a dozen boreal woodland caribou (R. t. caribou) in the Selkirk Mountains of Idaho; these are the only remaining wild caribou in the contiguous United States.[119]
+Alaska[edit]
+Male caribou, Fort Greely, Alaska
+There are four herds in Alaska, the Western Arctic herd, the Teshekpuk Lake herd, the Central Arctic herd and the Porcupine herd, the last of which is transnational as its migratory range extends far into Canada's north. The largest is the Western Arctic caribou herd, but the smaller Porcupine herd has the longest migration of any terrestrial mammal on earth with a vast historical range.
+Porcupine caribou herd[edit]
+Main article: Porcupine caribou
+Male Porcupine caribou (R. t. granti) in Alaska
+The Porcupine caribou herd is transnational and migratory. The herd is named after their birthing grounds, for example, the Porcupine River, which runs through a large part of the range of the Porcupine herd. Individual herds of migratory caribou once had over a million animals per herd and could take over ten days to cross the Yukon River, but these numbers dramatically declined with habitat disturbance and degradation. Though numbers fluctuate, the herd comprises approximately 169,000 animals (based on a July 2010 photocensus).[120] The Porcupine herd's annual migrations of 1,500 miles (2,400 km) are among the longest of any terrestrial mammal.[8] Its range spans approximately 260,000 km2 (64,000,000 acres), from Aklavik, Northwest Territories to Dawson City, Yukon to Kaktovik, Alaska on the Beaufort Sea. The Porcupine caribou or Grant's caribou (Rangifer tarandus granti) is a subspecies with a vast range that includes northeastern Alaska and the Yukon and is therefore cooperatively managed by government agencies and aboriginal peoples from both countries.[35][121] The Gwich'in people followed the Porcupine herd—their primary source of food, tools, and clothing—for thousands of years—according to oral tradition, for as long as 20,000 years. They continued their nomadic lifestyle until the 1870s.[122] This herd is also traditional food for the Inupiat, the Inuvialuit, the Hän, and the Northern Tutchone. There is currently controversy over whether possible future oil drilling on the coastal plains of the Arctic National Wildlife Refuge, encompassing much of the Porcupine caribou calving grounds, will have a severe negative impact on the caribou population or whether the caribou population will grow.
+Unlike many other Rangifer tarandus subspecies and their ecotypes, the Porcupine caribou is stable at relatively high numbers, but the 2013 photo census was not counted by January 2014. The peak population in 1989 of 178,000 animals was followed by a decline by 2001 to 123,000. However, by 2010, there was a recovery and an increase to 169,000 animals.[123][120]
+Many Gwich'in people, who depend on the Porcupine herd, still follow traditional caribou management practices that include a 1981 prohibition against selling caribou meat and limits on the number of caribou to be taken per hunting trip.[124]
+Western Arctic caribou herd[edit]
+A large bull reindeer in Alaska
+The Western Arctic caribou herd is the largest of the three. The Western Arctic herd reached a low of 75,000 in the mid-1970s. In 1997 the 90,000 WACH changed their migration and wintered on Seward Peninsula. Alaska's reindeer herding industry has been concentrated on Seward Peninsula ever since the first shipment of reindeer was imported from eastern Siberia in 1892 as part of the Reindeer Project, an initiative to replace whale meat in the diet of the indigenous people of the region.[125] For many years it was believed that the geography of the peninsula would prevent migrating caribou from mingling with domesticated reindeer who might otherwise join caribou herds when they left an area.[125][126] However, in 1997 the domesticated reindeer joined the Western Arctic caribou herd on their summer migration and disappeared.[127] The WACH reached a peak of 490,000 in 2003 and then declined to 325,000 in 2011.[73][128]
+Teshekpuk Lake and Central Arctic caribou herds[edit]Prudhoe Bay Oil FieldTeshekpuk Lake
+North Slopes Alaska
+In 2008, the Teshekpuk Lake caribou herd had 64,107 animals and the Central Arctic caribou herd had 67,000.[129][130]
+By 2017, the Teshekpuk herd's numbers, whose calving grounds are in the region of the shallow Teshekpuk Lake,[131] had declined to 41,000 animals.[131] Teshekpuk Lake in the North Slope is in the traditional lands of the Iñupiat, who depended on the Teshekpuk herd for millennia. Teshekpuk Lake is also in the National Petroleum Reserve-Alaska, where the U.S. Department of the Interior (DOI) had approved oil and gas drilling in January 11, 2006.[132][133] The NPR-A is the "single largest parcel of public land in the United States" covering about 23 million acres". The reserve’s eastern border sits about 100 miles to the west of the more famous Arctic National Wildlife Refuge. The leasing of Teshekpuk Lake land to industry was protested by the Iñupiat and others who sent 300,000 letters to the US Secretary of the Interior and the ConocoPhillips CEO over the summer of 2006. On September 25, 2006, the U.S. District Court for the District of Alaska protected the wildlife habitat around the lake from an oil and gas lease sale.[134]
+In October 2017, U. S. Secretary of the Interior, Ryan Zinke, announced that as of December 6, 2017, lands under the administration of the U.S. Bureau of Land Management will be up for bid on the "largest offering of public lands for lease in the history of the [BLM] — 10.3 million acres".[131] The Prudhoe Bay Oil Field, near Prudhoe Bay, Alaska, is situated between the Arctic National Wildlife Refuge to the east. Industry will be allowed to run "roads, pipelines and drill rigs" in the very sensitive habitat areas, including the Teshekpuk caribou herd calving grounds. The Teshekpuk herd remains at the calving grounds for several weeks in spring before moving from Teshekpuk Lake for relief from mosquitoes and botflies before their annual migration.[131]Reindeer imported to Alaska[edit]
+Reindeer were imported from Siberia in the late 19th century and from Norway in the early 1900s as semi-domesticated livestock in Alaska.[135][136] Reindeer can interbreed with the native caribou subspecies.
+Canada[edit]
+Nunavut[edit]
+The barren-ground caribou (R. t. groenlandicus),[15] a long-distance migrant, includes large herds in the Northwest Territories and in Nunavut, for example, the Beverly, the Ahiak and Qamanirjuaq herds. In 1996, the population of the Ahiak herd was approximately 250,000 animals.Ahiak, Beverly and Qamanirjuaq caribou herds[edit]
+The Ahiak, Beverly and Qamanirjuaq caribou herds are all barren-ground caribou.
+The Beverly herd of barren-ground caribou, Thelon River, Nunavut.[47]
+"The Beverly herd’s crossing of the Thelon River to its traditional calving grounds near Beverly Lake was part of the lives of the Dene aboriginal people for 8,000 years, as revealed by an unbroken archaeological record of deep layers of caribou bones and stone tools in the banks of the Thelon River (Gordon 2005)."[137][138] The Beverly herd (located primarily in Saskatchewan, Northwest Territories; with portions in Nunavut, Manitoba and Alberta) and the Qamanirjuaq Herd (located primarily in Manitoba, Nunavut; with portions in the southeastern NWT and northeastern Saskatchewan) fall under the auspices of the Beverly and Qamanirjuaq Caribou Management Board.[139] The Beverly herd, whose range spans the tundra from northern Manitoba and Saskatchewan and well into the Northwest Territories and Nunavut, had a peak population in 1994 of 276,000[140][141] or 294,000,[5] but by 2011 there were approximately 124,000 caribou in the Beverly herd and 83,300 in the Ahiak herd. The calving grounds of the Beverly herd are located around Queen Maud Gulf, but the herd shifted its traditional birthing area.[142] Caribou management agencies are concerned that deterioration and disturbance of habitat along with "parasites, predation and poor weather"[140] are contributing to a cycling down of most caribou populations. It was suggested the Ahiak and Beverly herds switched calving grounds and the Beverly may have moved "near the western Queen Maud Gulf coast to the north of the herd’s "traditional" calving ground in the Gary Lakes area north of Baker Lake."[143] The "Beverly herd may have declined (similar to other Northwest Territories herds), and cows switched to the neighbouring Ahiak herd to maintain the advantages of gregarious calving."[144] By 2011 there were approximately 124,000 caribou in the combined Beverly/Ahiak herd which represents a "50% or a 75% decline from the 1994 population estimate for the Beverly Herd."[5]
+The barren-ground caribou population on Southampton Island, Nunavut declined by almost 75%, from about 30,000 caribou in 1997 to 7,800 caribou in 2011.[5][145]
+Peary caribou on Baffin Island[edit]
+Main article: Peary caribou
+The Peary caribou (R. t. pearyi) is a relatively small and pale subspecies found in the tundra of far northern North America. Unsurprisingly, it is part of the group known as tundra reindeer.
+The Peary caribou (R. t. pearyi), the smallest subspecies in North America, known as tuktu in Inuktitut, are found in the northern islands of Nunavut and the Northwest Territories. They remain at low numbers after severe declines. On Baffin Island, the largest Arctic island, the population of Peary caribou peaked in the early 1990s to approximately 60,000 to 180,000.[146] By 2012, in northern Baffin Island caribou numbers were considered to be at a "low in the cycle after a high in the 1990s" and in southern Baffin Island, the population was estimated as between 1,065 and 2,067.[147]The Northwest Territories[edit]
+There are four barren-ground caribou herds in the Northwest Territories—the Cape Bathurst, Bluenose West, Bluenose East and Bathurst herds.[5] The Bluenose East caribou herd began a recovery with a population of approximately 122,000 in 2010,[148] which is being credited to the establishment of Tuktut Nogait National Park.[149] According to T. Davison 2010, CARMA 2011, the three other herds "declined 84–93% from peak sizes in the mid-1980s and 1990s.[5]
+R. t. caribou[edit]
+The subspecies R. t. caribou, commonly known as woodland caribou, is divided into ecotypes: boreal woodland caribou (also known as forest-dwelling), migratory woodland caribou and mountain woodland caribou.[clarification needed] Caribou are classified by ecotype depending on several behavioural factors – predominant habitat use (northern, tundra, mountain, forest, boreal forest, forest-dwelling), spacing (dispersed or aggregated) and migration patterns (sedentary or migratory).[43][44][45]
+In Canada, the national meta-population of the sedentary boreal woodland ecotype spans the boreal forest from the Northwest Territories to Labrador. They prefer lichen-rich mature forests[150] and mainly live in marshes, bogs, lakes and river regions.[151][152] The historic range of the boreal woodland caribou covered over half of present-day Canada,[12] stretching from Alaska to Newfoundland and Labrador and as far south as New England, Idaho and Washington. Woodland caribou have disappeared from most of their original southern range and only about 34,000 remain.[153] The boreal woodland caribou was designated as threatened in 2002.[154]
+George River caribou herd (GRCH)[edit]
+Main article: George River (Quebec)
+The migratory George River caribou herd (GRCH), in the Ungava region of Quebec and Labrador in eastern Canada was once the world's largest caribou herd with 800,000–900,000 animals. Although it is categorized as the subspecies Rangifer tarandus caribou,[15] the woodland caribou, the GRCH is the migratory woodland caribou and, like the barren-ground caribou, its ecotype may be tundra caribou, Arctic, northern or migratory, not forest-dwelling and sedentary like most woodland caribou ecotypes. It is unlike most woodland caribou in that it is not sedentary. Since the mid-1990s, the herd declined sharply and by 2010, it was reduced to 74,131—a drop of up to 92%.[155] A 2011 survey confirms a continuing decline of the George River caribou herd population. By 2018 it was estimated to be fewer than 9,000 animals as reported by the Canadian Broadcasting Corporation, down from 385,000 in 2001 and 74,131 in 2010.[4][155][156]
+Leaf River caribou herd (LRCH)[edit]
+Leaf River caribou
+Caribou crossing Leaf RiverLeaf River and caribou
+The Leaf River caribou herd (LRCH),[157] another migratory forest-tundra ecotype of the boreal woodland caribou, near the coast of Hudson Bay, increased from 270 000 individuals in 1991 to 628 000 in 2001.[158] By 2011 the herd had decreased to 430 000.[4][155][159] According to an international study on caribou populations, the George River and Leaf River herds and other herds that migrate from Nunavik, Quebec and insular Newfoundland, could be threatened with extinction by 2080.[156]
+Queen Charlotte Islands caribou[edit]
+Main article: Queen Charlotte Islands caribou
+The Queen Charlotte Islands caribou (R. t. dawsoni) from Graham Island, the largest of the Queen Charlotte Islands, was believed to represent a distinct subspecies. It became extinct at the beginning of the 20th century. However, recent DNA analysis from mitochondrial DNA taken from the remains of these caribou suggest that the animals from the Queen Charlotte Islands were not genetically distinct from the Canadian mainland caribou subspecies.[11]
+Greenland[edit]
+According to Kolpashikov et al. (2013) there were four main populations of barren-ground caribou (R. t. groenlandicus) in western Greenland in 2013.[5] The Kangerlussuaq-Sisimiut caribou herd, the largest, had a population of around 98,000 animals in 2007.[5][160] The second largest, the Akia-Maniitsoq caribou herd, decreased from an estimated 46,000 in 2001 to about 17,400 in 2010. According to Cuyler, "one possible cause might be the topography, which prevents hunter access in the former while permitting access in the latter."[5]
+Norway[edit]
+The last remaining wild tundra reindeer in Europe are found in portions of southern Norway.[161] In southern Norway in the mountain ranges, there are about 30,000–35,000 reindeer with 23 different populations. The largest herd, with about 10,000 individuals, is at Hardangervidda. By 2013 the greatest challenges to management were "loss of habitat and migration corridors to piecemeal infrastructure development and abandonment of reindeer habitat as a result of human activities and disturbance."[4]
+Norway is now preparing to apply for nomination as a World Heritage Site for areas with traces and traditions of reindeer hunting in Dovrefjell-Sunndalsfjella National Park, Reinheimen National Park and Rondane National Park in Central Sør-Norge (Southern Norway). There is in these parts of Norway an unbroken tradition of reindeer hunting from the post-glacial Stone Age until today.[citation needed]
+On 29 August 2016, the Norwegian Environment Agency announced the death of 323 reindeer by the effects of a lightning strike in Hardangervidda.[162]Svalbard reindeer[edit]
+Main article: Svalbard reindeer
+Characteristically small and relatively short-legged reindeer from Svalbard
+The Svalbard reindeer (R. t. platyrhynchus) from Svalbard Island is very small compared to other subspecies (a phenomenon known as insular dwarfism) and is the smallest of all the subspecies, with females having a length of approximately 150 cm (59 in), and a weight around 53 kg (117 lb) in the spring and 70 kg (150 lb) in the autumn.[75] Males are approximately 160 cm (63 in) long, and weigh around 65 kg (143 lb) in the spring and 90 kg (200 lb) in the autumn.[75] The reindeer from Svalbard are also relatively short-legged and may have a shoulder height of as little as 80 cm (31 in),[75] thereby following Allen's rule.Svalbard reindeer (R. t. platyrhynchus)
+Rangifer tarandus platyrhynchus, in Norway referred to as the Svalbard reindeer, seems to have evolved from large European reindeer.[10] The Svalbard reindeer is special in several ways. Svalbard reindeer have peculiarities in their metabolism. The skeleton shows a remarkable relative shortening of the legs, thus parallelling many extinct insular deer species.[163]
+Finland[edit]
+Main article: Finnish forest reindeer
+The Finnish forest reindeer (R. t. fennicus), is found in the wild in only two areas of the Fennoscandia peninsula of Northern Europe, in Finnish/Russian Karelia and a small population in central south Finland. The Karelia population reaches far into Russia, however, so far that it remains an open question whether reindeer further to the east are R. t. fennicus as well.[citation needed] By 2007 reindeer experts were concerned about the collapse of the wild Finnish forest reindeer in the eastern province of Kainuu.[164] During the peak year of 2001, the Finnish forest reindeer population in Kainuu was established at 1,700. In a March 2007 helicopter count, only 960 individuals were detected.
+Iceland[edit]
+East Iceland has a small herd of about 2500–3000 animals.[165] Reindeer were introduced to Iceland in the late 1700s.[166][4] The Icelandic reindeer population in July 2013 was estimated at approximately 6,000. With a hunting quota of 1,229 animals, the winter 2013–2014 population is expected to be around 4,800 reindeer.[4]
+British overseas territory experiment[edit]
+Southernmost reindeer: South Georgian reindeer with velvet-covered antlers
+A few reindeer from Norway were introduced to the South Atlantic island of South Georgia in the beginning of the 20th century. The South Georgian reindeer total some 2,600 animals in two distinct herds separated by glaciers. Although both the flag and the coat of arms of the territory contain an image of a reindeer, a decision was taken in 2011 to completely eradicate the animals from the island because of the environmental damage they cause.[167][168]
+French overseas territory experiment[edit]
+Around 4,000 reindeer have been introduced into the French sub-Antarctic archipelago of the Kerguelen Islands.Approximate geographical distribution of reindeer and of the major migratory herds. 1. Western Arctic herd (R.t. granti). 2. Porcupine herd (R.t. groenlandicus). 3. Bluenose herd (R.t. groenlandicus). 4. Bathurst herd (R.t. groenlandicus). 5. Beverly herd (R.t. groenlandicus). 6. Qamanirjuaq herd (R.t. groenlandicus). 7. Leaf River herd (R.t. caribou). 8. George River herd (R.t. caribou). 9. Taimyr Peninsula herd (R.t. tarandus). 10. Lena-Olenek herd (R.t. tarandus). 11. Yana-Indigirka herd (R.t. tarandus). 12. Sundrum herd (R.t. tarandus).Conservation[edit]
+Current status[edit]
+While overall widespread and numerous, some subspecies are rare and at least one has already gone extinct.[10][11] As of 2015, the IUCN has classified the reindeer as Vulnerable due to an observed population decline of 40% over the last ~25 years.[2] According to IUCN, Rangifer tarandus as a species is not endangered because of its overall large population and the widespread range.[2]
+In North America, R. t. dawsoni is extinct,[169][11][10] R. t. pearyi is endangered, R. t. caribou is designated as threatened and some individual populations are endangered. While the subspecies R. t. granti and R. t. groenlandicus are not designated as threatened, many individual herds—including some of the largest—are declining and there is much concern at the local level.[123]
+Rangifer tarandus is "endangered in Canada in regions such as south-east British Columbia at the Canadian-USA border, along the Columbia, Kootenay and Kootenai rivers and around Kootenay Lake. Rangifer tarandus is endangered in the United States in Idaho and Washington.
+There is strong regional variation in Rangifer herd size, By 2013 many caribou herds in North America had "unusually low numbers" and their winter ranges in particular were smaller than they used to be.[123] Caribou numbers have fluctuated historically, but many herds are in decline across their range.[170] There are many factors contributing to the decline in numbers.[171]
+Boreal woodland caribou (COSEWIC designation as threatened)[edit]
+Ongoing human development of their habitat has caused populations of woodland caribou to disappear from their original southern range. In particular, caribou were extirpated in many areas of eastern North America in the beginning of the 20th century. Woodland caribou were designated as threatened in 2002.[13] Environment Canada reported in 2011 that there were approximately 34,000 boreal woodland caribou in 51 ranges remaining in Canada (Environment Canada, 2011b).[14] Professor Marco Musiani of the University of Calgary said in a statement that "The woodland caribou is already an endangered species in southern Canada and the United States....[The] warming of the planet means the disappearance of their critical habitat in these regions. Caribou need undisturbed lichen-rich environments and these types of habitats are disappearing."[172]
+Woodland caribou have disappeared from most of their original southern range and were designated as threatened in 2002 by the Committee on the Status of Endangered Wildlife in Canada, (COSEWIC).[13] Environment Canada reported in 2011 that there were approximately 34 000 boreal woodland caribou in 51 ranges remaining in Canada.(Environment Canada, 2011b).[14] "According to Geist, the "woodland caribou is highly endangered throughout its distribution right into Ontario."[9]
+In 2002 the Atlantic-Gaspésie population of the woodland caribou was designated as endangered by COSEWIC. The small isolated population of 200 animals was at risk from predation and habitat loss.
+Peary caribou (COSEWIC designation as endangered)[edit]
+In 1991 COSEWIC assigned "endangered status" to the Banks Island and High Arctic populations of Peary caribou. The Low Arctic population of Peary caribou was designated as threatened. By 2004 all three were designated as "endangered."[169]Numbers have declined by about 72% over the last three generations, mostly because of catastrophic die-off likely related to severe icing episodes. The ice covers the vegetation and caribou starve. Voluntary restrictions on hunting by local people are in place, but have not stopped population declines. Because of the continuing decline and expected changes in long-term weather patterns, this subspecies is at imminent risk of extinction.
+— [169]Relationship with humans[edit]
+See also: Reindeer in Siberian Shamanism
+Reindeer pulling a sled in Russia
+See also: Reindeer hunting in Greenland
+The reindeer has an important economic role for all circumpolar peoples, including the Saami, the Nenets, the Khants, the Evenks, the Yukaghirs, the Chukchi and the Koryaks in Eurasia. It is believed that domestication started between the Bronze and Iron Ages. Siberian reindeer owners also use the reindeer to ride on (Siberian reindeer are larger than their Scandinavian relatives). For breeders, a single owner may own hundreds or even thousands of animals. The numbers of Russian reindeer herders have been drastically reduced since the fall of the Soviet Union. The sale of fur and meat is an important source of income. Reindeer were introduced into Alaska near the end of the 19th century; they interbred with the native caribou subspecies there. Reindeer herders on the Seward Peninsula have experienced significant losses to their herds from animals (such as wolves) following the wild caribou during their migrations.[citation needed]
+Reindeer meat is popular in the Scandinavian countries. Reindeer meatballs are sold canned. Sautéed reindeer is the best-known dish in Lapland. In Alaska and Finland, reindeer sausage is sold in supermarkets and grocery stores. Reindeer meat is very tender and lean. It can be prepared fresh, but also dried, salted and hot- and cold-smoked. In addition to meat, almost all of the internal organs of reindeer can be eaten, some being traditional dishes.[173] Furthermore, Lapin Poron liha, fresh reindeer meat completely produced and packed in Finnish Lapland, is protected in Europe with PDO classification.[174][175]
+Reindeer antlers are powdered and sold as an aphrodisiac, or as an nutritional or medicinal supplement, to Asian markets.
+The blood of the caribou was supposedly mixed with alcohol as drink by hunters and loggers in colonial Quebec to counter the cold. This drink is now enjoyed without the blood as a wine and whiskey drink known as Caribou.[176][177]
+Reindeer and indigenous peoples[edit]
+Wild reindeer are still hunted in Greenland and in North America. In the traditional lifestyle of the Inuit people, the Northern First Nations people, the Alaska Natives, and the Kalaallit of Greenland, reindeer is an important source of food, clothing, shelter and tools.
+Early 20th Century Inuit parka from caribou skin
+The Caribou Inuit are inland-dwelling Inuit in present-day Nunavut's Keewatin Region, Canada, now known as the Kivalliq Region. They subsisted on caribou year-round, eating dried caribou meat in the winter. The Ihalmiut are caribou Inuit that followed the Qamanirjuaq barren-ground caribou herd.[178]
+There is an Inuit saying in the Kivalliq Region:[82]The caribou feeds the wolf, but it is the wolf who keeps the caribou strong.
+— Kivalliq regionElder Chief of Koyukuk and chair for the Western Arctic Caribou Herd Working Group Benedict Jones, or K’ughto’oodenool’o’, represents the Middle Yukon River, Alaska. His grandmother was a member of the Caribou Clan, who travelled with the caribou as a means to survive. In 1939, they were living the traditional life style at one of their hunting camps in Koyukuk near the location of what is now the Koyukuk National Wildlife Refuge. His grandmother made a pair of new mukluks in one day. K’ughto’oodenool’o’ recounted a story told by an elder, who "worked on the steamboats during the gold rush days out on the Yukon." In late August the caribou migrated from the Alaska Range up north to Huslia, Koyukuk and the Tanana area. One year when the steamboat was unable to continue they ran into a caribou herd numbering estimated at a million animals, migrating across the Yukon. "They tied up for seven days waiting for the caribou to cross. They ran out of wood for the steamboats, and had to go back down 40 miles to the wood pile to pick up some more wood. On the tenth day, they came back and they said there was still caribou going across the river night and day."[31]
+The Gwich'in, the indigenous people of northwestern Canada and northeastern Alaska, have been dependent on the international migratory Porcupine caribou herd for millennia.[179]:142 To them caribou—vadzaih—is the cultural symbol and a keystone subsistence species of the Gwich'in, just as the buffalo is to the Plains Indians.[180] Innovative language revitalization projects are underway to document the language and to enhance the writing and translation skills of younger Gwich'in speakers. In one project lead research associate and fluent speaker Gwich’in elder Kenneth Frank works with linguists which include young Gwich'in speakers affiliated with the Alaska Native Language Center at the University of Alaska in Fairbanks to document traditional knowledge of caribou anatomy. The main goal of the research, was to "elicit not only what the Gwich'in know about caribou anatomy, but how they see caribou and what they say and believe about caribou that defines themselves, their dietary and nutritional needs, and their subsistence way of life."[180] Elders have identified at least 150 descriptive Gwich'in names for all of the bones, organs and tissues. Associated with the caribou's anatomy are not just descriptive Gwich'in names for all of the body parts including bones, organs, and tissues, but also "an encyclopedia of stories, songs, games, toys, ceremonies, traditional tools, skin clothing, personal names and surnames, and a highly developed ethnic cuisine."[180]
+In the 1980s, Gwich'in Traditional Management Practices were established to protect the Porcupine caribou, upon which the Gwich'in people depend. They "codified traditional principles of caribou management into tribal law" which include "limits on the harvest of caribou and procedures to be followed in processing and transporting caribou meat" and limits on the number of caribou to be taken per hunting trip.[181]
+Reindeer husbandry[edit]
+A reindeer sled, Arkhangelsk, Russia. Late nineteenth-century photochrom
+Milking reindeer in the 19th century
+The reindeer is the only domesticated deer in the world and was the last animal to be domesticated, though it may be more accurate to consider reindeer as semi-domesticated. Reindeer in northern Fennoscandia (northern Norway, Sweden and Finland) as well in the Kola Peninsula in Russia, are all[dubious – discuss] semi-wild domestic reindeer (Rangifer tarandus domesticus), ear-marked by their owners and living in large fenced areas. Some reindeer in the area are truly domesticated, mostly used as draught animals (nowadays commonly for tourist entertainment and races, traditionally important for the nomadic Sámi). Domesticated reindeer have also been used for milk, e.g. in Norway.
+There are only two genetically pure populations of wild reindeer in Northern Europe: wild mountain reindeer (Rangifer tarandus tarandus) that live in central Norway, with a population in 2007 of between 6,000 and 8,400 animals;[182] and wild Finnish forest reindeer (Rangifer tarandus fennicus) that live in central and eastern Finland and in Russian Karelia, with a population of about 4,350, plus 1,500 in Arkhangelsk and 2,500 in Komi.[183]
+DNA analysis indicates that reindeer were independently domesticated in Fennoscandia and Western Russia (and possibly Eastern Russia).[184] Reindeer have been herded for centuries by several Arctic and sub-Arctic peoples, including the Sami and the Nenets. They are raised for their meat, hides and antlers and, to a lesser extent, for milk and transportation. Reindeer are not considered fully domesticated, as they generally roam free on pasture grounds. In traditional nomadic herding, reindeer herders migrate with their herds between coastal and inland areas according to an annual migration route and herds are keenly tended. However, reindeer were not bred in captivity, though they were tamed for milking as well as for use as draught animals or beasts of burden.[citation needed] Domesticated reindeer are shorter-legged and heavier than their wild counterparts.[citation needed]
+The use of reindeer for transportation is common among the nomadic peoples of northern Russia (but not anymore in Scandinavia). Although a sled drawn by 20 reindeer will cover no more than 20–25 km a day (compared to 7–10 km on foot, 70–80 km by a dog sled loaded with cargo and 150–180 km by a dog sled without cargo), it has the advantage that the reindeer will discover their own food, while a pack of 5–7 sled dogs requires 10–14 kg of fresh fish a day.[185]
+The use of reindeer as semi-domesticated livestock in Alaska was introduced in the late 19th century by the U.S. Revenue Cutter Service, with assistance from Sheldon Jackson, as a means of providing a livelihood for Native peoples there.[186] Reindeer were imported first from Siberia and later also from Norway. A regular mail run in Wales, Alaska, used a sleigh drawn by reindeer.[136] In Alaska, reindeer herders use satellite telemetry to track their herds, using online maps and databases to chart the herd's progress.[citation needed]
+Domesticated reindeer are mostly found in northern Fennoscandia and Russia, with a herd of approximately 150–170 reindeer living around the Cairngorms region in Scotland. The last remaining wild tundra reindeer in Europe are found in portions of southern Norway.[161] The International Centre for Reindeer Husbandry (ICR), a circumpolar organization, was established in 2005 by the Norwegian government. ICR represents over 20 indigenous reindeer peoples and about 100,000 reindeer herders in 9 different national states.[187] In Finland, there are about 6,000 reindeer herders, most of whom keep small herds of less than 50 reindeer to raise additional income. With 185,000 reindeer (2001), the industry produces 2,000 tons of reindeer meat and generates 35 million euros annually. 70% of the meat is sold to slaughterhouses. Reindeer herders are eligible for national and EU agricultural subsidies, which constituted 15% of their income. Reindeer herding is of central importance for the local economies of small communities in sparsely populated rural Lapland.[188]
+Currently, many reindeer herders are heavily dependent on diesel fuel to provide for electric generators and snowmobile transportation, although solar photovoltaic systems can be used to reduce diesel dependency.[189]
+In history[edit]
+Reindeer hunting by humans has a very long history and wild reindeer "may well be the species of single greatest importance in the entire anthropological literature on hunting."[16]
+Both Aristotle and Theophrastus have short accounts – probably based on the same source – of an ox-sized deer species, named tarandos, living in the land of the Bodines in Scythia, which was able to change the colour of its fur to obtain camouflage. The latter is probably a misunderstanding of the seasonal change in reindeer fur colour. The descriptions have been interpreted as being of reindeer living in the southern Ural Mountains in c. 350 BC[21]
+The tragelaphus or deer-goat
+A deer-like animal described by Julius Caesar in his Commentarii de Bello Gallico (chapter 6.26) from the Hercynian Forest in the year 53 BC is most certainly to be interpreted as reindeer:[21][190]There is an ox shaped like a stag. In the middle of its forehead a single horn grows between its ears, taller and straighter than the animal horns with which we are familiar. At the top this horn spreads out like the palm of a hand or the branches of a tree. The females are of the same form as the males, and their horns are the same shape and size.According to Olaus Magnus's Historia de Gentibus Septentrionalibus – printed in Rome in 1555 – Gustav I of Sweden sent 10 reindeer to Albert I, Duke of Prussia, in the year 1533. It may be these animals that Conrad Gessner had seen or heard of.
+During World War II, the Soviet Army used reindeer as pack animals to transport food, ammunition and post from Murmansk to the Karelian front and bring wounded soldiers, pilots and equipment back to the base. About 6,000 reindeer and more than 1,000 reindeer herders were part of the operation. Most herders were Nenets, who were mobilized from the Nenets Autonomous Okrug, but reindeer herders from Murmansk, Arkhangelsk and Komi also participated.[191][192]
+Santa Claus's reindeer[edit]
+Two Scottish reindeer relax after pulling Santa's sleigh at the switching on of Christmas lights
+Main article: Santa Claus's reindeer
+Around the world, public interest in reindeer peaks in the Christmas period.[193] According to folklore, Santa Claus's sleigh is pulled by flying reindeer. These were first named in the 1823 poem "A Visit from St. Nicholas", where they are called Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Dunder, and Blixem.[194] Dunder was later changed to Donder and—in other works—Donner (in German, "thunder") and Blixem was later changed to Bliksem, then Blitzen (blitz being German for "lightning"). Some consider Rudolph as part of the group as well, though he was not part of the original named work referenced previously. Rudolph was added by Robert L. May in 1939 in his book Rudolph the Red-Nosed Reindeer.[195]
+In mythology and art[edit]
+Among the Inuit, there is a story of the origin of the caribou,[196]Once upon a time there were no caribou on the earth. But there was a man who wished for caribou, and he cut a hole deep in the ground, and up this hole came caribou, many caribou. The caribou came pouring out, until the earth was almost covered with them. And when the man thought there were caribou enough for mankind, he closed up the hole again. Thus the caribou came up on earth.
+— [196]Inuit artists from the barren lands, incorporate depictions of caribou—and items made from caribou antlers and skin—in carvings, drawings, prints and sculpture.
+Contemporary Canadian artist Brian Jungen's, of Dunne-za First Nations ancestry, commissioned an installation entitled "The ghosts on top of my head" (2010–11) in Banff, Alberta, which depicts the antlers of caribou, elk and moose.[197]I remember a story my Uncle Jack told me – a Dunne-Za creation story about how animals once ruled the earth and were ten times their size and that got me thinking about scale and using the idea of the antler, which is a thing that everyone is scared of, and making it into something more approachable and abstract.
+— Brian Jungen 2011[197]Tomson Highway, CM[198] is a Canadian and Cree playwright, novelist, and children's author, who was born in a remote area north of Brochet, Manitoba.[198] His father, Joe Highway, was a caribou hunter. His 2001 children's book entitled Caribou Song/atíhko níkamon was selected as one of the "Top 10 Children’s Books" by the Canadian newspaper The Globe and Mail. The young protagonists of Caribou Song, like Tomson himself, followed the caribou herd with their families.
+Heraldry and symbols[edit]
+Several Norwegian municipalities have one or more reindeer depicted in their coats-of-arms: Eidfjord, Porsanger, Rendalen, Tromsø, Vadsø and Vågå. The historic province of Västerbotten in Sweden has a reindeer in its coat of arms. The present Västerbotten County has very different borders and uses the reindeer combined with other symbols in its coat-of-arms. The city of Piteå also has a reindeer. The logo for Umeå University features three reindeer.[199]
+The Canadian 25-cent coin, or "quarter" features a depiction of a caribou on one face. The caribou is the official provincial animal of Newfoundland and Labrador, Canada, and appears on the coat of arms of Nunavut. A caribou statue was erected at the center of the Beaumont-Hamel Newfoundland Memorial, marking the spot in France where hundreds of soldiers from Newfoundland were killed and wounded in World War I and there is a replica in Bowring Park in St. John's, Newfoundland's capital city.[citation needed]
+Two municipalities in Finland have reindeer motifs in their coats-of-arms: Kuusamo[200] has a running reindeer and Inari[201]has a fish with reindeer antlers.See also[edit]Rangifer (journal)
+Rangifer (constellation)
+Reindeer PoliceParasites[edit]Hypoderma tarandi
+Cephenemyia trompeNotes[edit]^ The Integrated Taxonomic Information System list Wilson and Geist on their experts panel.
+^ a b c Banfield rejected this classification in 1961. However, Geist and others considered it valid.
+^ The George River and Leaf River caribou herds are classified as woodland caribou, but are also migratory with tundra as their primary range.
+^ According to Inuit elder, Marie Kilunik of the Aivilingmiut, Canadian Inuit preferred the caribou skins from caribou taken in the late summer of fall when their coats had thickened. They used for winter clothing "because each hair is hollow and fills with air trapping heat."(Marie Kilunik, Aivilingmiut, Crnkovich 1990:116).Further reading[edit]"Caribou Census Complete: 325,000 animals" (PDF), Caribou Trails: News from the Western Arctic Caribou Herd Working Group, Nome, Alaska: Western Arctic Caribou Herd Working Group, August 2012, retrieved 14 January 2014  This 15 page well-illustrated and highly informative August 2012 edition of the Western Arctic Caribou organization newsletter, reported the 2011 census results of the WACH, which is Alaska's largest caribou herd.References[edit]
+^ a b c Kurtén, Björn (1968). "Pleistocene Mammals of Europe". Transaction Publishers: 170–177. ISBN 978-1-4128-4514-4. Archived from the original on 1 January 2014. Retrieved 6 August 2013. 
+^ a b c d e f g h i Gunn, A. (2016). "Rangifer tarandus". IUCN Red List of Threatened Species. IUCN. 2016: e.T29742A22167140. Archived from the original on 29 June 2016. Retrieved 24 July 2016. 
+^ a b Flagstad, Oystein; Roed, Knut H (2003). "Refugial origins of reindeer (Rangifer tarandus L) inferred from mitochondrial DNA sequences" (PDF). Evolution. 57 (3): 658–670. doi:10.1554/0014-3820(2003)057[0658:roorrt]2.0.co;2. PMID 12703955. Archived from the original (PDF) on 4 September 2006. Retrieved 4 January 2013. 
+^ a b c d e f g h Russell, D.E.; Gunn, A. (20 November 2013). "Migratory Tundra Rangifer". NOAA Arctic Research Program. 
+^ a b c d e f g h i j k l Kolpasсhikov, L.; Makhailov, V.; Russell, D. E. (2015). "The role of harvest, predators, and socio-political environment in the dynamics of the Taimyr wild reindeer herd with some lessons for North America". Ecology and Society. 20. doi:10.5751/ES-07129-200109. 
+^ "Tradition 'snatched away': Labrador Inuit struggle with caribou hunting ban | CBC News". CBC. Retrieved 2018-04-18. 
+^ Robbins, Jim (2018-04-14). "Gray Ghosts, the Last Caribou in the Lower 48 States, Are 'Functionally Extinct'". The New York Times. ISSN 0362-4331. Retrieved 2018-04-18. 
+^ a b c Eder, Tamara; Kennedy, Gregory (2011), Mammals of Canada, Edmonton, Alberta: Lone Pine, p. 81, ISBN 978-1-55105-857-3 
+^ a b c d e f g h i j k l m n Grubb, Peter (2005), Rangifer tarandus, Smithsonian: National Museum of Natural History, archived from the original on 16 January 2014, retrieved 15 January 2014 
+^ a b c d Peter Gravlund; Morten Meldgaard; Svante Pääbo & Peter Arctander (1998). "Polyphyletic Origin of the Small-Bodied, High-Arctic Subspecies of Tundra Reindeer (Rangifer tarandus)". Molecular Phylogenetics and Evolution. 10 (2): 151–9. doi:10.1006/mpev.1998.0525. PMID 9878226. 
+^ a b c d S. A. Byun; B. F. Koop; T. E. Reimchen (2002). "Evolution of the Dawson caribou (Rangifer tarandus dawsoni)". Can. J. Zool. 80 (5): 956–960. doi:10.1139/z02-062. 
+^ a b "Population Critical: How are Caribou Faring?" (PDF). Canadian Parks and Wilderness Society and The David Suzuki Foundation. December 2013. Archived from the original (PDF) on 19 December 2013. Retrieved 17 December 2013. 
+^ a b c "Designatable Units for Caribou (Rangifer tarandus) in Canada" (PDF), COSEWIC, Ottawa, Ontario: Committee on the Status of Endangered Wildlife in Canada, p. 88, 2011, archived from the original (PDF) on 3 March 2016, retrieved 18 December 2013 
+^ a b c d e "Evaluation of Programs and Activities in Support of the Species at Risk Act" (PDF), Environment Canada, p. 2,9, 24 September 2012, archived (PDF) from the original on 27 December 2013, retrieved 27 December 2013 
+^ a b c d e f g h i j k Banfield, Alexander William Francis (1961). "A Revision of the Reindeer and Caribou, Genus Rangifer". Bulletin of the National Museum of Canada. Biological Services. 177 (66). 
+^ a b "In North America and Eurasia the species has long been an important resource—in many areas the most important resource—for peoples inhabiting the northern boreal forest and tundra regions. Known human dependence on caribou/wild reindeer has a long history, beginning in the Middle Pleistocene (Banfield 1961:170; Kurtén 1968:170) and continuing to the present....The caribou/wild reindeer is thus an animal that has been a major resource for humans throughout a tremendous geographic area and across a time span of tens of thousands of years." Ernest S. Burch, Jr. (1972). "The Caribou/Wild Reindeer as a Human Resource". American Antiquity. 37 (3): 339–368. doi:10.2307/278435. JSTOR 278435. 
+^ a b Atlas of Murmansk Oblast, 1971 
+^ Administrative-Territorial Divisions of Murmansk Oblast 
+^ a b c d "The Sámi and their reindeer". Austin, Texas: University of Texas. Archived from the original on 23 July 2013. Retrieved 15 January 2014. 
+^ Schaefer, J. A.; Mahoney, S. P. (2001). "Antlers on female caribou: biogeography of the bones of contention". Ecology. 82 (12): 3556–3560. doi:10.1890/0012-9658(2001)082[3556:aofcbo]2.0.co;2. JSTOR 2680172. 
+^ a b c Sarauw, Georg (1914). "Das Rentier in Europa zu den Zeiten Alexanders und Cæsars" [The reindeer in Europe to the times of Alexander the Great and Julius Caesar]. In Jungersen, H. F. E.; Warming, E. Mindeskrift i Anledning af Hundredeaaret for Japetus Steenstrups Fødsel (in German). Copenhagen. pp. 1–33. 
+^ Gesner, K. (1617) Historia animalium. Liber 1, De quadrupedibus viviparis. Tiguri 1551. p. 156: De Tarando. 9. 950: De Rangifero.
+^ Aldrovandi, U. (1621) Quadrupedum omnium bisulcorum historia. Bononiæ. Cap. 30: De Tarando– Cap. 31: De Rangifero.
+^ "deer". The American Heritage Dictionary of the English Language, 4th ed. Houghton Mifflin Company. 2000. Archived from the original on 25 March 2004. 
+^ Flexner, Stuart Berg and Leonore Crary Hauck, eds. (1987). The Random House Dictionary of the English Language, 2nd ed. (unabridged). New York: Random House, pp. 315–16
+^ Koivulehto, Jorma (2007) Saamen ja suomen 'poro' Archived 16 July 2011 at the Wayback Machine.. Mémoires de la Société Finno-Ougrienne 253.
+^ Spalding, Alex, Inuktitut – A Multi-Dialectal Outline Dictionary (with an Aivilingmiutaq base). Nunavut Arctic College, Iqaluit, Nunavut, Canada, 1998.
+^ Eskimoisches Wörterbuch, gesammelt von den Missionaren in Labrador, revidirt und herausgegeben von Friedrich Erdmann. Budissin [mod. Bautzen] 1864.
+^ Iñupiat Eskimo dictionary Archived 2 February 2017 at the Wayback Machine., Alaska State Library, Donald H. Webster & Wilfried Zibell, 1970. Retrieved 23 March 2017.
+^ a b "Vuntut Gwich'in", First Voices, 2001–2013, retrieved 17 January 2014 
+^ a b c d "Caribou Census Complete: 325,000 animals" (PDF), Caribou Trails: News from the Western Arctic Caribou Herd Working Group, Nome, Alaska: Western Arctic Caribou Herd Working Group, Alaska Department of Fish and Game, August 2012, archived (PDF) from the original on 30 August 2012, retrieved 14 January 2014 
+^ "FirstVoices: Hän: words". 
+^ Bennett, John (1 June 2008), Uqalurait: An Oral History of Nunavut, McGill-Queen's Native and Northern Series, McGill-Queen's University Press, p. 63 
+^ a b c d e f Geist, V. (2007). "Defining subspecies, invalid taxonomic tools, and the fate of the woodland caribou". Rangifer. 27 (4): 25. doi:10.7557/2.27.4.315. 
+^ a b c d e f g h i j Grubb, P. (2005). Wilson, D.E.; Reeder, D.M., eds. Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Johns Hopkins University Press. ISBN 978-0-8018-8221-0. OCLC 62265494. 
+^ "Rangifer tarandus caribou (Gmelin, 1788): Taxonomic Serial No.: 202411", Integrated Taxonomic Information System (ITIS), 18 December 2013, archived from the original on 19 December 2013, retrieved 18 December 2013 
+^ a b Cronin, M. A.; MacNeil, M. D.; Patton, J. C. (2005). "Variation in Mitochondrial Dna and Microsatellite Dna in Caribou (Rangifer tarandus) in North America". Journal of Mammalogy. 86 (3): 495–505. doi:10.1644/1545-1542(2005)86[495:VIMDAM]2.0.CO;2. 
+^ Mallory, F. F.; Hillis, T. L. (1998). "Demographic characteristics of circumpolar caribou populations: Ecotypes, ecological constraints, releases, and population dynamics". Rangifer. 18 (5): 49. doi:10.7557/2.18.5.1541. 
+^ a b COSEWIC, p. 3
+^ COSEWIC, p. 10
+^ a b c d e f g h i Mattioli, S. (2011). Caribou (Rangifer tarandus). pp. 431–432 in: Handbook of the Mammals of the World, vol. 2. Lynx Edicions, Barcelona. ISBN 978-84-96553-77-4
+^ Geist, Valerius (1998), Deer of the world: their evolution, behavior, and ecology, Mechanicsburg, PA: Stackpole Books 
+^ a b c Bergerud, A. T. (1996). "Evolving perspectives on caribou population dynamics, have we got it right yet?". Rangifer. 16 (4): 95. doi:10.7557/2.16.4.1225. 
+^ a b c Festa-Bianchet, M.; Ray, J.C.; Boutin, S.; Côté, S.D.; Gunn, A.; et al. (2011). "Conservation of Caribou (Rangifer tarandus) in Canada: An Uncertain Future". Canadian Journal of Zoology. 89 (5): 419–434. doi:10.1139/z11-025. 
+^ a b c Mager, Karen H. (2012). "Population Structure and Hybridization of Alaskan Caribou and Reindeer: Integrating Genetics and Local Knowledge" (PDF). Fairbanks, Alaska: PhD dissertation, University of Alaska Fairbanks. Archived (PDF) from the original on 28 December 2013. Retrieved 27 December 2013. 
+^ a b New World Deer (Capriolinae). Answers.com
+^ a b c Reid, F. (2006). Mammals of North America. Peterson Field Guides. ISBN 978-0-395-93596-5
+^ Smith, B.E. (1998), "Antler size and winter mortality of elk: effects of environment, birth year, and parasites", Journal of Mammalogy, 79: 1038–1044, doi:10.2307/1383113 
+^ Mahoney, Shane P.; Weir, Jackie N.; Luther, J. Glenn; Schaefer, James A.; Morrison, Shawn F. (2011), "Morphological change in Newfoundland caribou: Effects of abundance and climate", Rangifer, 31 (1), archived from the original on 3 November 2014 
+^ Mahoney, Shane P.; Weir, Jackie N.; Luther, J. Glenn; Schaefer, James A.; Morrison, Shawn F. (2011), "Morphological change in Newfoundland caribou: Effects of abundance and climate", Rangifer, 31 (1): 24, archived from the original on 3 November 2014 
+^ Markusson, Eystein; Folstad, Ivar (1 May 1997). "Reindeer antlers: visual indicators of individual quality?". Oecologia. 110 (4): 501–507. Bibcode:1997Oecol.110..501M. doi:10.1007/s004420050186. ISSN 0029-8549. PMID 28307241. Retrieved 18 November 2017. 
+^ Thomas, Don; Barry, Sam (2005). "Antler Mass of Barren-Ground Caribou Relative to Body Condition and Pregnancy Rate". Arctic. 58 (3): 241–246. doi:10.2307/40512709 (inactive 28 December 2017). JSTOR 40512709. Archived from the original on 27 November 2017. 
+^ Geist, Valerius (2007), "Defining subspecies, invalid taxonomic tools, and the fate of the woodland caribou", Rangifer, The Eleventh North American Caribou Workshop (2006) (Special Issue 17): 25–28, archived from the original on 4 October 2015, retrieved 17 December 2013 
+^ a b "Caribou", Virtual Wildlife, Lethbridge, Alberta, archived from the original on 3 November 2014 
+^ GNWT, Species at Risk in the Northwest Territories 2012 (PDF), Government of Northwest Territories, Department of Environment and Natural Resources, ISBN 978-0-7708-0196-0, archived from the original (PDF) on 24 September 2015, retrieved 31 October 2014 
+^ Gunn, Anne; Nishi, J. (1998), "Review of information for Dolphin and Union caribou herd", in Gunn, A.; Seal, U.S.; Miller, P.S., Population and Habitat Viability Assessment Workshop for the Peary caribou (Rangifer tarandus pearyi), Briefing book, Apple Valley, Minnesota: Conservation Breeding Specialist Group (SSC/UCN), pp. 1–22 
+^ "Tuktu — Caribou", Canada's Arctic, Guelph, Ontario, 2002a, archived from the original on 15 November 2014, retrieved 17 January 2014 
+^ Woodland caribou. 2000. 
+^ a b c d Hebert PDN; Wearing-Wilde J, eds. (2002), Tuktu — Caribou, Canada's Polar Life (CPL), University of Guelph, archived from the original on 20 October 2017, retrieved 30 October 2017, "Since 1986, elders in the community have worked ...the Igloolik Research Centre ...to record their knowledge for posterity on paper and audio tape..Noah Piugaattuk contributed 70 to 80 hours of audio tape." Use of antlers (IOHP 037); 
+^ a b c d Woodland caribou boreal population - biology, SARA, October 2014, retrieved 3 November 2014 
+^ Richler, Noah (May 29, 2007). This Is My Country, What's Yours?: A Literary Atlas of Canada. Random House. p. 496. ISBN 9781551994178. 
+^ "Interview 065", Igloolik Oral History Project (IOHP), Igloolik Oral History Project (IOHP), Igloolik, Nunavut, 1991 
+^ a b c Thing, Henning; Olesen, Carsten Riis; Aastrup, Peter (1986), "Antler possession by west Greenland female caribou in relation to population characteristics", Rangifer, 6, archived from the original on 4 November 2014, retrieved 3 November 2014 
+^ McKibbon, Sean (21 January 2000). "Igloolik elders win northern science award". Nunatsiaq News. Igloolik. Archived from the original on 7 November 2017. Retrieved 30 October 2017. Elders in Igloolik were recognized with a national science award last week for their efforts in preserving traditional Inuit knowledge. 
+^ Oopakak, National Gallery of Canada, nd, archived from the original on 12 October 2015, retrieved 31 October 2017 
+^ Bennett, John (1 June 2008), Uqalurait: An Oral History of Nunavut, McGill-Queen's Native and Northern Series, McGill-Queen's University Press, p. 116 
+^ Moote, I. (1955), "The thermal insulation of caribou pelts", Textile Research Journal, 25 (10): 832–837, doi:10.1177/004051755502501002 
+^ a b c Dugmore, Arthur Radclyffe (1913), The romance of the Newfoundland caribou, Philadelphia: Lippincott, p. 191, retrieved 2 November 2014 
+^ Rahiman, Mohd Hezri Fazalul (2009), Heat exchanger (PDF), Malaysia, archived (PDF) from the original on 5 December 2013, retrieved 3 November 2014 
+^ Blix, A.S.; Johnsen, Helge Kreiitzer (1983), "Aspects of nasal heat exchange in resting reindeer", Journal of Physiology, 340: 445–454 
+^ "In the winter, the fleshy pads on these toes grow longer and form a tough, hornlike rim. Caribou use these large, sharp-edged hooves to dig through the snow and uncover the lichens that sustain them in winter months. Biologists call this activity "cratering" because of the crater-like cavity the caribou’s hooves leave in the snow."All About Caribou Archived 6 July 2013 at the Wayback Machine. – Project Caribou
+^ Image of reindeer cratering in snow Archived 5 February 2012 at the Wayback Machine.. Arcticphoto.co.uk. Retrieved on 16 September 2011.
+^ a b c d Caribou at the Alaska Department of Fish & Game Archived 30 December 2013 at the Wayback Machine.. Adfg.state.ak.us. Retrieved on 16 September 2011.
+^ a b c d Naughton, Donna (2011), The Natural History of Canadian Mammals, Canadian Museum of Nature and University of Toronto Press, p. 543,562,567, ISBN 978-1-4426-4483-0 
+^ a b c d Aanes, R. (2007).Svalbard reindeer. Archived 22 December 2010 at the Wayback Machine. Norwegian Polar Institute.
+^ Banfield AWF (1966) "The caribou", pp. 25–28 in The Unbelievable Land. Smith I.N. (ed.) Ottawa: Queen's Press, cited in Bro-Jørgensen, J; Dabelsteen, T (2008). "Knee-clicks and visual traits indicate fighting ability in eland antelopes: Multiple messages and back-up signals". BMC Biology. 6: 47. doi:10.1186/1741-7007-6-47. PMC 2596769 . PMID 18986518. 
+^ Bro-Jørgensen, J; Dabelsteen, T (2008). "Knee-clicks and visual traits indicate fighting ability in eland antelopes: Multiple messages and back-up signals". BMC Biology. 6: 47. doi:10.1186/1741-7007-6-47. PMC 2596769 . PMID 18986518. 
+^ Shackleton, David (May 2013) [1999], Hoofed Mammals of British Columbia, pp. 272 pages, ISBN 978-0-7726-6638-3 
+^ Banfield, Alexander William Francis (1966), "The caribou", in Smith, I.N., The Unbelievable Land, Ottawa: Queen's Press, pp. 25–28 
+^ Reindeer use UV light to survive in the wild Archived 29 November 2011 at the Wayback Machine.. Ucl.ac.uk (26 May 2011). Retrieved on 16 September 2011.
+^ Solon, Olivia. The science behind the colour-shifting capabilities of Arctic reindeer eyeballs Archived 5 March 2016 at the Wayback Machine., Wired, 30 October 13
+^ a b McCloskey, Erin (2011), "Caribou", Wolves in Canada, Lone Pines, pp. 72–82, ISBN 978-1-55105-872-6 
+^ Lawrence, Eleanor (2008). Henderson's Dictionary of Biology. Pearson Benjamin Cummings Prentice Hall. pp. 363–. ISBN 978-0-321-50579-8. Archived from the original on 10 May 2016. 
+^ Biology Archived 29 October 2013 at the Wayback Machine.. Villrein.no. Retrieved on 19 April 2014.
+^ Lemmings at Hinterland Who's Who
+^ Anand-Wheeler, Ingrid (2002) Terrestrial Mammals of Nunavut. Nunavut Wildlife Management Board. ISBN 1-55325-035-4.
+^ ''The Sun, the Moon and Firmament in Chukchi Mythology and on the Relations of Celestial Bodies and Sacrifice'' by Ülo Siimets at 140 Archived 11 September 2008 at the Wayback Machine.. (PDF) . Retrieved on 16 September 2011.
+^ Karasov, W.H. and Martinez del Rio, C. 2007. The Chemistry and Biology of Food in Physiological Ecology: How Animals Process Energy, Nutrients, and Toxins (pp. 49-108).
+^ a b Allaye Chan-McLeod, AC; White, RG; Russell, DE (1999). "Comparative body composition strategies of breeding and nonbreeding female caribou". Canadian Journal of Zoology. 77 (12): 1901–1907. doi:10.1139/z99-169. 
+^ Wilmer, Pat; Stone, Graham; Johnston, Ian (2009). Environmental Physiology of Animals. Wiley. pp. 645-663. ISBN 9781405107242.
+^ Joly, K.; Wasser, S. K.; Booth, R. (2015). "Non-invasive assessment of the interrelationships of diet, pregnancy rate, group composition, and physiological and nutritional stress of barren-ground caribou in late winter". PLOS ONE. 10: 6. doi:10.1371/journal.pone.0127586. 
+^ a b c d Bergerud, A.T. (29 April 2014), Caribou, The Canadian Encyclopedia, archived from the original on 7 December 2014, retrieved 3 September 2014 
+^ a b "Caribou at Animal Corner". Archived from the original on 29 October 2012. 
+^ Cameron, Raymond D. (18 February 1994). "Reproductive Pauses by Female Caribou". Journal of Mammalogy. 75 (1): 10–13. doi:10.2307/1382230. ISSN 0022-2372. JSTOR 1382230. Archived from the original on 13 May 2016. 
+^ a b c Novak, R. M., ed. (1999). Walker's Mammals of the World. Vol. 2 (6th ed.). Baltimore: Johns Hopkins University Press. pp. 1128–1130. ISBN 0-8018-5789-9. 
+^ Caribou Migration Monitoring by Satellite Telemetry Archived 14 May 2012 at the Wayback Machine.. Mrnf.gouv.qc.ca. Retrieved on 16 September 2011.
+^ Bergerud, A. T. (1988). "Caribou, wolves and man". Trends in Ecology & Evolution. 3 (3): 68–72. doi:10.1016/0169-5347(88)90019-5. PMID 21227095. 
+^ Bartel, Rebecca; Oberhauser, Karen; De Roode, Jacob; Atizer, Sonya (February 2011). "Monarch butterfly migration and parasite transmission in eastern North America". Ecology. 92 (2): 342–351. doi:10.1890/10-0489.1. PMID 21618914. 
+^ a b Hoare, Ben (2009). Animal Migration. London: Natural History Museum. p. 45. ISBN 978-0-565-09243-6. 
+^ Arctic Reindeer Go Off the Circadian Clock Archived 20 December 2013 at the Wayback Machine.. Wired.com (3 April 2014). Retrieved on 19 April 2014.
+^ Sommer R. S. & Nadachowski A. (2006). "Glacial refugia of mammals in Europe: evidence from fossil records". Mammal Rev. 36 (4): 251–265. doi:10.1111/j.1365-2907.2006.00093.x. 
+^ BBC Earth News-Reindeer herds in global decline Archived 3 January 2012 at the Wayback Machine.. BBC News (11 June 2009). Retrieved on 16 September 2011.
+^ Vors, L. S & Boyce, M. S. (2009). "Global declines of caribou and reindeer". Global Change Biology. 15 (11): 2626–2633. Bibcode:2009GCBio..15.2626V. doi:10.1111/j.1365-2486.2009.01974.x. 
+^ Le Corre, Mael; Dussault, Christian; Côté, Steeve D. (2017-02-08). "Weather conditions and variation in timing of spring and fall migrations of migratory caribou". Journal of Mammalogy. 98 (1). doi:10.1093/jmammal/gyw177. ISSN 0022-2372. 
+^ Joly, Kyle; Wasser, Samuel K.; Booth, Rebecca (2015-06-10). "Non-Invasive Assessment of the Interrelationships of Diet, Pregnancy Rate, Group Composition, and Physiological and Nutritional Stress of Barren-Ground Caribou in Late Winter". PLOS ONE. 10 (6): e0127586. doi:10.1371/journal.pone.0127586. ISSN 1932-6203. 
+^ Bastille-Rousseau, Guillaume; Schaefer, James A.; Lewis, Keith P.; Mumma, Matthew A.; Ellington, E. Hance; Rayl, Nathaniel D.; Mahoney, Shane P.; Pouliot, Darren; Murray, Dennis L. (2016-03-01). "Phase-dependent climate–predator interactions explain three decades of variation in neonatal caribou survival". Journal of Animal Ecology. 85 (2): 445–456. doi:10.1111/1365-2656.12466. ISSN 1365-2656. 
+^ Gurino, Ben (2016-1-16) Starvation killed 80,000 reindeer after unusual Arctic rains cut off the animals’ food supply Archived 6 December 2016 at the Wayback Machine.. Washington Post
+^ Walker, Matt. (20 October 2009) Eagles filmed hunting reindeer Archived 1 December 2011 at the Wayback Machine.. BBC News. Retrieved on 16 September 2011.
+^ Bergerud, Arthur T. (1996), "Evolving Perspectives on Caribou Population Dynamics, Have We Got it Right Yet?", Rangifer, Special Issue (9): 59–115 
+^ McLoughlin, P.D.; Dzus, E.; Wynes, B.; Boutin, Stan (2003), "Declines in populations of woodland caribou", Journal of Wildlife Management, 67 (4): 755–761, doi:10.2307/3802682, JSTOR 3802682 
+^ "Caribou Foes: Natural Predators in the Wilderness". Learner.org. Archived from the original on 24 August 2011. Retrieved 16 September 2011. 
+^ "Archived copy" (PDF). Archived from the original (PDF) on 6 July 2013. Retrieved 2014-01-17. 
+^ "Greenland Shark (Somniosus microcephalus)". Postmodern.com. Archived from the original on 10 May 2012. Retrieved September 16, 2011. 
+^ Duffy, Michael S.; Nathan J. Keppie; Michael D. B. Burt (2002). "Meningeal Worm is a Long-lived Parasitic Nematode in White-tailed Deer". Journal of Wildlife Diseases. 38 (2): 448–452. doi:10.7589/0090-3558-38.2.448. PMID 12038147. 
+^ Smith, M.C.; et al. (1994). "Goat Medicine". Lea & Febiger. 150. 
+^ ""Brain Worm" (Meningeal Worm) Infestation in Llamas and Alpacas". University of Tennessee. Archived from the original on 21 October 2013. Retrieved 14 November 2013. 
+^ Kolpaschikov, L; Makhailov, V; Russell, D E (2015). "The role of harvest, predators, and socio-political environment in the dynamics of the Taimyr wild reindeer herd with some lessons for North America". Ecology and Society. 20 (1): 9. doi:10.5751/ES-07129-200109. 
+^ Klokov, K. (2004). "Russia. Family-Based Reindeer Herding and Hunting Economies, and the Status and Management of Wild Reindeer/Caribou Populations". Sustainable Development Program, Arctic Council, Centre for Saami Studies, University of Tromsø: 55–92. 
+^ Robbins, Jim (October 3, 2016). "America's Gray Ghosts: The Disappearing Caribou". New York Times. Retrieved March 23, 2018. 
+^ a b Campbell, Cora (2 March 2011), Porcupine Caribou Herd shows growth, Press release (99811), Juneau, Alaska: Alaska Department of Fish and Game, archived from the original on 16 January 2014 
+^ Cronin, Matthew A.; MacNeil, M. D.; Patton, J. C. (2005), "Variation in Mitochondrial DNA and Microsatellite DNA in Caribou (Rangifer tarandus) in North America" (PDF), Journal of Mammalogy, 86 (3): 495–05., doi:10.1644/1545-1542(2005)86[495:vimdam]2.0.co;2, archived from the original on 19 December 2013, retrieved 17 December 2013 
+^ "The Gwich'in", Gwich'in Council International (GCI), Inuvik, NWT, 2010, archived from the original on 21 October 2013, retrieved 16 January 2014 
+^ a b c Russell, Don E.; Gunn, A. (20 November 2013), Migratory Tundra Rangifer, Annual Arctic Report Card, NOAA Arctic Research Program, archived from the original on 21 January 2014, retrieved 14 January 2014  This report is rich in data regarding migratory caribou herds in the entire circumpolar region, providing current data (up to 2013) on dozens of herds globally. The National Oceanic and Atmospheric Administration Archived 27 January 2014 at the Wayback Machine. (NOAA) Archived 19 July 2012 at the Wayback Machine. under the United States Department of Commerce, publishes an annual Arctic report card. Don Russell Archived 3 February 2014 at the Wayback Machine., is one of the founding members and current coordinator of CARMA. His post-graduate career spans over 4 decades included research on the Porcupine herd and on oil activities around Prudhoe Bay, Alaska. He worked for the Government of Yukon and the Canadian Wildlife Service.
+^ "Gwich'in Traditional Management Practices", Arctic Circle, University of Connecticut, n.d., archived from the original on 28 September 2011, retrieved 16 September 2011 
+^ a b Bucki, Carrie (2004), "Reindeer History in Alaska", Reindeer Roundup, Fairbanks, Alaska: Reindeer Research Program, archived from the original on 7 October 2014, retrieved 5 September 2014 
+^ "The Seward Peninsula". Fairbanks, Alaska: Natural Resources and Extension Program, University of Alaska. Archived from the original on 19 November 2010. Retrieved 7 November 2010. 
+^ Querengesser, Tim. (26 October 2009) The Curse of the Deer Archived 1 February 2014 at the Wayback Machine.. Maisonneuve.org. Retrieved on 19 April 2014.
+^ "Caribou Trails: News from the Western Arctic Caribou Herd Working Group" (PDF). Western Arctic Caribou Herd Working Group. Nome, Alaska. August 2012. Archived (PDF) from the original on 30 August 2012. Retrieved 14 January 2014. 
+^ Parrett, L. S. (2009), "Unit 26A. Teshekpuk caribou herd", in Harper, P., Caribou Management report of survey and inventory activities: 1 July 2006 to 30 June 2008 (Project 3.), Juneau, Alaska: Alaska Department of Fish and game, pp. 271–298 
+^ Lenart, E. A. (2009), "Units 26B and 26C Caribou", in Harper, P., Caribou Management report of survey and inventory activities 1 July 2006 - 30 June 2008, Juneau, Alaska: Alaska Department of Fish and Game, pp. 299–325 
+^ a b c d Solomon, Christopher (10 November 2017). "America's Wildest Place Is Open for Business". New York Times. Sunday Review. Archived from the original on 10 November 2017. Retrieved 10 November 2017. 
+^ title=Erosion Slicing Arctic Alaska Habitat Archived 11 July 2007 at the Wayback Machine.
+^ Rosen, Yereth (2 July 2007). "Study says erosion slicing Arctic Alaska habitat". Reuters. Anchorage, Alaska. Archived from the original on 11 November 2017. Retrieved 10 November 2017. 
+^ "New area in Alaska opened to drilling - US news - Environment". NBC News. 12 January 2006. Archived from the original on 11 November 2017. Retrieved 10 November 2017. 
+^ King, Irving H.(1996). The Coast Guard Expands, p. 86–91. Naval Institute Press, Annapolis, Maryland. ISBN 1-55750-458-X.
+^ a b United States. Bureau of Education; United States. Bureau of Education. Alaska Division (1905). Annual report on introduction of domestic reindeer into Alaska. 14. Govt. Print. Off. pp. 18–. Archived from the original on 1 January 2014. Retrieved 16 September 2011. 
+^ Gordon, B. C. (2005). "8000 years of caribou and human seasonal migration in the Canadian Barrenlands". Rangifer. 25 (4): 155. doi:10.7557/2.25.4.1780. 
+^ Gunn, Anne; Russell, Don (March 2013). "Changing abundance in migratory tundra caribou and wild reindeer and the role for a circumpolar collaborative network" (PDF). Deer Specialist Group (DSG) newsletter. Archived (PDF) from the original on 18 January 2014. Retrieved 15 January 2014. 
+^ "The caribou herds". arctic-caribou.com. Archived from the original on 6 January 2012. Retrieved 16 January 2008. 
+^ a b Varga, Peter (14 March 2013). "Beverly caribou decline not as drastic as once feared: new study". Archived from the original on 28 December 2013. Retrieved 27 December 2013. 
+^ "Another caribou herd in steep decline: study". CBC. 1 December 2008. Archived from the original on 28 December 2013. Retrieved 27 December 2013. 
+^ "Researchers investigate decline of Beverly caribou herd: Population dropped by half over 20-year period". CBC News. 20 June 2013. Archived from the original on 28 December 2013. Retrieved 27 December 2013. 
+^ George, Jane (30 November 2011). "Beverly caribou have been on the move, wildlife biologist says: The herd, now calving on the Queen Maud Gulf coast, is "robust" and not near extinction". Nunatsiaq News. Archived from the original on 28 December 2013. Retrieved 27 December 2013. 
+^ Campbell, M., J. Boulanger, D. S. Lee, M. Dumond. and J. McPherson, 2012: Calving ground abundance estimates of the Beverly and Ahiak subpopulations of barren-ground caribou (Rangifer tarandus groenlandicus) – June 2011. Technical summary to be replaced by Technical Report Series, No. 03-2012, Government of Nunavut.
+^ Campbell, M., Boulanger, J. and Lee, D. unpublished: Demographic Effects of an Outbreak of Brucella suis On Island Bound Barren-Ground Caribou (Rangifer tarandus groenlandicus) Southampton Island Nunavut. Unpublished data presented at the 13th Arctic Ungulate Conference, 22–26 August 2011, Yellowknife, Northwest Territories, Canada
+^ Ferguson, M. A. D. (1992). "Status and trends of Rangifer tarandus and Ovibos moschatus populations in Canada". Rangifer. 12 (3): 127. doi:10.7557/2.12.3.1017. 
+^ Jenkins, D. A., Goorts, J. and Lecomte, N. (2012) Estimating the Abundance of South Baffin Caribou Summary Report 2012 Archived 16 January 2014 at the Wayback Machine.. gov.nu.ca
+^ Adamczewski, J. et al. (2013) A Comparison of Calving and Post-calving Photo-surveys for the Bluenose-East Herd of Barren-ground Caribou in the Northwest Territories, Canada in 2010 Archived 7 January 2014 at the Wayback Machine.. Department of Environment and Natural Resources, Manuscript Report No. 245
+^ N.W.T. park may be contributing to caribou herd recovery: Bluenose West herd has seen first increase in size in 20 years Archived 24 September 2015 at the Wayback Machine. CBC News. 19 December 2012
+^ "Caribou". CPAWSNWT. Yellowknife, NWT: Canadian Parks and Wilderness Society Northwest Territories Chapter. 2010. Archived from the original on 21 December 2013. Retrieved 19 December 2013. 
+^ State of Canada's Forests 1999–2000: Forests in the New Millennium (PDF). Natural Resources Canada. Ottawa, Ontario. 2000. ISBN 0-662-29069-0. Archived (PDF) from the original on 21 December 2013. Retrieved 19 December 2013. 
+^ Culling, Diane E.; Culling, Brad A. (May 2006). "Ecology and seasonal habitat selection of boreal caribou in the Snake-Sahtaneh watershed, British Columbia: 2000 to 2004" (PDF). Fort St. John, British Columbia. Archived from the original (PDF) on 21 December 2013. Retrieved 19 December 2013. 
+^ Recovery Strategy for the Woodland Caribou (Rangifer tarandus caribou), Boreal population, in Canada (PDF). Environment Canada. Species at Risk Act Recovery Strategy Series. Ottawa, Ontario. 2012. p. 138. ISBN 978-1-100-20769-8. Archived from the original on 11 June 2013. Retrieved 18 December 2013. 
+^ COSEWIC, p. 88
+^ a b c "Inuit, Inuu, Cree in Quebec and Labrador join forces to protect Ungava caribou: a united and powerful voice that will endeavour to preserve caribou". Nunatsiaq News. 26 April 2013. Archived from the original on 15 January 2014. Retrieved 14 January 2014. 
+^ a b Varga, Peter (20 December 2013). "Warming climate threatens caribou in Nunavik, Labrador, Baffin: Study links species' survival with stable climate" (PDF). Institute of Arctic Biology. Archived (PDF) from the original on 15 January 2014. Retrieved 14 January 2014. 
+^ "Woodland Caribou: Rangifer Tarandus" (PDF). Wildlife Division. Government of Newfoundland. 2009. Archived (PDF) from the original on 26 November 2013. Retrieved 14 January 2014. 
+^ Couturier, S.; Jean, D.; Otto, R.; Rivard, S. (2004). "Demography of the migratory tundra caribou (Rangifer tarandus) of the Nord-du-québec region and Labrador" (PDF). Québec: Ministère des Ressources Naturelles, de la Faune et des Parcs, Québec, and Direction de la recherche sur la faune. p. 68. Archived from the original (PDF) on 20 December 2013. 
+^ "Nunavik's Leaf River caribou herd decreasing". Nunatsiaq News. Nunavik. 11 November 2011. Archived from the original on 4 May 2013. Retrieved 17 December 2011. 
+^ Cuyler, C. (2007). "West Greenland caribou explosion: What happened? What about the future?". Rangifer. 27 (4): 219. doi:10.7557/2.27.4.347. 
+^ a b Europe's last wild reindeer herds in peril Archived 5 February 2008 at the Wayback Machine.. Newscientist. 19 December 2003. Retrieved on 16 September 2011.
+^ A lightning strike killed 323 reindeer, and this is the ghastly aftermath Archived 30 August 2016 at the Wayback Machine. Washington Post. August 29, 2016.
+^ Willemsen, G.F. (1983). "Osteological measurements and some remarks on the evolution of the Svalbard reindeer, Rangifer tarandus platyrhynchus". Zeitschrift für Säugetierkunde. 48 (3): 175–185. 
+^ "Experts concerned about collapse of wild forest reindeer population", Helsingin Sanomat, Helsingin Sanomat International Edition, 11 April 2007, archived from the original on 8 September 2010 
+^ Reindeer Hunting in Iceland. Archived 13 October 2010 at the Wayback Machine. International Adventure. Accessed 12 November 2010.
+^ Thórisson, S. D. (1984). "The history of reindeer in Iceland and reindeer study 1979 – 1981". Rangifer. 4 (2): 22. doi:10.7557/2.4.2.500. 
+^ "Report on the outputs of the Advisory Group on Reindeer Management Methodology" (PDF). Terrestrial: Invasive Species. Government of South Georgia and the South Sandwich Islands. 2011. Archived from the original (PDF) on 24 January 2012. Retrieved 16 November 2012. Following a wide consultation, the Government of South Georgia and the South Sandwich Islands took the decision in early 2011 to responsibly and humanely eradicate reindeer from South Georgia. 
+^ South Georgia and South Sandwich Islands Environment Documents – Report on Reindeer Management Methodology Archived 30 October 2012 at the Wayback Machine.. Sgisland.gs. Retrieved on 19 April 2014.
+^ a b c "Subcommittees", COSEWIC, Committee on the Status of Endangered Wildlife in Canada, 2004, archived from the original on 1 February 2014, retrieved 16 January 2014 
+^ Walker, Matt (6 November 2009), News-Reindeer herds in global decline, BBC Earth, BBC News, archived from the original on 29 October 2013, retrieved 21 January 2014 
+^ Vors, L. S; Boyce, M. S. (2009). "Global declines of caribou and reindeer". Global Change Biology. 15 (11): 2626–2633. Bibcode:2009GCBio..15.2626V. doi:10.1111/j.1365-2486.2009.01974.x. 
+^ Zielinski, Sarah (16 December 2013), "Six Ways Climate Change Is Waging War on Christmas", Smithsonian Magazine, retrieved 16 August 2014 
+^ Reindeer Archived 4 November 2011 at the Wayback Machine.. Saunalahti.fi. Retrieved on 16 September 2011.
+^ Lapland Reindeer meat protected in the EU Archived 7 December 2009 at the Wayback Machine.. North Magazine (Accessed 19 July 2010)
+^ European Commission PDO/PGI list Archived 19 August 2010 at the Wayback Machine. (Accessed 19 July 2010)
+^ Mieusset, Sébastien. "Le "Temps des sucres" au Québec". Archived from the original on 1 May 2009. 
+^ Ovenell-Carter, Julie (6 February 2009). "Quebec's Carnaval is worth freezing your a** off for". theseboots.travel. Archived from the original on 3 March 2012. 
+^ "History & Culture - Qamanirjuwhat?" (PDF). 3 (2). Hudson Bay Post. October 2007: 10–11. Archived from the original (PDF) on 2008-02-16. Retrieved 2008-02-12. 
+^ F Stuart Chapin III; Gary P. Kofinas; Carl Folke, eds. (2009). Principles of Ecosystem Stewardship: Resilience-Based Natural Resource. Springer. doi:10.1007/978-0-387-73033-2. 
+^ a b c Mishler, Craig (2014), "Linguistic Team Studies Caribou Anatomy", Arctic Research Consortium of the United States (ARCOS), archived from the original on 10 February 2016, retrieved 11 January 2015, A fundamental question for the research is to elicit not only what the Gwich'in know about caribou anatomy, but how they see caribou and what they say and believe about caribou that defines themselves, their dietary and nutritional needs, and their subsistence way of life. 
+^ Caulfield, Richard (1983), Gwich'in Traditional Management Practices, Report to the Division of subsistence of the Alaska Department of Fish and Game, archived from the original on 20 October 2017, retrieved 30 October 2017 
+^ Lund, Erik. "Wild reindeer in Norway" (PDF). Archived from the original (PDF) on 2007-06-11. 
+^ "Wild Forest Reindeer". State Forest Enterprise of Finland. Archived from the original on 10 April 2017. 
+^ Roed, K. H; Flagstad, O.; Nieminen, M.; Holand, O.; Dwyer, M. J; Rov, N.; Vila, C. (2008). "Genetic analyses reveal independent domestication origins of Eurasian reindeer". Proceedings of the Royal Society B: Biological Sciences. 275 (1645): 1849. doi:10.1098/rspb.2008.0332. PMC 2593925 . PMID 18460427.  More than one of |pages= and |page= specified (help)
+^ Kerblay, Basile. Русская культура. Этнографические очерки [Russian Culture. Ethnographic notes]. Translated by Yaroslav Bogdanov. Saint Petersburg, Russia: Европейский дом, 2008. P. 149. (Referencing: Dolgikh, B.O. and Gurvich, I.S., eds. Преобразования в хозяйстве и культуре и этнические процессы у народов севера [Transformations of Economy and Culture and Ethnic Processes of the Peoples of the North]. Moscow: Nauka, 1970. P. 139)
+^ King, Irving H. (1996). The Coast Guard Expands, pp. 86–91. Naval Institute Press, Annapolis, Maryland. ISBN 1-55750-458-X.
+^ "Reindeer Herding: a virtual guide to reindeer and those who herd them". Kautokeino: International Centre for Reindeer Husbandry (ICR), Government of Norway. n.d. Archived from the original on 29 December 2013. Retrieved 15 January 2014. 
+^ Suomen porotalous Archived 19 October 2013 at the Wayback Machine.. paliskunnat.fi (in Finnish)
+^ Obydenkova, Svetlana V.; Pearce, Joshua M. (2016). "Technical viability of mobile solar photovoltaic systems for indigenous nomadic communities in northern latitudes". Renewable Energy. 89: 253. doi:10.1016/j.renene.2015.12.036. 
+^ "Est bos cervi figura, cuius a media fronte inter aures unum cornu* exsistit excelsius magisque directum his, quae nobis nota sunt, cornibus: ab eius summo sicut palmae ramique* late diffunduntur. Eadem est feminae marisque natura, eadem forma magnitudoque cornuum." Greenough, J. B.; D'Ooge, Benjamin L.; Daniell, M. Grant (1898). "book 6, chapter 26". Commentary on Caesar, Gallic War. Boston: Ginn and Company. Archived from the original on 2012-04-26. 
+^ Trude Pettersen: War memorial to honor WWII reindeer battalions Archived 20 June 2013 at the Wayback Machine. Barents Observer, 27 February 2012
+^ In WWII, Reindeer Were Our Animal Allies Archived 29 October 2013 at the Wayback Machine. National Public Radio, 14 August 2011
+^ Burgess, Philip (15 December 2008). "Flying Reindeer and Santa Claus: Fact, Fiction and Myth". International Centre of Husbandry, Norway. Archived from the original on 29 October 2013. Retrieved 15 January 2014. 
+^ Westover, Jeff. "The Legendary Role of Reindeer in Christmas, My Merry Christmas, accessed 27 December 2007
+^ Wook Kim (14 December 2012). "Yule Laugh, Yule Cry: 10 Things You Didn't Know About Beloved Holiday Songs". Time magazine. Archived from the original on 21 December 2014. Retrieved 11 October 2013. 
+^ a b "Tuktu — Caribou", Canada's Arctic, Guelph, Ontario, 2002, archived from the original on 23 September 2015, retrieved 17 January 2014 
+^ a b Hornsby, Debra (25 August 2011), The ghosts on top of my head: Iconic sculpture creates campus focal point, Banff, Alberta, archived from the original on 2 February 2014, retrieved 31 January 2014 
+^ a b Tomson Highway Archived 7 June 2011 at the Wayback Machine. at The Canadian Encyclopedia.
+^ Logotyp (in Swedish) Umeå University, retrieved 7 March 2012
+^ Coat of arms for Kuusamo Archived 24 July 2012 at the Wayback Machine.. Kuusamo.fi. Retrieved on 19 April 2014.
+^ Coat of arms for Inari Archived 19 June 2013 at the Wayback Machine.. Inari.fi.
+Bibliography[edit]"Designatable Units for Caribou (Rangifer tarandus) in Canada" (PDF). COSEWIC. Ottawa, Ontario: Committee on the Status of Endangered Wildlife in Canada. 2011. Archived from the original (PDF) on 3 March 2016. Retrieved 18 December 2013. External links[edit]Wikimedia Commons has media related to:
+Rangifer tarandus (category)
+Wikispecies has information related to Rangifer tarandusLook up reindeer or caribou in Wiktionary, the free dictionary.The Reindeer Portal, Source of Information About Reindeer Husbandry Worldwide
+1935 Reindeer Herding in the Northwest Territories
+General information on Caribou and Reindeer
+Human Role in Reindeer/Caribou Systems
+Reindeer hunting as World Heritage – a ten-thousand-year-long tradition
+Reindeer Research Program – Alaska reindeer research and industry development
+Adaptations To Life In The Arctic – Instructional slide-show, University of Alaska
+Rangifer – world's only scientific journal dealing exclusively with husbandry, management and biology of Arctic and northern ungulates
+Rangifer tarandus on the IUCN Red List
+ Texts on Wikisource:Ingersoll, Ernest (1920). "Caribou". Encyclopedia Americana. 
+Lydekker, Richard (1911). "Reindeer". Encyclopædia Britannica (11th ed.). 
+"Reindeer". New International Encyclopedia. 1905. 
+Puckett, Catherine; Landis, Ben (December 15, 2014). "The Other 364 Days of the Year: The Real Lives of Wild Reindeer Categories: Biology and Ecosystems". U.S. Geological Survey. 
+"Reference Article: Reindeer (caribou)". ScienceDaily. Retrieved December 25, 2015. Caribou-specific links (North America)[edit]Frequently Asked Questions about Caribou from the Arctic National Wildlife Refuge
+Caribou and You – Campaign by CPAWS to protect the woodland caribou, a species at risk in Canada
+Newfoundland Five-Year Caribou Strategy Seeks to Address Declining Populationsv
+t
+e
+Extant Artiodactyla species
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Infraclass: Eutheria
+Superorder: Laurasiatheria
+Suborder RuminantiaAntilocapridae
+AntilocapraPronghorn (A. americana)
+Giraffidae
+OkapiaOkapi (O. johnstoni)GiraffaNorthern giraffe (G. camelopardalis)
+Southern giraffe (G. giraffa)
+Reticulated giraffe (G. reticulata)
+Masai giraffe (G. tippelskirchi)
+Moschidae
+MoschusAnhui musk deer (M. anhuiensis)
+Dwarf musk deer (M. berezovskii)
+Alpine musk deer (M. chrysogaster)
+Kashmir musk deer (M. cupreus)
+Black musk deer (M. fuscus)
+Himalayan musk deer (M. leucogaster)
+Siberian musk deer (M. moschiferus)
+Tragulidae
+HyemoschusWater chevrotain (H. aquaticus)MoschiolaIndian spotted chevrotain (M. indica)
+Yellow-striped chevrotain (M. kathygre)
+Sri Lankan spotted chevrotain (M. meminna)TragulusJava mouse-deer (T. javanicus)
+Lesser mouse-deer (T. kanchil)
+Greater mouse-deer (T. napu)
+Philippine mouse-deer (T. nigricans)
+Vietnam mouse-deer (T. versicolor)
+Williamson's mouse-deer (T. williamsoni)
+CervidaeLarge family listed belowBovidaeLarge family listed below
+Family CervidaeCervinae
+MuntiacusIndian muntjac (M. muntjak)
+Reeves's muntjac (M. reevesi)
+Hairy-fronted muntjac (M. crinifrons)
+Fea's muntjac (M. feae)
+Bornean yellow muntjac (M. atherodes)
+Roosevelt's muntjac (M. rooseveltorum)
+Gongshan muntjac (M. gongshanensis)
+Giant muntjac (M. vuquangensis)
+Truong Son muntjac (M. truongsonensis)
+Leaf muntjac (M. putaoensis)
+Sumatran muntjac (M. montanus)
+Pu Hoat muntjac (M. puhoatensis)ElaphodusTufted deer (E. cephalophus)DamaFallow deer (D. dama)
+Persian fallow deer (D. mesopotamica)AxisChital (A. axis)RucervusBarasingha (R. duvaucelii)PanoliaEld's deer (P. eldii)ElaphurusPère David's deer (E. davidianus)HyelaphusHog deer (H. porcinus)
+Calamian deer (H. calamianensis)
+Bawean deer (H. kuhlii)RusaSambar deer (R. unicolor)
+Rusa deer (R. timorensis)
+Philippine sambar (R. mariannus)
+Philippine spotted deer (R. alfredi)CervusRed deer (C. elaphus)
+Elk (C. canadensis)
+Thorold's deer (C. albirostris)
+Sika deer (C. nippon)
+Capreolinae
+AlcesMoose (A. alces)HydropotesWater deer (H. inermis)CapreolusRoe deer (C. capreolus)
+Siberian roe deer (C. pygargus)RangiferReindeer (R. tarandus)HippocamelusTaruca (H. antisensis)
+South Andean deer (H. bisulcus)MazamaRed brocket (M. americana)
+Small red brocket (M. bororo)
+Merida brocket (M. bricenii)
+Dwarf brocket (M. chunyi)
+Gray brocket (M. gouazoubira)
+Pygmy brocket (M. nana)
+Amazonian brown brocket (M. nemorivaga)
+Yucatan brown brocket (M. pandora)
+Little red brocket (M. rufina)
+Central American red brocket (M. temama)OzotocerosPampas deer (O. bezoarticus)BlastocerusMarsh deer (B. dichotomus)PuduNorthern pudú (P. mephistophiles)
+Southern pudú (P. pudu)OdocoileusWhite-tailed deer (O. virginianus)
+Mule deer (O. hemionus)Family BovidaeCephalophinae
+CephalophusAbbott's duiker (C. spadix)
+Aders's duiker (C. adersi)
+Bay duiker (C. dorsalis)
+Black duiker (C. niger)
+Black-fronted duiker (C. nigrifrons)
+Brooke's duiker (C. brookei)
+Harvey's duiker (C. harveyi)
+Jentink's duiker (C. jentinki)
+Ogilby's duiker (C. ogilbyi)
+Peters's duiker (C. callipygus)
+Red-flanked duiker (C. rufilatus)
+Red forest duiker (C. natalensis)
+Ruwenzori duiker (C. rubidis)
+Weyns's duiker (C. weynsi)
+White-bellied duiker (C. leucogaster)
+White-legged duiker (C. crusalbum)
+Yellow-backed duiker (C. Sylvicultor)
+Zebra duiker (C. zebra)PhilantombaBlue duiker (P. monticola)
+Maxwell's duiker (P. maxwellii)
+Walter's duiker (P. walteri)SylvicapraCommon duiker (S. grimmia)
+Hippotraginae
+HippotragusRoan antelope (H. equinus)
+Sable antelope (H. niger)OryxEast African oryx (O. beisa)
+Scimitar oryx (O. dammah)
+Gemsbok (O. gazella)
+Arabian oryx (O. leucoryx)AddaxAddax (A. nasomaculatus)
+Reduncinae
+KobusUpemba lechwe (K. anselli)
+Waterbuck (K. ellipsiprymnus)
+Kob (K. kob)
+Lechwe (K. leche)
+Nile lechwe (K. megaceros)
+Puku (K. vardonii)ReduncaSouthern reedbuck (R. arundinum)
+Mountain reedbuck (R. fulvorufula)
+Bohor reedbuck (R. redunca)
+Aepycerotinae
+AepycerosImpala (A. melampus)
+Peleinae
+PeleaGrey rhebok (P. capreolus)
+Alcelaphinae
+BeatragusHirola (B. hunteri)DamaliscusTopi (D. korrigum)
+Common tsessebe (D. lunatus)
+Bontebok (D. pygargus)
+Bangweulu tsessebe (D. superstes)AlcelaphusHartebeest (A. buselaphus)
+Red hartebeest (A. caama)
+Lichtenstein's hartebeest (A. lichtensteinii)ConnochaetesBlack wildebeest (C. gnou)
+Blue wildebeest (C. taurinus)
+Pantholopinae
+PantholopsTibetan antelope (P. hodgsonii)
+CaprinaeLarge subfamily listed belowBovinaeLarge subfamily listed belowAntilopinaeLarge subfamily listed below
+Family Bovidae (subfamily Caprinae)AmmotragusBarbary sheep (A. lervia)BudorcasTakin (B. taxicolor)CapraWild goat (C. aegagrus)
+Domestic goat (C. aegagrus hircus)
+West Caucasian tur (C. caucasia)
+East Caucasian tur (C. cylindricornis)
+Markhor (C. falconeri)
+Alpine ibex (C. ibex)
+Nubian ibex (C. nubiana)
+Spanish ibex (C. pyrenaica)
+Siberian ibex (C. sibirica)
+Walia ibex (C. walie)CapricornisJapanese serow (C. crispus)
+Taiwan serow (C. swinhoei)
+Sumatran serow (C. sumatraensis)
+Mainland serow (C. milneedwardsii)
+Red serow (C. rubidusi)
+Himalayan serow (C. thar)HemitragusNilgiri tahr (H. hylocrius)
+Arabian tahr (H. jayakari)
+Himalayan tahr (H. jemlahicus)NaemorhedusRed goral (N. baileyi)
+Long-tailed goral (N. caudatus)
+Himalayan goral (N. goral)
+Chinese goral (N. griseus)OreamnosMountain goat (O. americanus)OvibosMuskox (O. moschatus)OvisArgali (O. ammon)
+Domestic sheep (O. aries)
+Bighorn sheep (O. canadensis)
+Dall sheep (O. dalli)
+Mouflon (O. musimon)
+Snow sheep (O. nivicola)
+Urial (O. orientalis)PseudoisBharal (P. nayaur)
+Dwarf blue sheep (P. schaeferi)RupicapraPyrenean chamois (R. pyrenaica)
+Chamois (R. rupicapra)
+Family Bovidae (subfamily Bovinae)Boselaphini
+TetracerusFour-horned antelope (T. quadricornis)BoselaphusNilgai (B. tragocamelus)
+Bovini
+BubalusWater buffalo (B. bubalis)
+Wild Water Buffalo (B. arnee)
+Lowland anoa (B. depressicornis)
+Mountain anoa (B. quarlesi)
+Tamaraw (B. mindorensis)BosBanteng (B. javanicus)
+Gaur (B. gaurus)
+Gayal (B. frontalis)
+Domestic yak (B. grunniens)
+Wild yak (B. mutus)
+Cattle (B. taurus)
+Kouprey (B. sauveli)PseudonovibosKting voar (P. spiralis)PseudoryxSaola (P. nghetinhensis)SyncerusAfrican buffalo (S. caffer)BisonAmerican bison (B. bison)
+European bison (B. bonasus)
+Tragelaphini
+Tragelaphus
+(including kudus)Sitatunga (T. spekeii)
+Nyala (T. angasii)
+Kéwel (T. scriptus)
+Cape bushbuck (T. sylvaticus)
+Mountain nyala (T. buxtoni)
+Lesser kudu (T. imberbis)
+Greater kudu (T. strepsiceros)
+Bongo (T. eurycerus)TaurotragusCommon eland (T. oryx)
+Giant eland (T. derbianus)Family Bovidae (subfamily Antilopinae)Antilopini
+AmmodorcasDibatag (A. clarkei)AntidorcasSpringbok (A. marsupialis)AntilopeBlackbuck (A. cervicapra)EudorcasMongalla gazelle (E. albonotata)
+Red-fronted gazelle (E. rufifrons)
+Thomson's gazelle (E. thomsonii)
+Heuglin's gazelle (E. tilonura)GazellaMountain gazelle (G. gazella)
+Neumann's gazelle (G. erlangeri)
+Speke's gazelle (G. spekei)
+Dorcas gazelle (G. dorcas)
+Chinkara (G. bennettii)
+Cuvier's gazelle (G. cuvieri)
+Rhim gazelle (G. leptoceros)
+Goitered gazelle (G. subgutturosa)LitocraniusGerenuk (L. walleri)NangerDama gazelle (N. dama)
+Grant's gazelle (N. granti)
+Soemmerring's gazelle (N. soemmerringii)ProcapraMongolian gazelle (P. gutturosa)
+Goa (P. picticaudata)
+Przewalski's gazelle (P. przewalskii)
+Saigini
+PantholopsTibetan antelope (P. hodgsonii)SaigaSaiga antelope (S. tatarica)
+Neotragini
+DorcatragusBeira (D. megalotis)MadoquaGünther's dik-dik (M. guentheri)
+Kirk's dik-dik (M. kirkii)
+Silver dik-dik (M. piacentinii)
+Salt's dik-dik (M. saltiana)NeotragusBates's pygmy antelope (N. batesi)
+Suni (N. moschatus)
+Royal antelope (N. pygmaeus)OreotragusKlipspringer (O. oreotragus)OurebiaOribi (O. ourebi)RaphicerusSteenbok (R. campestris)
+Cape grysbok (R. melanotis)
+Sharpe's grysbok (R. sharpei)Suborder SuinaSuidae
+BabyrousaBuru babirusa (B. babyrussa)
+North Sulawesi babirusa (B. celebensis)
+Togian babirusa (B. togeanensis)HylochoerusGiant forest hog (H. meinertzhageni)PhacochoerusDesert warthog (P. aethiopicus)
+Common warthog (P. africanus)PorculaPygmy hog (P. salvania)PotamochoerusBushpig (P. larvatus)
+Red river hog (P. porcus)Sus
+(Pigs)Palawan bearded pig (S. ahoenobarbus)
+Bornean bearded pig (S. barbatus)
+Indo-chinese warty pig (S. bucculentus)
+Visayan warty pig (S. cebifrons)
+Celebes warty pig (S. celebensis)
+Flores warty pig (S. heureni)
+Oliver's warty pig (S. oliveri)
+Philippine warty pig (S. philippensis)
+Wild boar (S. scrofa)
+Timor warty pig (S. timoriensis)
+Javan warty pig (S. verrucosus)
+Tayassuidae
+TayassuWhite-lipped peccary (T. pecari)CatagonusChacoan peccary (C. wagneri)PecariCollared peccary (P. tajacu)
+Giant peccary (P. maximus)Suborder TylopodaCamelidae
+LamaLlama (L. glama)
+Guanaco (L. guanicoe)VicugnaVicuña (V. vicugna)
+Alpaca (V. pacos)CamelusDromedary (C. dromedarius)
+Bactrian camel (C. bactrianus)
+Wild Bactrian camel (C. ferus)Whippomorpha (unranked clade)Hippopotamidae
+HippopotamusHippopotamus (H. amphibius)ChoeropsisPygmy hippopotamus (C. liberiensis)
+Taxon identifiersWd: Q39624
+ADW: Rangifer_tarandus
+ARKive: rangifer-tarandus
+EoL: 328653
+EPPO: RANFTA
+Fauna Europaea: 305273
+Fossilworks: 51308
+GBIF: 5220114
+iNaturalist: 42199
+ITIS: 180701
+IUCN: 29742
+MSW: 14200328
+NCBI: 9870
+WoRMS: 993630Authority controlLCCN: sh85112433
+GND: 4177757-8
+BNF: cb119761648 (data)
+NDL: 00573261
+Categories: IUCN Red List vulnerable speciesAlaskan cuisineMammals described in 1758Arctic land animalsDeerMammals of the ArcticHolarctic faunaLivestockMammals of AsiaMammals of CanadaMammals of GreenlandMammals of EuropeMammals of RussiaMammals of the United StatesPack animalsReindeerHidden categories: CS1 German-language sources (de)Webarchive template wayback linksPages with DOIs inactive since 2017Pages with citations having redundant parametersUse British English from January 2014Use dmy dates from April 2014Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from May 2012Articles with unsourced statements from October 2017Wikipedia articles needing clarification from April 2015All accuracy disputesArticles with disputed statements from February 2017Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource referenceWikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource referenceWikipedia articles incorporating a citation from the New International EncyclopediaWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers

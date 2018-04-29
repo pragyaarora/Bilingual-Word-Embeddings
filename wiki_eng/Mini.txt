@@ -1,0 +1,883 @@
+Mini
+This article is about the 1959–2000 Mini. For the BMW Mini from 2001, see Mini (marque) and Mini Hatch. For other uses, see Mini (disambiguation). "Cooper S" redirects here. For the album by Feedtime, see Cooper-S.
+Mini
+Morris Mini-MinorOverviewManufacturer
+Britain
+British Motor Corporation (1959–1968)
+British Leyland (1968–1986)
+Rover Group (1986–2000)International
+Innocenti
+Authi (1968–1975)
+BMC Australia
+BMC South Africa
+Leyland Australia
+Arica (Chile)
+Also calledAustin 850[1]
+Austin Cooper [2]
+Austin Mini
+Austin Partner[3]
+Austin Seven
+Innocenti Mini (1965–1975)[4]
+Leyland Mini [5]
+Morris 850
+Morris Mascot[3]
+Morris Mini
+Riley Elf
+Rover Mini
+Wolseley 1000[3]
+Wolseley Hornet
+Production1959–2000
+Cowley plant, Oxford (1959–1968)
+Longbridge plant, Birmingham (1959–2000)
+Designer
+Sir Alec IssigonisBody and chassisClass
+City car (A)Body style2-door saloon
+2-door estate
+2-door van
+2-door coupe utility
+Layout
+FF layoutRelatedMini Moke
+Austin Metro
+Innocenti Mini (1974–82)
+Mini Wildgoose
+Mini Marcos
+PowertrainEngine
+848 cc, 970 cc, 997 cc, 998 cc, 1,071 cc, 1,098 cc, 1,275 cc I4 (A-series)Transmission4-speed manual
+4-speed automatic
+5-speed manual (optional extra on some later models)
+DimensionsWheelbase2,036 mm (80.2 in) (saloon)
+2,138 mm (84.2 in) (estate and commercials)
+Length3,054 mm (120.2 in) (saloon)[6]
+3,299 mm (129.9 in) (estate and commercials)
+3,300 mm (130 in) (Wolseley Hornet/Riley Elf)[7]
+Width
+1,397 mm (55.0 in)Height
+1,346 mm (53.0 in)Kerb weight
+580–686 kg (1,279–1,512 lb)
+The Mini is a small economy car produced by the English-based British Motor Corporation (BMC) and its successors from 1959 until 2000. The original is considered an icon of 1960s British popular culture.[8][9][10][11] Its space-saving transverse engine front-wheel drive layout – allowing 80 percent of the area of the car's floorpan to be used for passengers and luggage – influenced a generation of car makers.[12] In 1999 the Mini was voted the second most influential car of the 20th century, behind the Ford Model T, and ahead of the Citroën DS and Volkswagen Beetle.[13][14]
+This distinctive two-door car was designed for BMC by Sir Alec Issigonis. It was manufactured at the Longbridge and Cowley plants in England, the Victoria Park/Zetland British Motor Corporation (Australia) factory in Sydney, Australia, and later also in Spain (Authi), Belgium, Chile, Italy (Innocenti), Malta, Portugal, South Africa, Uruguay, Venezuela and Yugoslavia. The Mini Mark I had three major UK updates – the Mark II, the Clubman and the Mark III. Within these was a series of variations, including an estate car, a pick-up truck, a van and the Mini Moke,  a jeep-like buggy.
+The performance versions, the Mini Cooper and Cooper "S", were successful as both race and rally cars, winning the Monte Carlo Rally in 1964, 1965 and 1967. In 1966, the first-placed Mini (along with nine other cars) was disqualified after the finish, under a controversial decision that the car's headlights were against the rules.[15]
+On its introduction in August 1959 the Mini was marketed under the Austin and Morris names, as the Austin Seven and Morris Mini-Minor.[16] The Austin Seven was renamed Austin Mini in January 1962[16] and Mini became a marque in its own right in 1969.[17][18] In 1980 it once again became the Austin Mini and in 1988 the Rover Mini.[19]
+BMW acquired the Rover Group (formerly British Leyland) in 1994, and sold the greater part of it in 2000, but retained the rights to build cars using the MINI name.Contents1 Design and development
+2 Mark I Mini: 1959–67
+3 Mark II Mini: 1967–70
+4 Mark III: 1969–76 (ADO20)
+5 Mark IV and onwards: 1976–2000
+6 Variants6.1 Wolseley Hornet and Riley Elf (1961–69)
+6.2 Morris Mini Traveller and Austin Mini Countryman (1960–69)
+6.3 Mini Van (1960–83)
+6.4 Mini Moke (1964–89)
+6.5 Mini Pick-up (1961–83)
+6.6 Morris Mini K (March 1969 – August 1971, Australia only)
+7 Mini Cooper and Cooper S: 1961–1971; 1990–2000
+8 Mini Clubman and 1275 GT: 1969–808.1 Australia
+9 End of production
+10 Timeline
+11 Limited editions
+12 Concepts and unproduced prototypes
+13 Kit cars and customisation
+14 Motorsport14.1 International Rally victories
+14.2 British Saloon Car Championship titles
+14.3 European Touring Car Championship titles
+14.4 Australian endurance racing class wins
+15 Awards
+16 Sales16.1 United States
+17 Safety record
+18 50th anniversary
+19 See also
+20 References
+21 External links
+Design and development[edit]
+ 1959 Morris Mini-Minor interior
+ A cross-section shows how a Mini maximises passenger space
+The Mini came about because of a fuel shortage caused by the 1956 Suez Crisis.[20]  Petrol was once again rationed in the UK, sales of large cars slumped, and the market for German bubble cars boomed. The Fiat 500, launched in 1957, was also hugely successful - especially in its native Italy.
+Leonard Lord, the somewhat autocratic head of BMC, reportedly detested these cars so much that he vowed to rid the streets of them and design a 'proper miniature car'.[21] He laid down some basic design requirements: the car should be contained within a box that measured 10×4×4 feet (3.0×1.2×1.2 m); and the passenger accommodation should occupy 6 feet (1.8 m) of the 10-foot (3.0 m) length; and the engine, for reasons of cost, should be an existing unit.
+Alec Issigonis, who had been working for Alvis, had been recruited back to BMC in 1955 with a brief from Lord to design a range of technically advanced family cars in the same innovative spirit as his earlier Morris Minor to complement BMC's existing conventional models.[22][23] Issigonis had set out design projects for three cars – large and small family cars and a very small economy car. His initial work was on the largest car, designated XC9001, with the smallest car, XC9003, having the lowest priority despite it being Issigonis' greatest personal interest. With Lord's dictum to produce a bubble car competitor and his revised design requirements being laid down in October 1956, work on XC9001 stopped and XC9003 became the priority. The team that designed the Mini was remarkably small: as well as Issigonis, there was Jack Daniels (who had worked with him on the Morris Minor), Chris Kingham (who had been with him at Alvis), two engineering students and four draughtsmen. Together, by July 1957, they had designed and built the original XC9003 prototype, which was affectionately named "The Orange Box" because of its colour.[8] Leonard Lord approved the car for production on 19 July and XC9003 became project ADO15.
+The ADO15 used a conventional BMC A-Series four-cylinder, water-cooled engine,[24] but departed from tradition by mounting it transversely, with the engine-oil-lubricated, four-speed transmission in the sump, and by employing front-wheel drive. Almost all small front-wheel-drive cars developed since have used a similar configuration, except with the transmission usually separately enclosed rather than using the engine oil. The radiator was mounted at the left side of the car so that the engine-mounted fan could be retained, but with reversed pitch so that it blew air into the natural low pressure area under the front wing. This location saved vehicle length, but had the disadvantage of feeding the radiator with air that had been heated by passing over the engine. It also exposed the entire ignition system to the direct ingress of rainwater through the grille. Early prototypes used the existing 948 cc A-Series unit but this provided the ADO15 with performance far greater than its price and purpose required – a top speed of over 90mph. The engine was reduced to a new 848cc capacity with a shorter stroke. This reduced power from 37 to 33 bhp and caused a significant drop in torque and so provided more realistic performance, especially when the ADO15 body was widened by 2 inches (5.08 cm) (5 cm) over the XC9003 prototype which blunted the car's top speed while improving its stability and roadholding. Even so, the ADO15 had a top speed of 75 mph, which was better than many other economy cars of the time.
+The suspension system, designed by Issigonis's friend Dr. Alex Moulton at Moulton Developments Limited, used compact rubber cones instead of conventional springs. This space-saving design also featured rising progressive-rate springing of the cones, and provided some natural damping, in addition to the normal dampers. Built into the subframes, the rubber cone system gave a raw and bumpy ride accentuated by the woven-webbing seats, but the rigidity of the rubber cones, together with the wheels' positioning at the corners of the car, gave the Mini go kart-like handling. The mini became an icon of 1960s British popular culture, and featured in the 1969 caper film The Italian Job
+Initially an interconnected fluid system was planned, similar to the one that Alec Issigonis and Alex Moulton were working on in the mid-1950s at Alvis. They had assessed the mechanically interconnected Citroën 2CV suspension at that time (according to an interview by Moulton with Car Magazine in the late 1990s),[citation needed]  which inspired the design of the Hydrolastic suspension system for the Mini and Morris/Austin 1100, to try to keep the benefits of the 2CV system (ride comfort, body levelling, keeping the roadwheel under good control and the tyres in contact with the road), but with added roll stiffness that the 2CV lacked. The short development time of the car meant this was not ready in time for the Mini's launch. The system intended for the Mini was further developed and the hydrolastic system was first used on the Morris 1100, launched in 1962; the Mini gained the system later in 1964. As launched the Mini had simpler suspension made from conical springs of solid rubber. These were compact, saving on instrusion into the cabin space, and required no maintenance. The fully independent suspension the rubber cones provided was almost unheard of in low-cost cars of the time. The conical shape gave the springs a progressive action, becoming stiffer at greater degrees of compression. This gave the ADO15 a smooth ride over small bumps but minimised roll and pitch on more uneven surfaces. It also allowed the springs to cope with the huge variance in load between an unladen car (approx. 600 kg or 1300 lbs) and a fully laden one (just over 1000 kg or 2240 lbs, or a 70 per cent increase).
+Ten-inch (254 mm) wheels were specified, so new tyres had to be developed, the initial contract going to Dunlop. Issigonis went to Dunlop stating that he wanted even smaller, 8 in (203 mm) wheels (even though he had already settled on ten-inch). An agreement was made on the ten-inch size, after Dunlop rejected the eight-inch proposition.
+Many features were designed into the ADO15's interior to maximise its passenger and luggage space on top of the major savings allowed by the transverse engine and 10-inch wheels. Sliding windows allowed single-skin doors to be fitted, improving elbow room and reducing costs. A bracing bar was fitted across the door frame to brace the single skin and this was later adapted into a large storage bin on each door. Issigonis would later say that he had sized the bins to carry the ingredients of his favourite drink, a dry martini in the correct proportions (one bottle of vermouth and 27 of Gordon's Gin.[22] Similar bins were provided outboard of the rear seats, also serving a dual function of bracing the single-skin body panel. Small items could also be stowed under the rear seats, and early Minis would be sold with optional wicker baskets specially shaped to slot under the seats. The fixed rear parcel shelf contributed to the rigidity of the body shell, although it did preclude fitting the ADO15 with a hatchback. The boot lid was hinged at the bottom so that the car could be driven with it open to increase luggage space. On early cars the number plate was hinged at the top so that it could swing down to remain visible when the boot lid was open. This feature was later discontinued after it was discovered that exhaust gases could leak into the cockpit when the boot was open.
+The Mini was designed as a monocoque shell with welded seams visible on the outside of the car running down the A and C pillars, and between the body and the floor pan. Those that ran from the base of the A-pillar to the wheel well were described as 'everted' (lit., 'turned outward') to provide more room for the front seat occupants[citation needed]. To further simplify construction, the hinges for the doors and boot lid were mounted externally. This also saved a small amount of cabin space. It also made the ADO15 very easy to assemble from Complete Knock Down kits in overseas markets with only basic industry. Cars could be assembled with minimal use of jigs as the external seams made the panels largely 'self-aligning'. They also allowed panels to be stacked flat on top of one other for easy shipping. As originally built all the structural body panels were welded to the top of the single floor pressing but this caused major problems with water ingress to the cabin and was quickly changed in the first months of production.
+Early prototypes were fully unitary in construction but the cars broke apart under the high loads from the large lever ratios used with the rubber cone suspension. The design was changed to use steel subframes to carry the drivetrain and suspension for the front and rear. This also simplified production as both subframes could be built up independently and then mated to the already-completed bodyshell. It also opened up the possibility of easily producing variants on the ADO15 as a body of any shape or design could be used provided it could accommodate the subframes.
+In 1959, BMC and Alec Issigonis won the Dewar Trophy, for the design and production of the Mini.
+The Mini shape had become so well known that by the 1990s, Rover Group – the heirs to BMC – were able to register its design as a trademark in its own right.[25]
+Mark I Mini: 1959–67[edit]
+See also: Mini (Mark I)
+Mini “Mark I”
+1959 Morris Mini MinorOverviewAlso called
+Austin 850 Austin Mini  Austin Partner [26] Austin Seven  Innocenti Mini  [4]  Morris 850  Morris Mini  Riley Elf  Wolseley HornetProduction
+1959–67Assembly
+United Kingdom  AustraliaDesigner
+Sir Alec IssigonisBody and chassisBody style
+2-door saloon  2-door estate  2-door van  2-door pickupPowertrainEngine
+850 cc (0.9 l) I4  997 cc (1.0 l) I4  998 cc (1.0 l) I4  1,071 cc (1.1 l) I4   1,275 cc (1.3 l) I4
+The production version of the Mini was demonstrated to the press in April 1959, and by August several thousand cars had been produced ready for the first sales.[27] The Mini was officially announced to the public on 26 August 1959. Some 2,000 cars had already been sent abroad and were displayed that day in almost 100 countries.[28]
+The first example, a Morris Mini-Minor with the registration 621 AOK, is on display at the Heritage Motor Centre in Warwickshire.[29] Another early example from 1959 is on display at the National Motor Museum in Hampshire.[30]
+The Mini was marketed under BMC's two main brand names, Austin and Morris, until 1969, when it became a marque in its own right.[17] The Morris version was known to all as "the Mini" or the "Morris Mini-Minor". This seems to have been a play on words: the Morris Minor was a larger, well known and successful car that continued in production, and minor is Latin for "lesser", so an abbreviation of the Latin word for "least" – minimus – was used for the new even smaller car. One name proposed for the almost identical Austin version was Austin Newmarket, but it was sold as the Austin Seven (sometimes written as SE7EN in early publicity material – with the '7' using the letter V rotated anti-clockwise so it approximated the number 7), which recalled the popular small Austin 7 of the 1920s and 1930s.
+Until 1962, the cars appeared in North America and France as the Austin 850 and Morris 850, and in Denmark as the Austin Partner (until 1964) and Morris Mascot (until 1981). It was introduced in Australia as Morris 850 only, and then also the Cooper S version as well.  The Morris name Mini (Mini-Minor) was first used for Austin's version by BMC in 1961 when the Austin Seven was rebranded as the Austin Mini,[31] somewhat to the surprise of the Sharp's Commercials car company (later known as Bond Cars), who had been using the name Minicar for their three-wheeled vehicles since 1949. However, legal action was somehow averted,[32] and BMC used the name "Mini" thereafter.[33]
+In 1964, the suspension of the cars was replaced by another Moulton design, the hydrolastic system. The new suspension gave a softer ride, but it also increased weight and production cost. In 1971, the original rubber suspension reappeared and was retained for the remaining life of the Mini.
+From October 1965 the option of the unique Automotive Products (AP) designed four-speed automatic transmission became available. Cars fitted with this became the Mini-Matic.
+Slow at the outset, Mark I sales strengthened across most of the model lines in the 1960s, and production totalled 1,190,000.[34] Ford purchased a Mini and dismantled it to see if they could offer an alternative. Ford determined that the BMC must have been losing around £30 per car, and so decided to produce a larger car – the Cortina, launched in 1962 – as its competitor in the budget market. BMC insisted that the way company overheads were shared out, the Mini always made money.[35] Larger profits came from the popular De Luxe models and from optional extras such as seat belts, door mirrors, a heater and a radio, which would be considered necessities on modern cars, as well as the various Cooper and Cooper S models.
+The Mini entered into popular culture in the 1960s with well-publicised purchases by film and music stars.[36]
+The Cooper S version was also used by some British police departments as a plainclothes car.[37]The first Morris Mini-Minor sold in Texas being delivered to a family in Arlington, Texas, in 1959
+1963 Austin MiniMark II Mini: 1967–70[edit]
+Mark II
+OverviewAlso called
+Morris MiniAustin MiniProduction
+1967–70Assembly
+Longbridge, Birmingham, EnglandCowley, Oxfordshire, EnglandSeneffe, BelgiumArica, ChilePetone, New ZealandSetúbal, PortugalCape Town, South AfricaPamplona, SpainNovo Mesto, YugoslaviaShah Alam, MalaysiaBody and chassisBody style
+2-door saloon2-door estate2-door van2-door truckPowertrainEngine
+848 cc (0.8 l) I4998 cc (1.0 l) I41,275 cc (1.3 l) I4
+The Mark II Mini was launched at the 1967 British Motor Show,[38] and featured a redesigned grille, a larger rear window and numerous cosmetic changes.[34][39][40]  A total of 429,000 Mk II Minis were produced.
+A variety of Mini types were made in Pamplona, Spain, by the Authi company from 1968 onwards, mostly under the Morris name.  In 1969, a fibreglass version of the Mini Mark II was developed for British Leyland's Chilean subsidiary (British Leyland Automotores de Chile, S.A., originally the independent assembler EMSSA). The bodyshell mould was created by the Peel Engineering Company. Production began in 1970 and continued for a few years; these fibreglass Minis can be recognised by the missing body seams and by larger panel gaps. The Chilean market was never very large and the hyperinflation and political and social collapse led to the 1973 coup The Arica plant was closed in 1974.[41] The reason for the fibreglass body was to enable Leyland to meet very strict requirements for local sourcing, increasing to 70.22% in 1971.[41] Chilean fibreglass-bodied MiniMark III: 1969–76 (ADO20)[edit]
+Mark III
+1970 MiniOverviewManufacturer
+British Leyland Motor CorporationProduction
+October 1969–76Assembly
+Longbridge plant, EnglandSeneffe, BelgiumPetone, New ZealandSetúbal, PortugalCape Town, South AfricaPamplona, SpainBody and chassisBody style
+2-door Saloon  2-door Pick-up  2-door VanLayout
+Front wheel drivePlatform
+ADO20PowertrainEngine
+848 cc (0.8 l) I4998 cc (1.0 l) I41,275 cc (1.3 l) I4Transmission
+4-speed manualDimensionsWheelbase
+2.04 mLength
+3.06 mWidth
+1.42 mHeight
+1.36 mKerb weight
+848cc = 610kg  1275cc = 645kgChronologyPredecessor
+Mark IISuccessor
+Mark IV
+The Mark III Mini had a modified bodyshell with enough alterations to see the factory code change from ADO15 to ADO20 (which it shared with the Clubman). The most obvious changes were larger doors with concealed hinges. Customer demand led to the sliding windows being replaced with winding windows—although some Australian-manufactured Mark I Minis had adopted this feature in 1965 (with opening quarterlight windows). The suspension reverted from Hydrolastic to rubber cones[42] as a cost-saving measure.[43]  (The 1275 GT and Clubman would retain the hydrolastic system until June 1971 when they, too, switched to the rubber cone suspension of the original Minis.[42])
+Production at the Cowley plant was ended, and the simple name Mini completely replaced the separate Austin and Morris brands.[44] In April 1974 a heater became standard equipment on the entry level Mini 850 as well, having by then already been included in the standard specification of the other models for some time.[42]
+In the late 1970s, Innocenti introduced the Innocenti 90 and 120, Bertone-designed hatchbacks based on the Mini platform. Bertone also created a Mini Cooper equivalent, christened the Innocenti De Tomaso, that sported a 1275 cc engine similar to the MG Metro engine, but with an 11-stud head, a special inlet manifold, and used the "A" clutch instead of the "Verto" type. It also used homokinetic shafts instead of rubber couplings.
+The Mini was still popular in Britain, but appeared increasingly outdated in the face of newer and more practical rivals. Since the late 1960s, plans had been in place for a newer and more practical supermini to replace it, though the Mini was still the only car of this size built by British Leyland for the home market.
+Mark IV and onwards: 1976–2000[edit]
+Mk IV
+Rover Mini from 1988[19]OverviewProduction
+1976–83Assembly
+Longbridge plant, Birmingham, EnglandZetland, New South Wales, AustraliaSeneffe, BelgiumPetone, New ZealandSetúbal, PortugalCape Town, South AfricaPamplona, SpainBody and chassisBody style
+2-door saloon2-door van2-door truckPowertrainEngine
+998 cc (1.0 l) I41,098 cc (1.1 l) I41,275 cc (1.3 l) I4
+The Mark IV was introduced in 1976, even though by this stage British Leyland was working on a new small car which was widely expected to replace the Mini before much longer. It had a front rubber mounted subframe with single tower bolts and the rear frame had some larger bushings introduced. Twin stalk indicators were introduced with larger foot pedals. From 1977 onwards, the rear indicator lamps had the reverse lights incorporated in them. In 1980, the engine was upgraded to the improved A-Plus unit from the new Metro. This was then followed by a number of later incremental developments:
+In 1978, the Mini was one of the key cars made available to disabled motorists under the new Motability scheme.[45]
+Reports of the Mini's imminent demise surfaced again in 1980 with the launch of the Austin Mini-Metro (badging with the word mini in all lowercase). Faced with competition from a new wave of modern superminis like the Ford Fiesta, Renault 5 and Volkswagen Polo, the Mini was beginning to fall out of favour in many export markets, with the South African, Australian, and New Zealand markets all stopping production around this time. Buyers of small cars now wanted modern and practical designs, usually with a hatchback.
+Although the Mini continued to be produced after the Metro's launch, production volumes were reduced as British Leyland and successor combine Rover Group concentrated on the Metro as its key supermini. 1981 was the original Mini's last year in the top ten of Britain's top selling cars, as it came ninth and the Metro was fifth. The arrival of the Metro also saw production of the larger Allegro pruned back before it was finally discontinued in 1982. In 1982 BL made 56,297 Minis and over 175,000 Metros. During the early 1980s the Mini received many mechanical upgrades which were shared with the Metro, such as the A-Plus engine, 12-inch wheels with front disc brakes, improved soundproofing and quieter, stronger transmissions. This not only modernised the Mini but, because many of its major sub-assemblies were now shared with the Metro, made it very cost-effective to produce despite falling sales volumes. The Mini's 25th anniversary fell in 1984 and British Leyland produced a 'Mini 25' limited edition model, both to mark the occasion and to publicise the recent upgrades to the model. This marked the start of a turnaround in the Mini's fortunes. Basic models such as the City and the City E (using the economy-tuned drivetrain from the Metro HLE) filled in the bottom of the Austin-Rover range and still found buyers who wanted a compact city car that was easy to park and cheap to run. Low purchase and running costs also made the Mini continually popular as a first car for younger drivers, and Austin-Rover introduced a steady stream of limited editions with bright paint colours, body graphics and trim to appeal to this market. The Mini was also becoming prized as a characterful and nostalgic car in its own right, and the London Collection of limited edition models were more upmarket and luxurious and named after affluent or fashionable parts of London. These marketing strategies proved very successful - Mini production actually saw modest increases through the mid-1980s, from 34,974 in 1985 to 35,280 in 1985 and 39,800 in 1986. By 1990, with the reintroduction of the very popular Cooper model, Mini production would pass 40,000. In 1988 Austin Rover decided to keep the Mini in production for as long as it was viable to do so, putting an end to reports that it would be discontinued by 1991 – by which time the original Metro would also be replaced. 1992 Mini Cord built with a glass-fibre body in Venezuela
+The fibreglass Mini built in Chile from 1970 until 1974 was not the only fibreglass version: in the summer of 1991, a fibreglass bodied Mini again entered production, this time in Venezuela. The producer, Facorca, intended to sell the car in the Caribbean and Central America, and also had plans for Brazilian assembly.[46]Mk V
+Mini City EOverviewProduction
+1984–89Assembly
+Longbridge plant, Birmingham, EnglandBody and chassisBody style
+2-door saloonPowertrainEngine
+998 cc (1.0 l) I41,275 cc (1.3 l) I4
+Mk VI
+OverviewProduction
+1990–95Assembly
+Longbridge plant, Birmingham, EnglandVenezuelaBody and chassisBody style
+2-door saloonPowertrainEngine
+1,275 cc (1.3 l) I4
+Mk VII
+OverviewProduction
+1996–2000Assembly
+Longbridge, Birmingham, EnglandBody and chassisBody style
+2-door saloonPowertrainEngine
+1,275 cc (1.3 l) I4
+Mark V (from 1984): all cars had 8.4-inch (210 mm) brake discs and plastic wheel arches (Mini Special arches) but retained the same Mark IV body shell shape. The Mini Cooper was relaunched in 1989, 20 years after the demise of the original model. Once again, it featured the long-running 1275cc engine which had featured on the original Mini Cooper, as well as on numerous other BMC/BL/ARG models.
+Mark VI (from 1990): the engine mounting points were moved forward to take 1275 cc power units, and includes the later HIF (Horizontal Integral Float) version of the SU (Skinners Union) carb, plus the single point fuel injected car which came out in 1991. The 998 cc power units were discontinued. An internal bonnet release was fitted from 1992.
+Mark VII (from 1996): was the final version, twin point injection with front-mounted radiator. Full-width dashboard replaces the original shelf, internal bonnet release. Introduction of airbag on driver's side. The basic Mini was the 1.3i, the other model in the range being the Mini Cooper. The end of production in October 2000 not only signalled the end of original Mini production after 41 years, but also brought about the demise of the 1275cc engine which had powered the Mini and numerous other BL/BMC/ARG cars for more than 30 years.Variants[edit]
+The popularity of the original Mini spawned many models that targeted different markets.Wolseley Hornet and Riley Elf (1961–69)[edit]
+ Wolseley Hornet
+ Riley Elf
+Released in 1961 as more luxurious versions of the Mini, both the Wolseley Hornet and the Riley Elf had longer, slightly finned rear wings and larger boots that gave the cars a more traditional three-box design.
+Wheelbase of the Elf and Hornet remained at 2.036 m (6.68 ft), whereas the overall length was increased to 3.27 m (10.7 ft). This resulted in a dry weight of 638 kg (1,407 lb)/642.3 kg (1,416 lb) (rubber/hydrolastic suspension) for the Elf and 618 kg (1,362 lb)/636.4 kg (1,403 lb) for the Hornet.[47]
+Front-end treatment, which incorporated each marque's traditional upright grille design (the Hornet's grille with a lit "Wolseley" badge), also contributed to a less utilitarian appearance. The cars had larger-diameter chrome hubcaps than the Austin and Morris Minis, and additional chrome accents, bumper overriders and wood-veneer dashboards. The Riley was the more expensive of the two cars.[48]  The name "Wolseley Hornet" was first used on 1930s saloon, coupé, sports and racing cars, while the name "Elf" recalled the Riley Sprite and Imp sports cars, also of the 1930s (Riley's first choice of name "Imp" could not be used as Hillman had registered it). The full-width dashboard was a differentiator between the Elf and Hornet. This dashboard was the idea of Christopher Milner the Sales Manager for Riley.
+Both the Riley Elf's and Wolseley Hornet's bodies were built at Fisher & Ludlow under their "Fisholow" brandname. Plates in the engine compartment on the right side fitch plate bear evidence of this speciality.
+Very early Mark I versions of both cars (e.g. press photo of 445MWL) had no overriders on the bumpers and a single piece front wing (A-panel and wing in one piece, no outside seam below scuttle panel) that was soon given up again, allegedly due to cost. The Elf's and Hornet's special bumper overriders first appeared in 1962.
+Early production Mark I's also had a combination of leather and cloth seats (Elf R-A2S1-101 to FR2333, Hornet W-A2S1-101 to FW2105) whereas all later models had full leather seats.[49]  Mark I models were equipped with single leading shoe brakes on the front.
+Both the Elf and the Hornet went through three engine versions. Initially, they used the 848 cc (51.7 cu in) 34 bhp (25 kW) engine (engine type 8WR)[47] with a single HS2 carburettor, changing to a single HS2 carburettor 38 bhp (28 kW) version of the Cooper's 998 cc (60.9 cu in) power unit (engine type 9WR)[47] in the Mark II in 1963. This increased the car's top speed from 71 to 77 mph (114 to 124 km/h). Therefore, Mark II cars also came with increased braking power in the form of front drum brakes with twin leading shoes to cope with the increased power output. Both Mark I and Mark II featured four-speed gearboxes (three synchromesh gears) with rod gear change, a.k.a. "magic wand" type. Automatic gearboxes became available on the Mark II in 1965 as an option. The Mark III facelift of 1966 brought wind-up windows and fresh-air fascia vents. Concealed door hinges were introduced two years before these were seen on the mainstream Mini. The gear selecting mechanism was updated to the rod type, as seen on all later Mini type cars. Automatic gearboxes were available to the Mark III in 1967 again. Full-four synchromesh gearing was eventually introduced during 1968. 30,912 Riley Elfs and 28,455 Wolseley Hornets were built.[34] Production of both models ceased in late 1969.
+Vehicle Identification – Serial Number Prefix Letter Code:First prefix letter – name: R-Riley, W-Wolseley
+Second prefix letter – engine type: A
+Third prefix letter – body type: 2S – 2-door Saloon
+Fourth prefix – series of model: 1 – 1st series, 2 – 2nd series, 3 – 3rd series
+Fifth prefix (used to denote cars different from standard right hand drive): L – left hand drive
+Code example: R-A2S1-154321 (Riley, A type engine, 2 door saloon, 1st series, serial number "154321")[49]
+Morris Mini Traveller and Austin Mini Countryman (1960–69)[edit]
+ Morris Mini Traveller Mk1 with internal fuel tank
+ Morris Mini Traveller Mk2
+These models were two-door estate cars with double "barn"-style rear doors. Both were built on a slightly longer chassis of 84 inches (2.1 m) compared to 80.25 inches (2.038 m) for the saloon.
+The early Morris Mini Traveller and Austin Mini Countryman cars had an internal fuel tank located on the left hand side of the rear load area.  This is identifiable by the fuel filler cap being on the left hand side of the car just below the rear window.
+In October 1961 the fuel tank was relocated to the underneath of the car and the filler cap was moved to low down on the right hand side of the car – the same configuration that was already in use on the Mini Van.
+From the start of production both models had a decorative, non-structural, ash wood trim on the rear body, in the style of a pre-war shooting-brake. This gave the car a similar appearance to the larger Morris Minor Traveller and gave rise to these cars simply being called a woodie.  It is a popular misconception that the difference between the Traveller and the Countryman is the wood trim.
+An all steel version of both the Traveller and the Countryman without the wood trim was launched for export markets in April 1961 and for the home market in October 1962, but the woodie version remained more popular.
+In October 1967 the Mk2 version was launched with the same changes as the saloon.
+Approximately 108,000 Austin Mini Countrymans and 99,000 Morris Mini Travellers were built.[34]  Variations of this model were also built in South Africa, by Innocenti in Italy and by Industria de Montagem de Automoveis in Portugal.
+The Mini Traveller and Countryman Register was created in 2009 to help locate and preserve the remaining Mini Traveller and Countryman cars.
+Mini Van (1960–83) [edit]
+ 1963 Austin Mini Van
+The Mini Van was a commercial panel van (in US English, a sedan delivery) rated at ¼-ton load capacity. Built on the longer Traveller chassis but without side windows, it proved popular in 1960s Britain as a cheaper alternative to the car: it was classed as a commercial vehicle and as such carried no sales tax. A set of simple stamped steel slots served in place of a more costly chrome grille. The Mini Van was renamed as the Mini 95 in 1978, the number representing the gross vehicle weight of 0.95 tons. 521,494 were built.
+Mini Moke (1964–89)[edit]
+ 1967 Austin Mini Moke
+Main article: Mini Moke
+A utility vehicle intended for the British Army was built with a twin-engined 4-wheel-drive. Although the 4WD Moke could climb a 1:2 gradient, it lacked enough ground clearance for military use.[50] The single-engined front-wheel-drive Moke enjoyed some popularity in civilian production. About 50,000 were made in total,[34] from 1964 to 1968 in the UK, 1966 to 1982 in Australia and 1983 to 1989 in Portugal.[51] The Moke was marketed in holiday locations such as Barbados and Macau, where they were also used as police cars. "Moke" is archaic British slang for a donkey.
+Mini Pick-up (1961–83)[edit]
+ Mini Pick-up.
+A pick-up truck (technically a coupé utility by definition[citation needed]), 11 ft (3.4 m) in total length was built on the longer Mini Van platform, with an open-top rear cargo area and a tailgate. The factory specified the weight of the Pick-up as less than 1,500 lb (680 kg) with a full 6 imperial gallons (27 l; 7.2 US gal) tank of fuel.
+As with the Van, the Pick-up had stamped metal slots for airflow into the engine compartment. The Pickup was basic, although the factory brochure described a "fully equipped Mini Pick-up is also available which includes a recirculatory heater." Passenger-side sun visor, seat belts, laminated windscreen, tilt tubes and cover were also available at extra cost.[52]
+Like the van, the Pick-up was renamed as the Mini 95 in 1978.
+A total of 58,179 Mini Pick-up models were built.[34]
+Morris Mini K (March 1969 – August 1971, Australia only)[edit]
+ Morris Mini K
+Built in the Australian British Motor Corporation factory at Zetland, New South Wales, using 80% local content, the Morris Mini K was advertised as the "great leap forward".[53] The Mini K ('K' standing for Kangaroo) had a 1098 cc engine and was the last round-nose model to be produced in Australia, originally priced at A$1780. The Mini K was offered in 2-door saloon [54] and 2-door van body styles.[55]  It was distinctive in having wind-up windows and a swivelling quarterlight in Mk.I-style externally hinged doors. A small round sticker with a kangaroo logo was placed on the triangular panel between the door and the front body seam.  The "Kangaroo" name was supposedly coined because it is claimed that a kangaroo can go all day without drinking which the advertisers used to emphasise the frugal fuel consumption and, possibly, larger fuel tank.
+ Mini Cooper and Cooper S: 1961–1971; 1990–2000[edit]
+ 1971 Mini Cooper S Mk III
+Issigonis' friend John Cooper, owner of the Cooper Car Company and designer and builder of Formula One and rally cars, saw the potential of the Mini for competition. Issigonis was initially reluctant to see the Mini in the role of a performance car, but after John Cooper appealed to BMC management, the two men collaborated to create the Mini Cooper. The Austin Mini Cooper and Morris Mini Cooper debuted in September 1961.[22][56][57]
+The 848 cc (51.7 cu in) engine from the Morris Mini-Minor was given a longer stroke to increase capacity to 997 cc (60.8 cu in) increasing power from 34 to 55 bhp (25 to 41 kW).[24] The car featured a race-tuned engine, twin SU carburettors, a closer-ratio gearbox and front disc brakes, uncommon at the time in a small car. One thousand units of this version were commissioned by management, intended for and designed to meet the homologation rules of Group 2 rally racing. The 997 cc engine was replaced by a shorter stroke 998 cc unit in 1964. In 1962, Rhodesian John Love became the first non-British racing driver to win the British Saloon Car Championship driving a Mini Cooper. Timo Mäkinen and Mini Cooper S on their way to the first of a hat-trick of wins in the 1000 Lakes Rally in Finland
+A more powerful Mini Cooper, dubbed the "S", was developed in tandem and released in 1963. Featuring a 1071 cc engine with a 70.61 mm bore and nitrided steel crankshaft and strengthened bottom end to allow further tuning; and larger servo-assisted disc brakes, 4,030 Cooper S cars were produced and sold until the model was updated in August 1964. Cooper also produced two S models specifically for circuit racing in the under 1,000 cc and under 1,300 cc classes respectively, rated at 970 cc (59 cu in) and a 1,275 cc (77.8 cu in), both had a 70.61 mm (2.780 in) bore and both were also offered to the public. The smaller-engine model was not well received, and only 963 had been built when the model was discontinued in 1965. The 1,275 cc Cooper S models continued in production until 1971.
+Sales of the Mini Cooper were as follows: 64,000 Mark I Coopers with 997 cc or 998 cc engines; 19,000 Mark I Cooper S with 970 cc, 1,071 cc or 1,275 cc engines; 16,000 Mark II Coopers with 998 cc engines; 6,300 Mark II Cooper S with 1,275 cc engines. There were no Mark III Coopers and just 1,570 Mark III Cooper S.
+In 1971, the Mini Cooper design was licensed in Italy by Innocenti and in 1973 to Spain by Authi (Automoviles de Turismo Hispano-Ingleses), which began to produce the Innocenti Mini Cooper 1300 and the Authi Mini Cooper 1300, respectively. The Cooper name was discontinued from the UK Mini range at this time.
+A new Mini Cooper named the RSP (Rover Special Products) was briefly relaunched in 1990–91, with slightly lower performance than the 1960s Cooper. It proved popular and a new Cooper-marked Mini went into full production in late 1991. To meet emission standards, Coopers from 1992 on were fitted with a fuel-injected version of the 1,275 cc engine, and in 1997 a multi-point fuel injected engine was introduced, along with a front-mounted radiator and various safety improvements.[58] "I love my Mini Cooper," remarked Madonna in 2003. "I was too scared to drive a big car in London."[59]
+Mini Clubman and 1275 GT: 1969–80[edit]
+Mini Clubman  Mini 1275 GT
+1980 Mini ClubmanOverviewProduction
+1969–80Assembly
+Longbridge, Birmingham, EnglandSetúbal, Portugal, Petone, New ZealandBody and chassisBody style
+2-door saloon  2-door estatePowertrainEngine
+1,098 cc (1.1 l) I4998 cc (1.0 l) I4  1,275 cc (1.3 l) I4
+In 1969, under the ownership of British Leyland, the Mini was given a facelift by stylist Roy Haynes, who had previously worked for Ford. The restyled version was called the Mini Clubman, and has a squarer frontal look, using the same indicator/sidelight assembly as the Austin Maxi. The Mini Clubman was intended to replace the upmarket Riley and Wolseley versions. A new model, dubbed the 1275 GT, was slated as the replacement for the 998 cc Mini Cooper (the 1,275 cc Mini Cooper S continued alongside the 1275 GT for two years until 1971). The Clubman Estate replaced the Countryman and Traveller. The original "round-front" design remained in production alongside the Clubman and 1275 GT. Mini Clubman Estate
+Production of the Clubman and 1275 GT got off to a slow start because the cars incorporated "lots of production changes" including the relocation of tooling from the manufacturer's Cowley plant to the Longbridge plant: very few cars were handed over to customers before the early months of 1970.[60]
+Early domestic market Clubmans were still delivered on cross-ply tyres despite the fact that by 1970 radials had become the norm for the car's mainstream competitors.[60]  By 1973 new Minis were, by default, being shipped with radial tyres, though cross-plies could be specified by special order, giving British buyers a price saving of £8.[61] Mini 1275 GT
+The 1275 GT is often incorrectly described as the "Mini Clubman 1275 GT". The official name was always just the "Mini 1275 GT", and it was a separate, distinct model from the Clubman (although it shared the same frontal treatment as the Mini Clubman, and was launched at the same time).
+In 1971, the 1,275 cc Mini Cooper S was discontinued in the UK, leaving the Mini 1275 GT as the only sporting Mini on sale for the rest of the decade. Innocenti in Italy, however, continued making their own version of the Mini Cooper for some time. While the UK built 1275 GT was not nearly as quick as a 1275 Mini Cooper S, it was cheaper to buy, run, and insure. It was the first Mini to be equipped with a tachometer. It also featured a standard-fit close-ratio gearbox, and initially had 10 inch (25.4 cm) Rostyle wheels covering the 7.5inch (19.05 cm) Cooper S type disc brakes, and a boot board, both were dropped in 1974. Performance of the 1275GT was lively for the time, achieving 0–60 mph (97 km/h) in 12.9 seconds, and the excellent midrange torque offered a 30–50 mph (48–80 km/h) time in top gear of only nine seconds. The bluff front, however, meant that the model struggled to reach 90 mph (140 km/h).
+Throughout the 1970s, British Leyland continued to produce the classic 1959 "round-front" design, alongside the newer Clubman and 1275 GT models. The long-nose Clubman and 1275 GT offered better crash safety, were better equipped, and had better under-bonnet access, but they were more expensive and aerodynamically inferior to the original 1959 design. The Mini Clubman and 1275 GT were replaced in 1980 by the new hatchback Austin Metro, while production of the original "round-front" Mini design continued for another 20 years. At the end of Clubman and 1275 GT production, 275,583 Clubman saloons, 197,606 Clubman Estates and 110,673 1275 GTs had been made.[34]
+Australia[edit]
+ The Leyland Mini LS was produced by Leyland Australia from 1977 to 1978
+For the Australian market, all Minis including the Van gained the Clubman front in 1971 although the car was still basically a Mk I behind the A-Pillar.[62] The Australian van thus became the only Clubman Van produced anywhere in the world.[62] From mid-1971 to the end of 1972, a Clubman GT version of the saloon was produced.[63]  This was essentially a Cooper S in Clubman body, equipped with the same 7.5-inch (190 mm) disc brakes, twin fuel tanks, and twin-carburettor Cooper S 1,275 cc engine. Australian Clubman saloons were marketed under the Morris Mini Clubman name when introduced in August 1971,[64] and as the Leyland Mini, without the Clubman name, from February 1973.[5]
+To end Mini production in Australia, a limited edition runout model was produced − the 1275LS. Fitted with a pollution control 1,275 cc engine sourced from Europe, the LS had a single 1.5-inch (38 mm) carburettor and 8.4-inch (210 mm) disc brakes. Production of this model commenced in July 1978 and concluded in October 1978 with an approximate total of 810 vehicles produced.
+End of production[edit]
+Throughout the 1980s and 1990s the British market received numerous "special editions" of the Mini, which shifted the car from a mass-market item into a fashionable icon. It was this image that perhaps helped the Mini become such an asset for BMW, which later bought the remnants of BMC as the Rover Group. It was even more popular in Japan, which took the lion's share of the circa 40,000 Minis produced annually in the early 1990s.[46] It was seen there as a retro-cool icon, and inspired many imitators. The ERA Mini Turbo was particularly popular with Japanese buyers.
+In 1994, under Bernd Pischetsrieder, a first cousin once removed of Issigonis, BMW took control of the Rover Group, which included the Mini, fitting an airbag to comply with European legislation. The last Mini produced, a Rover Cooper Mini Sport, rolled off the Longbridge line on 4 October 2000
+By March 2000, Rover was still suffering massive losses, and BMW decided to dispose of most of the companies. The sell-off was completed in May that year. MG and Rover went to Phoenix, a new British consortium; and Land Rover was sold to Ford Motor Company. BMW retained the Mini name and the planned new model, granting Rover temporary rights to the brand and allowing it to manufacture and sell the run-out model of the old Mini. By April 2000, the range consisted of four versions: the Mini Classic Seven, the Mini Classic Cooper, the Mini Classic Cooper Sport and—for overseas European markets—the Mini Knightsbridge. The last Mini (a red Cooper Sport) was built on 4 October 2000 and presented to the British Motor Industry Heritage Trust in December of that year.[8]  A total of 5,387,862 cars had been manufactured, nearly 1.6million of which were sold in Britain, although the majority of these were sold at least 20 years before the Mini's demise, meaning that the majority of those sold had been scrapped before the end of the original Mini's production life.[34]
+After the last of the Mini production had been sold, the 'Mini' name passed to BMW ownership. Mini Hatch, the new model made by BMW, is technically unrelated to the old car but retains the classic transverse four-cylinder, front-wheel-drive configuration and "bulldog" stance of the original.
+The last Mini to leave the Longbridge plant did so in 2012, when a 1970s 1275GT which was used by staff to travel around the car plant was recovered from the disused tunnels under the plant. The car was damaged by a storage container falling on it and had been left without an engine or gearbox for around 30 years before being recovered during work to infill the tunnels. This car was sold at auction in July 2013 for £1400.[65] Minis lined up on Brighton seafront after a London-to-Brighton rally
+Timeline[edit]
+August 1959: Introduction of the Austin Seven, Morris Mini-Minor and Morris Mini-Minor DL 2-door saloons, all with transversely mounted 848 cc engine and 4-speed manual gearbox.
+1960: Introduction of the Austin Seven Countryman and Morris Mini-Minor Traveller 3-door estates, both with 848 cc engine from the saloon models. 116,667 cars built in the first full year of production.
+1961: Introduction of the Austin Seven Super and Morris Mini-Minor Super 2-door saloons.
+1961: Introduction of the Austin Mini Cooper and Morris Mini Cooper 2-door saloon, both with larger 997 cc 55 bhp (41 kW) engine.
+October 1961: Introduction of Riley Elf and Wolseley Hornet variants [66]
+January 1962: All former Austin Seven models now officially called Austin Mini.
+March 1962: pvc seat covers replaced cloth upholstery on entry level model ("basic Mini").[67]
+1962: "De Luxe" and "Super" designations discontinued.  "Super de Luxe" designation introduced. Modified instrument panel now included oil pressure and water temperature gauges.[67]
+March 1963: Introduction of the Austin Mini Cooper 1071 S and Morris Mini Cooper 1071 S 2-door saloons, both with larger 1071 cc 70 bhp (52 kW) engine.
+1964: Introduction of the Mini Moke.
+April 1964: Introduction of the Austin and Morris Mini-Cooper 998, Mini-Cooper 970 S and Mini-Cooper 1275 S. 1275 S models have 1275 cc 76 bhp (57 kW) engine. Automatic transmission available as an option for the 998 cc Austin Mini-Cooper 998 and 1275 S. Previous Mini-Cooper 997 and 1071 S models dropped.
+1965: Mini Cooper 970 S discontinued.
+October 1965: Automatic transmission now available as an option on standard Austin/Morris Mini and Morris Mini SDL.
+October 1967: Mark 2 range launched with facelift and upgraded equipment. Austin Mini range as follows: 850, 1000, Cooper 998 and Cooper 1275 S 2-door saloons and 1000 Countryman 3-door estate. Morris Mini range as follows: 850, 850 SDL, 1000 SDL, Cooper 998 and Cooper 1275 S 2-door saloons and 1000 Traveller 3-door estate. Optional automatic transmission available on all Austin models (except 850) and Morris Mini 1000 SDL saloon.
+September 1968: Manual four speed gear box with synchromesh on all four forward ratios introduced.[42]
+March 1969: Launch of the Morris Mini K an Australian-only model manufactured in the Australian British Motor Corporation factory at Zetland NSW using 80% local content
+August 1969: Riley Elf and Wolseley Hornet variants discontinued [66]
+October 1969: Separate Austin and Morris badging now merged into Mini 850/Mini 1000 badging. Range reduced to: 850, 1000, Clubman, Cooper S and 1275 GT 2-door saloon and Clubman 3-door estate. Optional automatic transmission available on all except 1275 GT.
+1980: The Mini becomes the Austin Mini.[19]
+1988: The Austin Mini becomes the Rover Mini.[19]
+October 2000: Mini production ends [68]
+Limited editions[edit]
+Main article: List of Mini limited editions
+From the Mark IV onward, many special limited-production editions of the Mini were offered. These included models that were created to commemorate racing victories or to celebrate an anniversary of the Mini marque. Limited editions generally came equipped with a unique combination of interior and exterior trim and special decals. Examples include Mini 1100 Special, Mini 1000 Special HL (only available in silver colour with black vinyl roof, black cloth upholstery seats with head restraints and walnut interior trim, for Portugal market only),[69] Mini Rio, Mini Mayfair, Mini Park Lane, Mini Cooper RSP, Mini Flame, Mini Red Hot, Mini Jet Black, Mini Racing and the Mini Monza. There was also a version inspired by The Italian Job, a 1969 film famous for having a trio of Minis in its epic closing car chase.Concepts and unproduced prototypes[edit]
+See also: Mini concept cars
+ Mini 9X at the Heritage Motor Centre
+From 1967 to 1979, Issigonis had been designing a replacement for the Mini in the form of an experimental model called the 9X.[22] It was longer and more powerful than the Mini, but due to politicking inside British Leyland (which had now been formed by the merger of BMC's parent company British Motor Holdings and the Leyland Motor Corporation), the car did not reach production.
+A number of prototypes produced for vehicles based on the Mini but which never saw production are held and sometimes displayed at the British Heritage Motor Centre museum at Gaydon, Warwickshire. These included the Twini, a re-engineered four-wheel-drive Moke with two engines—one at the front and another at the back; the Austin Ant, a second attempt to produce a four-wheel-drive vehicle, this time using a transfer case; and a two-seater convertible MG edition of the Mini, cancelled due to it being perceived as competition for the MG Midget.
+In 1992, a project considering possible improvements to the Mini was started. Codenamed Minki ("Mini" plus K-Series engine), it included a redesigned dashboard, a two-piece rear door or tailgate instead of a boot, fold down rear seats, Hydragas suspension and a 3-cylinder version of the K-Series engine with a 5-speed gearbox.[70] However, the project was cancelled by management within Rover, who decided that the cost of engineering the changes, and achieving compliance with modern crash testing standards, was too great for the production volumes that could be expected of an updated Mini.
+In 1995 the idea to update the Mini again surfaced but this time with BMW management. As part of the process of deciding how to replace the Mini, a vehicle representing what the current Mini could have become, if it had been developed further over its production history, was commissioned.[70] This resulted in the Minki-II, designed to house the 1.4L MPI K-Series engine with an extensive redesign inside, but without the original Minki's tailgate. The car had to be widened by 50mm and lengthened by 50mm to accommodate the new engine and gearbox, with Hydragas suspension and dashboard from a Rover 100. The Minki-II was used for Hydragas development work, this suspension being considered at the time for the R59 project, later to become the Mini Hatch.Kit cars and customisation[edit]
+ One of three Outspan Orange (fr) Minis, on Madeira Drive in Brighton
+Main article: List of Mini based cars
+The cheapness and availability of used Minis make it a candidate for body replacement. There are over 120 Mini-based kit cars from various small companies and individual enthusiasts.Motorsport[edit]
+BMC operated a Competition Department at Abingdon, Oxfordshire, under the control of Stuart Turner, which built specially prepared Minis (mostly based on Cooper and Cooper S versions) to compete in international rallies and other motorsport. This department played a key role in ensuring the Mini's huge success in motorsport throughout the 1960s, in particular, winning the Monte Carlo Rally in 1964, 1965 and 1967, the 1000 Lakes Rally in 1965, 1966 and 1967, and dominating all of the first 9 positions in the 1966 Gallaher 500 at Bathurst.
+The car also won the 1961, 1962, 1969, 1978 and 1979 British Saloon Car Championship season, as well as the British Rally Championship in 1962, 1963 and 1970, the European Rally Championship in 1965 and 1966, and won the Finnish Rally Championship in 1965 and 1966.[71] Minis also won the 1965 Lowood 4 Hour endurance race, and the final Finnish Grand Prix in 1963. The Cooper S also had some success in the European Touring Car Championship, winning in 1964 and 1968, the Guia Race of Macau (a 1-2-3 finish in 1965, a 1–2 finish in 1970 and a win in 1972), and the Australian Touring Car Championship, winning its class in 1962, 1963, 1964, 1966, 1967 and 1968. A further title was the 1971 Sun-7 Chesterfield Series. The Mini also enjoyed class wins at the 1963 Armstrong 500, repeating this feat every year until 1969, and having class wins at the 1964, 1965 and 1971 Sandown 250, and Six Hour Le Mans in 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and 1972, as well as the 1971 Phillip Island 500K. The car also won the Welsh Sports and Saloon Car Championship in 1998. Mini Leyland came 4th place in the under-2-litre category in the 1966, 1967 and 1969 Trans-Am seasons, improving to 3rd in 1970.
+The Mini Cooper S won the Monte Carlo Rally in 1964, 1965 and 1967.[72] Minis initially placed first, second and third in the 1966 rally as well, but were disqualified after a controversial decision by the judges. The disqualification related to the use of a variable resistance headlamp dimming circuit in place of a dual-filament lamp.[73] Fourth placed Roger Clark's Ford Cortina was disqualified for the same reason, along with six other cars.  The fifth car past the finishing line, a Citroën DS, a model that had won the race previously, was awarded first place – the DS had similar headlamps, but these were standard production equipment on the car – in line with the letter of the rules.[74] The driver of the Citroën, Pauli Toivonen, felt that he hadn't really "won" the rally.[75]  BMC probably received more publicity from the disqualification than they would have gained from a victory.[76] 1964 Monte Carlo Rally winner: 1963 Morris Mini Cooper S
+ 1965 Monte Carlo Rally winner: 1964 Morris Mini Cooper S
+ 1967 Monte Carlo Rally winner: 1966 Morris Mini Cooper SMonte Carlo Rally results for Mini.[72]
+Year
+Driver
+Co-driver
+Result
+1962
+Pat Moss
+Ann Wisdom
+Ladies' Award
+1963
+Rauno Aaltonen
+Tony Ambrose
+3rd
+1964
+Paddy Hopkirk
+Henry Liddon
+Winner
+Timo Mäkinen
+Patrick Vanson
+4th
+1965
+Timo Mäkinen
+Paul Easter
+Winner
+1966
+Timo Mäkinen
+Paul Easter
+(disqualified)
+Rauno Aaltonen
+Tony Ambrose
+(disqualified)
+Paddy Hopkirk
+Henry Liddon
+(disqualified)
+1967
+Rauno Aaltonen
+Henry Liddon
+Winner
+1968
+Rauno Aaltonen
+Henry Liddon
+3rd
+Tony Fall
+Mike Wood
+4th
+Paddy Hopkirk
+Ron Crellin
+5thIn rallycross, the Mini finished on the podium in the first ever race, at Lydden Hill Race Circuit in February 1967, winning races in the FIA European Rallycross Championship in 1974 and 1975. The car competed as late as the 1979 Australian Rallycross Championship.
+The Se7ens is the UK's longest running one make motor racing championship, having been introduced in 1966.[77] As of 2014, classic Minis are still raced, with other one make races in the UK,[78][79] Europe[80] and Asia,[81] and in classic events such as the Goodwood Members Meeting. In 2012 a Mini broke the land speed record. A Mini was used to set a record at the Chateau Impney Hill Climb.[82]International Rally victories[edit]
+SeasonEventDriver
+1960 Cork 20 Rally Sheila O'Clery
+1962 Circuit of Ireland Rally Paddy Hopkirk
+1962 Tulip Rally Pat Moss
+1962 Rally Sweden Bengt Söderström
+1962 Rallye de Baden-Baden Pat Moss
+1964 Monte Carlo Rally Paddy Hopkirk
+1964 Rally Isle of Man Dave Friswell
+1964 Tulip Rally Timo Mäkinen
+1964 Cork 20 Rally Paul O'Flynn
+1965 Monte Carlo Rally Timo Mäkinen
+1965 1000 Lakes Rally Timo Mäkinen
+1965 Belgium Ypres Westhoek Rally Jean Pierre Vandermeersch
+1965 Circuit of Ireland Rally Paddy Hopkirk
+1965 Rally Poland Rauno Aaltonen
+1965 RAC Rally Rauno Aaltonen
+1965 Rally Isle of Man Tony Fall
+1965 Rallye International de Madagascar Duclos
+1966 1000 Lakes Rally Timo Mäkinen
+1966 Circuit of Ireland Rally Tony Fall
+1966 Rally Poland Tony Fall
+1966 Scottish Rally Tony Fall
+1966 Tulip Rally Rauno Aaltonen
+1966 Rallye International de Madagascar Ramaroson
+1966 Munich-Vienna-Budapest Timo Mäkinen
+1967 Monte Carlo Rally Rauno Aaltonen
+1967 1000 Lakes Rally Timo Mäkinen
+1967 Acropolis Rally Paddy Hopkirk
+1967 Circuit of Ireland Rally Paddy Hopkirk
+1967 Rally Isle of Man Norman Harvey
+1967 Alpine Rally Paddy Hopkirk
+1967 Geneva Rally Tony Fall
+1972 Rally New Zealand Andrew CowanBritish Saloon Car Championship titles[edit]
+SeasonDriverWinsPoints
+1961 John Whitmore353
+1962 John Love752
+1969 Alec Poole776
+1978 Richard Longman11100
+1979 Richard Longman1097European Touring Car Championship titles[edit]
+SeasonDriver1234567891011PointsPosition
+1964 Warwick Banks7
+7
+-
+7
+3
+7
+7
+7
+7
+7
+7661
+1968 John Handley6
+(2)
+6
+6
+(2)
+6
+-
+9
+9
+(1.5)
+6481Australian endurance racing class wins[edit]
+EventDriverClass positionOverall position
+1963 Armstrong 500Doug Chivas Ken Wilkinson1 (B)6
+1963 Six Hour Le MansDavid Thomas, Ian Durrant1 (1000)5
+1964 Sandown 6 Hour InternationalPeter Manton, Brian Foley1 (F)2
+1964 Armstrong 500Bruce Maher, Charlie Smith1 (B)9
+1964 Shell Le Mans 6 Hour RaceTed Lisle1 (Touring)2
+1965 International 6 Hour Touring Car RaceBob Holden, Ron Haylen1 (D)3
+1965 Armstrong 500Brian Foley, Peter Manton1 (C)3
+1965 Six Hour Le MansTed Lisle, Mike Tighe1 (1100)5
+1965 Lowood 4 HourJohn Harvey, Brian Foley1 (D)1
+1966 Gallaher 500Rauno Aaltonen, Bob Holden1 (C)1
+1966 Le Mans 6 Hour RaceTed Lisle1 (Improved)2
+1967 Surfers Paradise Four HourPeter Cray, Don Holland1 (B)
+1967 Gallaher 500Tony Fall, Bob Holden1 (C)5
+1967 Six Hour Le MansJeff Dunkerton, Doug Mould11
+1968 Surfers Paradise 4-HourM McGregor, F Hunt1 (C)3
+1968 Hardie-Ferodo 500Don Holland, Charlie Smith1 (C)10
+1968 Six Hour Le MansRick Lisle, John Harris1 (E)2
+1969 Rothmans 12 Hour ClassicGarry Hodge, John Leffler1 (C)2
+1969 Hardie-Ferodo 500Ron Gillard, Warren Gracie1 (C)14
+1969 TVW Channel 7 Le Mans 6 Hour RacePeter Briggs, Doug Mould1 (1500)2
+1970 Rothmans 12 HourDon Holland, Bob Skelton1 (C)4
+1970 TVW Channel 7 Six Hour Le MansRay Thackwell, Jim Mullins15
+1971 Rothmans 3 HourLakis Manticas1 (B)16
+1971 Castrol TrophyLakis Manticas1 (B)7
+1971 Sandown 250Lakis Manticas1 (B)11
+1971 Phillip Island 500KBill Stanley1 (B)10
+1971 Rothmans 250Lakis Manticas1 (B)
+1972 Skipper Chrysler 6 Hour Le MansJack Michael, David Jorritsma1 (1300)17
+1974 Hardie-Ferodo 1000Gary Leggatt, Peter Lander1 (1300)17
+1975 Hardie-Ferodo 1000Peter Lander, Bob Martin1 (1300)14Awards[edit]
+The Mini has won many awards over the years, including second place in 1999's ‘’Global’’ Car of the Century award, behind only the Model T Ford. In the same competition, run by the prestigious Global Automotive Elections Foundation, the Mini was selected "European Car of the Century." Grassroots Motorsports awarded Mini with the Editors' Choice award in 2002.[83] The Mini also received awards for "Car of the Century" (Autocar magazine 1995) and "Number One Classic Car of All Time" (Classic & Sports Car magazine 1996).
+In the end 5.3 million Minis were sold, making it the most popular British car ever made.Sales[edit]
+ An Almond Green Mark I Morris Mini Minor
+At its peak, the Mini was a strong seller in most of the countries where it was sold, with the United Kingdom inevitably receiving the highest volumes. The 1,000,000th Mini came off the production line in 1965,[84] with the 2,000,000th in 1969.[85] The 3,000,000th Mini came off the production line in 1972, with the 4,000,000th in 1976.[86]
+It dominated the mini-car market until the arrival of the Hillman Imp in 1963. It outsold the Imp. Competition arrived with the more modern and practical Vauxhall Chevette of 1975, but the Mini continued to sell well until its "replacement"—the Metro—arrived in 1980. By this time, the Mini's design had been overtaken by numerous more modern and practical vehicles.
+Although the Metro did not replace the Mini, production figures for the Mini dipped during the 1980s, and interest in the design was not revived until the re-introduction of the Mini Cooper in 1989. This helped sales of the Mini through the 1990s, to the end of production on 4 October 2000.
+A total of 1,581,887 Minis were sold in Britain after its launch in 1959. The last new one to be registered was sold in 2004, some four years after the end of production.[87]YearCumulative Sales
+1962500,000
+19651 million
+19692 million
+19723 million
+19764 million
+19865 million
+20005,387,862The highest price ever paid for a Mini was at a Bonhams auction in 2007, when a works rally-prepared Mini (DJB 93B) sold for £100,500 ($196,980).[88]United States[edit]
+ A meeting of the Mini Owners of Texas club in Grapevine, Texas
+Between 1960 and 1967, BMC exported approximately 10,000 left-hand drive BMC Minis to the United States. Sales were discontinued when stricter federal safety standards were imposed in 1968[89][90][91][92][93] and the arrival of the larger and more profitable Austin America. Mini sales fell in the 1967 calendar year and the US importer was expecting the forthcoming Austin America to find a larger market. The America was also withdrawn in 1972 due to slow sales and the introduction of bumper-height standards.
+Today the U.S. Government exempts cars older than 25 years from all import laws, so older Minis can be freely imported. The Canadian government applies a similar rule after 15 years.Safety record[edit]
+ 1974 Mini Clubman Safety Research Vehicle—SRV4
+Issigonis designed the Mini with an emphasis on active safety. Asked about the crashworthiness of the Mini he said "I make my cars with such good brakes, such good steering, that if people get into a crash it's their own fault".[94] and "I don't design my cars to have accidents".[95]
+In July 1965 BMC announced that following "comments by safety experts" about the Mini's external doorhandles, these would be modified on new cars so that the gap between the handle and the door panel would be effectively closed.[96]
+Nicholas Faith states in his book that Murray Mackay, one of the UK's leading motor vehicle crash and safety researchers, was critical of the pre-1967 Mini's passive safety features, including the protruding filler cap, the door latch, and the vulnerability of the passenger space to engine intrusion.[94]
+The Mini was withdrawn from the American market because it could not meet the 1968 U.S. safety regulations and emission standards,[97] and although often updated, not sufficiently to comply with U.S. regulations.[98] It continued to be sold in Canada until 1979.[94][98]
+The Mini was modified during its production to improve its safety. In 1974 a prototype Mini experimental safety vehicle was built, the Mini Clubman SRV4. It featured a longer crumple zone, a "pedestrian friendly" front-end, run-flat tyres, strengthened door sills, extra internal padding and recessed door handles, the latter having been used earlier on Australian-built Minis owing to local laws.[99] Jack Daniels, one of the original Issigonis team,[100] is stated to have been working on further safety improvements for the Mini when he retired in 1977.[94]  Several times it was thought that safety regulations would stop Mini production[101]  Safety improved in 1996, with the introduction of airbags and side-impact bars.[102]  The Mini, challenged by increasingly demanding European safety and pollution standards, was planned by British Aerospace to be taken out of production in 1996, but BMW chose to invest to keep the Mini legal until the launch of a new model.[103]
+In January 2007 Which? magazine listed the Mini City in its "Ten worst cars for safety (since 1983)" list, alongside other economical, lightweight, fuel-efficient cars like the Hyundai Pony 1.2L, Fiat Panda 900 Super, Suzuki Alto GL, Daihatsu Domino, Citroën AX 11 RE, Yugo 45 and 55, Peugeot 205 GL, and the Citroën 2CV6.[104]
+A UK Department for Transport statistics publication, presenting estimates of the risk of driver injury in two-car injury collisions, based on reported road accident data, estimated that the 1990–2000 Mini was one of two small cars (the other being the Hyundai Atoz), which, with an estimated 84 per cent of drivers likely to be injured, presented the greatest risk of driver injury; the average risk for the small car category was 76 per cent.[105]50th anniversary[edit]
+Several key events marked the 50th anniversary of the Mini in 2009. On 13 January 2009, The Royal Mail released a limited edition of stamps entitled "British Design Classics", featuring an original, Egg-Shell Blue, MK1 Mini, registration XAA 274.[106] On 17 May, a world record parade of 1,450 Minis congregated at Crystal Palace as part of a London to Brighton run.[107]  The following week, 10,000 Minis and 25,000 people attended an anniversary party at Silverstone Circuit on the border of  Buckinghamshire and Northamptonshire.[108]
+Between 7–10 August 2009 approximately 4000 minis from around the world congregated at Longbridge Birmingham to celebrate the 50th anniversary. On 26 August 2009, smallcarBIGCITY launched in London to provide sightseeing tours of the capital in a fleet of restored Mini Coopers.[109]See also[edit]
+List of Mini-based cars
+List of best-selling vehicle nameplates
+London to Brighton events
+List of Mini limited editions
+Mini Hatch
+References[edit]
+^ The Complete USA Press Pack, mk1-performance-conversions.co.uk Retrieved on 2 November 2012^ Austin Cooper sales brochure (Swedish), mk1-performance-conversions.co.uk Retrieved 1 June 2017^ a b c Also known as : Mini – Classic, www.aronline.co.uk Retrieved on 9 November 2012^ a b Italian Minis, www.minimania.com Retrieved 12 August 2015^ a b Green Book Price & Model Guide, July–August 1983, page 60^ "Mini information page". Archived from the original on 15 April 2009. ^ Cardew (Ed), Basil (October 1969). "Wolseley Hornet". Daily Express Motor Show Review 1969 on 1970 Cars. London: Daily Express Newspaper: 54. CS1 maint: Extra text: authors list (link) ^ a b c Reed, Chris (2003). Complete Classic Mini 1959–2000. Orpington: Motor Racing. ISBN 1-899870-60-1. ^ Reed, Chris (1994). Complete Mini: 35 Years Of Production History, Model Changes, Performance Data. MRP. ISBN 0-947981-88-8. ^ Clausager, Anders (1997). Essential Mini Cooper. Bideford, Devon: Bay View Books. ISBN 1-870979-86-9. ^ "The humble Mini leaves supercars trailing to be named Britain's best-ever motor". Mirror. 30 October 2016. ^ Buckley, Martin; Rees, Chris (2006). Cars: An encyclopaedia of the world's most fabulous automobiles. Hermes House. ISBN 1-84309-266-2. The BMC Mini, launched in 1959, is Britain's most influential car ever. It defined a new genre. Other cars used front-wheel drive and transverse engines before but none in such a small space, this was possible as the engine is mounted on top of the gearbox. ^ "This Just In: Model T Gets Award", James G. Cobb, The New York Times, 24 December 1999^ Strickland, Jonathan. "How the MINI Cooper Works". Auto.howstuffworks.com. Retrieved 20 July 2010. ^ "1966: Future of Monte Carlo rally in doubt". On This Day. BBC. 21 January 1966. ^ a b Austin Seven – Mini, www.austinmemories.com Archived 1 August 2015 at the Wayback Machine. Retrieved on 16 June 2013^ a b Michael Sedgwick & Mark Gillies, A-Z of Cars 1945–1970, 1986^ Adams, Keith; Nicholls, Ian. "Mini development story Pt.2". AROnline. Archived from the original on 3 October 2011. ^ a b c d MINI – A MAJOR FASHION ITEM, www.retrocarsmag.com Retrieved on 3 May 2013^ Coulter, Jeremy (1989). The World's Great Cars. London: Marshall Cavendish. ISBN 0-86283-726-X. ^ "1959–2000 BMC Mini – Classic Mini Cooper – Automobile Magazine". Automobilemag.com. Archived from the original on 17 August 2010. Retrieved 11 October 2010. ^ a b c d Wood, Jonathan (2005). Alec Issigonis: The Man Who Made the Mini. Breedon Books Publishing. ISBN 1-85983-449-3. ^ Nahum, Andrew (2004). Issigonis and the Mini. Icon Books. ISBN 1-84046-640-5. ^ a b "Engines of the ADO15 and family". Mgcars.org.uk. Archived from the original on 7 February 2009. Retrieved 11 October 2010. ^ "Trade Mark & Copyright Attorneys in Ashby-de-la-Zouch". Verymark.info. Archived from the original on 5 August 2010. Retrieved 11 October 2010. ^ Mini Model Range 1959-2001- Austin, www.minipassionmini.50megs.com Retrieved 11 August 2016^ "Happy Events (Editorial)". The Autocar (3315): 45. 1959. ^ B.M.C. Baby Cars Set Up A New Standard In Cheap Motoring.
+FROM OUR MOTORING CORRESPONDENT. The Times  Wednesday, 26 August 1959; pg. 10; Issue 54549^ "621 AOK 50th anniversary | Mini news and updates". MiniWorld. 8 May 2009. Archived from the original on 20 September 2009. Retrieved 11 October 2010. ^ "List of Vehicles – The National Motor Museum Trust". Nationalmotormuseum.org.uk. Retrieved 11 October 2010. ^ "mini_brochures". Mk1-performance-conversions.co.uk. Retrieved 5 December 2010. ^ "Discussion in Bond Owners Club forums". Bondownersclub.co.uk. Retrieved 11 October 2010. ^ Mini Road Test Book: Mini Gold Portfolio 1959–69. ISBN 1-85520-300-6. ^ a b c d e f g h "Production numbers by model". Miniresource.com. Retrieved 11 October 2010. ^ Laban, Brian (2005) The Little Book of MINI^ Golding, Rob (2007). Mini 50 Years. Motorbooks. p. 33. ISBN 0-7603-2627-4. Initial sales were worryingly slow. Then to the rescue came the rich and fashionable ... The Beatles, Princess Margaret with Lord Snowdon, Peter Sellers and Mary Quant, Harry Secombe and Graham Hill were all seen around town in Minis. ^ Walton, Jeremy.  Mini Cooper and S (St. Paul, MN: Motorbooks International, 204), p.55 caption.^ "The cars : Mini development history". AR Online. 5 August 2011. Retrieved 22 August 2014. ^ Clarke, R. M. (1995). Mini Road Test Book: Mini Gold Portfolio 1969–80. Brooklands Books. ISBN 978-1-85520-301-3. ^ Clarke, R. M. (2005). Mini Road Test Book: High Performance Minis Gold Portfolio 1960–73. Brooklands Books. ISBN 978-1-85520-317-4. ^ a b Toledo, Rodrigo (2011-09-03).  Adams, Keith, ed. "BMC in Chile: A potted history". Around the World: Chile. AROnline. Retrieved 2014-08-25. ^ a b c d "Buying secondhand: Minis". Autocar. 145 (4172): 74–77. 23 October 1976. ^ Mini Gold Portfolio 1981–1997. ISBN 1-85520-385-5. ^ "Mini–mk III (1969–2000) history, pictures". Histomobile.com. 5 October 2010. Archived from the original on 15 June 2011. Retrieved 11 October 2010. ^ "1978: Motability gets moving in the UK". BBC News. 25 July 1978. ^ a b Suderman, Art (30 August 1991). "Venezuelan firm making Mini for Latin America". Calgary Herald. CanWest Interactive: F4. ^ a b c Hornet and Elf Workshop Manual, Part No. AKD 4062C, BMC Service Limited, Cowley, Oxford, England.^ "Riley Elf", Motorbase. Retrieved on 21 June 2008.^ a b , Body Service Parts List, Riley Elf, Wolseley Hornet, British Leyland Motor Corporation Limited, BMC Service division, Cowley, Oxford, England.^ Kitcher, Nigel and Davy, Rick. "The Mini Moke", The Unmutual Prisoner Vehicle Guide. Retrieved on 20 June 2008.^ Mini Road Test Book: Mini Moke Gold Portfolio 1964–94. ISBN 1-85520-240-9. ^ "Dependable in service – Austin Mini van and pickup". ‘’Mini Pick-up International’’ Retrieved on 21 June 2008. Archived 13 March 2012 at the Wayback Machine.^ "Scanned copy of the Mini K brochure". Aronline.co.uk. Archived from the original on 9 October 2010. Retrieved 11 October 2010. ^ Oz Mini Models, The Mini Experience, OZ50 Special Issue, February 2011, page 35^ 1970 Mini K Van Ad – Australia Retrieved on 19 September 2011 Archived 4 September 2015 at the Wayback Machine.^ B.M.C. Bring Out The Mini-Cooper. The Times, Wednesday,  September 20, 1961; pg. 8; Issue 55191^ Clarke, R.M. (2005). Mini Road Test Book: Mini Cooper Gold Portfolio 1961–71. Brooklands Books. ISBN 1-85520-052-X. ^ Parnell, John (1993). Original Mini-Cooper: The Restorers Guide To All MKL, II, And III Models. Bay View. ISBN 1-870979-32-X. ^ Rees, Paul: 'Listen very carefully, I will say this only once', Q, May 2003, pp 84–92^ a b Howard, Geoffrey (11 February 1971). "10,000 mile (0 km) long-term report: Mini Clubman Estate". Autocar. 134 (3907): 22–23. ^ "Auto Test Mini 850". Autocar. 138 (4012): 8–12. 19 April 1973. ^ a b History of the Clubman GT Retrieved from miniexperience.com.au on 11 February 2010^ www.clubmangt.com.au Archived 30 December 2009 at the Wayback Machine.^ Green Book Price & Model Guide, July–August 1983, page 71^ "Final Longbridge factory Mini sold at auction". BBC News Online. BBC. 28 July 2013. Retrieved 28 July 2013. ^ a b Timeline of the Mini (ADO15) Elf/Hornet variant, www.elf-hornet-register.co.uk Retrieved 15 February 2016^ a b "Used Car Test: 1968 Morris Mini Mk I de luxe". Autocar. 134 (3908): 51–53. 18 February 1971. ^ Mini Time Line Part 5 – 1989 Through 2002, www.minimania.com Retrieved 15 February 2016^ Mini (marque)^ a b "Austin Memories: Minki". www.austinmemories.com. Archived from the original on 9 February 2010. Retrieved 2 February 2010. ^ http://www.rallism.fi/content/en/1/171318/Winners%20of%20FRC.html^ a b "Monte Carlo Automobile Club". Acm.mc. Retrieved 11 October 2010. ^ Browning, Peter (1971). The Works Minis. Henley on Thames: Foulis. ISBN 0-85429-128-8. ^ "BBC Future of Monte Carlo rally in doubt". BBC News. 21 January 1966. Retrieved 11 October 2010. ^ "Pauli Toivonen and Harri Toivonen Profiles". Thruxton.f9.co.uk. Retrieved 2017-03-03. ^ "Legend of the Mini". Classic Motorsports (109): 8. 2004. ^ "The Latest Racing News | Castle Combe Race Cicuit". Castlecombecircuit.co.uk. Retrieved 2017-03-03. ^ [1]^ [2]^ "Team Bailey racing back on track and on tour for 2014 – News". Touring and Tenting. Retrieved 2017-03-03. ^ "Archived copy". Archived from the original on 2 April 2015. Retrieved 2015-01-28. ^ "Austin Mini Cooper S at the Chateau Impney Hill Climb, Droitwich". Chateauimpneyhillclimb.com. 2016-02-16. Retrieved 2017-03-03. ^ [3]^ "Millionth Mini – British Pathé". Britishpathe.com. Retrieved 2017-03-03. ^ 23rd January 2014 (2014-01-23). "Two Millionth Mini – Special – British Pathé". Britishpathe.com. Retrieved 2017-03-03. ^ Day, James. "classic Mini | library of motoring – An online collection of MINI information". Libraryofmotoring.info. Retrieved 2017-03-03. ^ "icLiverpool – Recession-proof wise-buys revealed". Icliverpool.icnetwork.co.uk. 17 March 2009. Archived from the original on 27 April 2009. Retrieved 5 December 2010. ^ "Classic Mini Cooper". Bloomberg. Retrieved 2017-03-03. ^ "Cars Uncles Sam says you can't have, Keith Barry, Wired^ The rise and fall of mini in America by Joy Keller, source mossmotoring.com [4], visited feb15 2016^ The Classic Mini – 1968 Austin Mini, Hemmings Motor News, November, 2007 by Mike McNessor, source Hemmings.com magazine [5]^ "Federal Motor Vehicle Safety Standards and Regulations". Nhtsa.gov. Retrieved 2017-03-03. ^ "FAQ". Miniusa.com. Retrieved 2017-03-03. ^ a b c d Faith, Nicholas (1997). Crash: The limits of car safety. Boxtree. ISBN 0-7522-1192-7. ^ McLean, Jack. "Road Safety – Better Cars, Better Roads or Just Better Drivers?" (PDF). Archived from the original (PDF) on 26 March 2009. ^ "News and Views: Safety changes to Minis". Autocar: 230. 30 July 1965. ^ Strickland, Jonathan (21 March 2007). "HowStuffWorks "How the MINI Cooper Works"". Auto.howstuffworks.com. Retrieved 5 December 2010. ^ a b Anderson, Kevin (21 June 2002). "Mini mania big in US". BBC News. Retrieved 24 February 2008. ^ "Safety First: the SSV/SRV cars". AROnline. Archived from the original on 8 October 2007. Retrieved 24 February 2008. ^ "Leading MG engineer dies at home". BBC News. 30 November 2004. Retrieved 24 February 2008. ^ "History of the Mini". British Motor Heritage Limited. Retrieved 8 April 2013. ^ "Rover Mini Saloon (88-01)". Parker's. Archived from the original on 19 January 2008. ^ "Last Classic Mini Closes an Automotive Era". The New York Times. 5 October 2000. ^ "Car safety problems persist". Which?. 4 January 2007. Archived from the original on 8 February 2007. Retrieved 24 February 2008. ^ "Cars: Make and Model: The Risk of Driver Injury in Great Britain: 2000–2004". UK Department for Transport. Archived from the original on 16 November 2007. Retrieved 24 February 2008. ^ "Royal Mail – British Design Classics". Royalmail.com. Archived from the original on 13 May 2008. Retrieved 15 July 2011. ^ "Largest parade of Mini cars". Guinness World Records. Retrieved 14 June 2013. ^ "Car Scoop – Photo Album from MINI's 50th Anniversary Festivities at Silverstone". Carscoop.blogspot.com. Retrieved 15 July 2011. ^ "About smallcarBIGCITY..." Smallcarbigcity.com. Retrieved 15 July 2011. 
+External links[edit]Wikimedia Commons has media related to Mini vehicles.
+Austin Memories – History of Austin and Longbridge
+Heritage Motor Centre – A collection of British heritage cars and artefacts, including many historic Minis, Mini prototypes, and an Issigonis collection.
+Mini at Curlie (based on DMOZ)
+Issigonis and the 1,000,000th mini (Pathé newsreel)
+The Last Minis – The history of the Mk.7 Mini models produced from 1996 to 2000
+Audio recording of a Mini 1000 engine (Automatic model) circa 1971
+vteMini vehicle timeline 1959–2000  — next »
+Model1950s1960s1970s1980s1990s2000s
+90
+1
+2
+3
+4
+5
+6
+7
+8
+90
+1
+2
+3
+4
+5
+6
+7
+8
+90
+1
+2
+3
+4
+5
+6
+7
+8
+90
+1
+2
+3
+4
+5
+6
+7
+8
+90
+Two-door saloonMk IMk IIMk III-Mk VII
+Clubman & 1275GT
+CooperMk I CooperMk II CooperRSPCooper
+Cooper SMk I Cooper SMk II Cooper SMk III Cooper SERA
+ConvertibleRover Cabrio
+Utility vehicleMoke (UK)Moke (Australia)Moke (Portugal)
+EstateTraveller & Countryman
+PickupMini PickupMini 95
+VanMini VanMini 95See also
+Concept cars
+A-Series engine
+List of Mini-based cars
+vteBritish car industry – companies and marques
+Marque1900s1910s1920s1930s1940s1950s1960s1970s1980s1990s2000s2010s
+Rolls-RoyceRolls-Royce LimitedRolls-Royce Limited & BentleyRolls-Royce MotorsRolls-Royce Motors (Vickers)BMW & VW GroupBMW
+BentleyBentleyVolkswagen Group
+Armstrong SiddeleySiddeley-DeasyArmstrong WhitworthArmstrong SiddeleyBristol SiddeleyRolls-Royce LimitedRolls-Royce plc
+Aston MartinAston MartinAston Martin LagondaFord PAGAston Martin Lagonda
+LagondaLagonda
+JaguarSS CarsJaguarJaguar&DaimlerBMHBLMC / British LeylandJaguar&DaimlerFord (PAG)Tata
+DaimlerDaimlerBSABSA
+LanchesterLanchester
+RoverRover CompanyRover CompanyRover CompanyAustin Rover Group&Land Rover Group (BL plc)Rover Group (BAe)Rover Group(BMW)MG Rover Group (PVH)
+Land RoverFord (PAG)
+AlvisAlvisBAE Systems
+StandardStandardStandard TriumphLeyland MotorsBritish Motor Heritage
+TriumphDawsonTriumphBMW
+RileyRileyNuffield OrganisationBMCBMH
+MGMorris Garages (MG)Rover Group(BMW)MG Rover Group (PVH)SAIC&NACSAIC
+MorrisMorrisMorris
+WolseleyWolseley
+AustinAustinAustin
+Vanden PlasVanden Plas
+MiniBMW
+PrincessBMCBLMC / British Leyland
+Austin-HealeyAustin (BMC) & Donald Healey
+JensenJensen MotorsBritcar HoldingsJensen Cars
+ReliantReliantReliant
+BondBond
+ACAC Cars (several ownership & company name changes)
+ArgyllArgyllArgyll
+Bristol CarsBristol Cars
+CaterhamCaterham
+CrossleyCrossley
+DuttonDuttonDutton
+GinettaGinetta
+Gordon-KeeblePeerless & WarwickGordon-Keeble
+JowettJowettBlackburn
+Lea-FrancisLea-Francis
+LotusLotusGeneral Motors EuropeProton
+McLarenMcLaren
+MarcosMarcosMarcosMarcos
+MorganMorgan
+NapierNapier
+TurnerTurner
+TVRTVR
+WestfieldWestfieldPotenza Sports Cars
+GTMGTM
+VauxhallVauxhall MotorsGeneral MotorsGeneral Motors EuropeOpel
+VulcanVulcan
+HillmanHillmanHumberRootesChrysler Europe (Chrysler)Peugeot (PSA)
+HumberHumber
+SingerSingerRootes
+SunbeamSunbeamS.T.D. MotorsRootes(as Sunbeam-Talbot) RootesRootes
+TalbotTalbot
+Marque1900s1910s1920s1930s1940s1950s1960s1970s1980s1990s2000s2010svteBritish Leyland – car companies and marques
+Marque1900s1910s1920s1930s1940s1950s1960s1970s1980s1990s2000s2010s
+JaguarSS CarsJaguarJaguar&DaimlerBMHBLMC / British LeylandJaguar&DaimlerFord (PAG)Tata
+DaimlerDaimlerBSABSA
+LanchesterLanchester
+RoverRover CompanyRover CompanyRover CompanyAustin Rover Group&Land Rover Group (BL plc)Rover Group (BAe)Rover Group(BMW)MG Rover Group (PVH)
+Land RoverFord (PAG)
+AlvisAlvisBAE Systems
+StandardStandardStandard TriumphLeyland MotorsBritish Motor Heritage
+TriumphDawsonTriumphBMW
+RileyRileyNuffield OrganisationBMCBMH
+MGMorris Garages (MG)Rover Group(BMW)MG Rover Group (PVH)SAIC&NACSAIC
+MorrisMorrisMorris
+WolseleyWolseley
+AustinAustinAustin
+Vanden PlasVanden Plas
+MiniBMW
+PrincessBMCBLMC / British Leyland
+Austin-HealeyAustin (BMC) & Donald Healey
+Marque1900s1910s1920s1930s1940s1950s1960s1970s1980s1990s2000s2010s
+vteBritish Motor Corporation cars, 1952–1966
+Austin
+Austin-Healey
+MG
+Morris
+Princess
+Riley
+Vanden Plas
+Wolseley
+Austin
+Sheerline
+Princess
+A40
+A40 Sports
+A70 Hereford
+Cambridge
+Westminster
+A30
+A35
+Metropolitan
+Gipsy
+A40 Farina
+Seven
+Mini
+Mini Moke
+1100
+1800
+Lancer
+Freeway
+Austin-Healey
+100
+3000
+Sprite
+MG
+YB
+Magnette
+TD & TF Midget
+MGA
+MGB
+Midget
+1100
+Morris
+Minor
+Morris Oxford MO
+Morris Oxford series II
+Morris Oxford series III
+Morris Oxford Farina
+Cowley
+Six MS
+Isis
+Mini
+850
+Mini Moke
+1100
+1800
+Marshal
+Major
+Princess
+Limousine
+IV
+3-litre
+Riley
+1½ Litre
+2½ Litre
+Pathfinder
+2.6
+1.5
+4/68 and 4/72
+Elf
+Kestrel
+Vanden Plas
+Princess Limousine
+Princess 3-litre
+Princess 4-litre "R"
+Princess 1100
+Wolseley
+4/50
+6/80
+4/44
+6/90
+15/50
+15/60
+1500
+16/60
+6/99
+6/110
+Hornet
+1100
+18/85
+24/80vteBritish Motor Holdings and British Leyland cars, 1966–1986
+Austin
+Austin-Healey
+Daimler
+Jaguar
+Land Rover†
+Leyland
+Mini
+MG
+Morris
+Princess
+Riley
+Rover†
+Triumph†
+Vanden Plas
+Wolseley
+Austin
+A40 Farina
+A60 Cambridge
+A110 Westminster
+Mini
+Mini Moke
+1100 / 1300
+1800 / 2200 (ADO17)
+Sprite
+1800 / 2200 (ADO71)
+3-Litre
+Maxi
+Allegro
+Ambassador
+Mini Metro
+Maestro
+Montego
+Tasman
+Kimberley
+Victoria
+Austin-Healey
+3000
+Sprite Mk IV
+Daimler
+Majestic Major
+DR450
+2.5 V8 & V8-250
+Sovereign
+Double Six
+DS420
+Jaguar
+2.4, 3.4 & 3.8 Litre
+240 & 340
+S-Type
+420
+420G
+E-Type
+XJ6
+XJ12
+XJS
+Land Rover†
+Series II & III
+90, 110 and 127
+Range Rover
+Leyland
+Mini
+Moke
+Marina
+P76
+MG
+Magnette Mark IV
+MGB
+MGC
+Midget
+1100/1300
+Metro
+Maestro
+Montego
+Mini
+850
+1000
+1275GT
+Clubman
+Cooper
+Moke
+Morris
+Minor
+Morris Oxford Farina
+Mini
+850
+Mini Moke
+1100 / 1300
+1800 / 2200 (ADO17)
+1800 / 2200 (ADO71)
+Marina
+Ital
+1500
+Nomad
+Princess
+1700 / 1800 / 2000 / 2200
+Riley
+Elf
+4/72
+Kestrel / 1300
+Rover†
+3.5 Litre / 3½ Litre (P5)
+2000 / 2200 / 3500 (P6)
+2000 / 2300 / 2400 / 3500 / V8-S / Vitesse (SD1)
+Quintet
+213 & 216
+Triumph†
+Herald
+Spitfire
+Vitesse
+GT6
+Stag
+TR5
+TR250
+TR6
+TR7
+TR8
+Toledo
+1300
+1500
+2000
+2.5 & 2500
+Dolomite
+Acclaim
+Vanden Plas
+4-Litre Princess Limousine
+Princess 4-litre "R"
+Princess 1100/1275/1300
+1500/1.5/1.7
+Wolseley
+16/60
+6/110
+Hornet
+1100 / 1300
+18/85 / Six
+Saloon
+†Rover, Land Rover, and Triumph were not part of British Motor Holdings but became part of British Leyland in 1968.
+vteCars manufactured by BL Austin Rover, BL Land Rover, Rover Group, MG Rover, NAC MG and MG Motor from 1980 onwards
+Type1980s1990s2000s2010s
+0
+1
+2
+3
+4
+5
+6
+7
+8
+90
+1
+2
+3
+4
+5
+6
+7
+8
+90
+1
+2
+3
+4
+5
+6
+7
+8
+90
+1
+2
+3
+OwnershipBL plc / Rover GroupBritish AerospaceBMWPhoenix Venture HoldingsNanjing Auto / SAIC
+Group nameBL CarsAustin Rover Group / Land Rover GroupRover GroupMG Rover GroupNAC MG / MG Motor
+City carMini
+SuperminiAustin MetroRover MetroRover 100CityRoverMG 3 SWMG 3
+Austin AllegroAustin Maestro
+CompactTriumph AcclaimRover 200 (SD3)Rover 200 (R8)Rover 200 (R3)Rover 25 / MG ZRMG 5
+Austin MaxiRover 400 (R8)Rover 400 (HH-R)Rover 45 / MG ZSMG 6
+Mid-sizeMorris ItalAustin Montego
+PrincessAustin AmbassadorRover 600Rover 75 / MG ZTMG 7
+ExecutiveRover SD1Rover 800 (XX)Rover 800 (R17)
+CoupéRover 200 Coupé
+Sports carTriumph TR7MG RV8MG FMG TFMG TF
+MG SV
+Off-road and SUVLand Rover SIIILand Rover 90/110Land Rover DefenderLand Rover was acquired by Ford in 2000, now owned by Tata
+Range Rover
+Land Rover Discovery
+Land Rover Freelander
+Categories: 1960s automobiles1970s automobiles1980s automobiles1990s automobiles2000s automobilesBMC vehiclesBritish Leyland vehiclesEconomy of OxfordFront-wheel-drive vehiclesIssigonis vehiclesMini vehiclesRally carsTouring carsCars introduced in 1959Automobiles powered by transverse 4-cylinder enginesCity carsHidden categories: CS1 maint: Extra text: authors listWebarchive template wayback linksUse British English from June 2011All articles with unsourced statementsArticles with unsourced statements from March 2012Articles with unsourced statements from May 2011Articles with unsourced statements from December 2017Interlanguage link template link numberArticles with Curlie linksUse dmy dates from October 2012
